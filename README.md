@@ -48,14 +48,23 @@ So the plugin polls a small rolling file instead:
 
 - `data/current.json` (~750 bytes) holds a timestamp plus a **three-day window**
   of entries — yesterday, today and tomorrow in UTC.
-- A workflow regenerates it **hourly**, so the payload always differs and TRMNL
-  re-renders, re-evaluating the date each time.
+- A workflow regenerates it **every 15 minutes** with a minute-precision
+  timestamp, so every run produces a distinct payload.
 - The templates are unchanged: they still look up `days["MM-DD"]` using the
   *viewer's* local date via `trmnl.user.utc_offset`. A ±1 day window covers
   every timezone from UTC-12 to UTC+14, so the plugin stays correct worldwide.
 
-The screen therefore corrects itself within about an hour of local midnight.
-Keeping the rolling file tiny also keeps the hourly commits small.
+### Cadence
+
+Because the payload changes every 15 minutes and devices poll on their own
+schedule (5–15 minutes), a device re-renders on essentially **every** check —
+so it picks up the new local date within minutes of midnight, not hours.
+
+Hourly was the obvious first choice and is **not** sufficient: local midnight
+falls on a *half-hour* UTC boundary in some timezones (India, parts of
+Australia), which would leave those viewers on yesterday's fact until roughly
+00:50 local. GitHub also delays scheduled runs under load, which eats any
+thinner margin. Fifteen minutes leaves room for both.
 
 ## Setup
 
