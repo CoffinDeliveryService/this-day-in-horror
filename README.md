@@ -5,9 +5,11 @@ year — film releases, deaths/births of horror icons, publications, and dark
 trivia — with a matching poster or portrait, auto-dithered for the e-ink screen.
 
 There is no live "today in horror history" API, so this repo takes the
-pre-built approach: a **366-day JSON dataset** that the plugin polls once a
-day. The Liquid template picks today's entry itself using the device owner's
-timezone, so the JSON never needs daily updates.
+pre-built approach: a **366-day JSON dataset**, from which a small rolling
+file is published hourly for the plugin to poll. The Liquid template picks the
+right entry using the device owner's timezone — see
+["Why current.json exists"](#why-currentjson-exists) for why the polled file
+has to keep changing.
 
 ## How the dataset is built
 
@@ -18,6 +20,10 @@ timezone, so the JSON never needs daily updates.
   **Wikidata** for the most notable horror film (by Wikipedia sitelink count)
   with an exact release date on that day, then fetches each entry's lead image
   (poster/portrait) from **Wikipedia** and bakes the URL in.
+- [data/current.json](data/current.json) — **this is the file the plugin polls.**
+  A GitHub Actions workflow ([refresh.yml](.github/workflows/refresh.yml)) runs
+  [scripts/make_current.py](scripts/make_current.py) hourly to regenerate it.
+  See "Why current.json exists" below.
 - Output: [data/days.json](data/days.json) — 366 entries, all with images, minified
   to ~86 KB. **TRMNL rejects polling responses over 100 KB**, so the build strips
   build-only fields and image query params; it prints a warning if the file grows
@@ -30,22 +36,41 @@ Rebuild any time with:
 python3 scripts/build.py
 ```
 
+## Why current.json exists
+
+TRMNL **skips re-rendering a screen when the polled response is unchanged** —
+the device logs show `Skipping: No change in data`. A completely static dataset
+is therefore rendered once and then frozen on that day forever, even though the
+template computes the date itself. That is not a caching quirk to wait out; the
+payload has to change for the screen to be redrawn at all.
+
+So the plugin polls a small rolling file instead:
+
+- `data/current.json` (~750 bytes) holds a timestamp plus a **three-day window**
+  of entries — yesterday, today and tomorrow in UTC.
+- A workflow regenerates it **hourly**, so the payload always differs and TRMNL
+  re-renders, re-evaluating the date each time.
+- The templates are unchanged: they still look up `days["MM-DD"]` using the
+  *viewer's* local date via `trmnl.user.utc_offset`. A ±1 day window covers
+  every timezone from UTC-12 to UTC+14, so the plugin stays correct worldwide.
+
+The screen therefore corrects itself within about an hour of local midnight.
+Keeping the rolling file tiny also keeps the hourly commits small.
+
 ## Setup
 
-### 1. Host `data/days.json` somewhere public
+### 1. Host the data publicly
 
-Easiest free option — push this folder to GitHub:
-
-```bash
-git add -A && git commit -m "This Day in Horror"
-```
+Push this folder to GitHub, and **enable Actions** on the repo so the hourly
+refresh workflow can run (it needs write access to commit `data/current.json`;
+the workflow already requests `permissions: contents: write`).
 
 This project lives at
 [github.com/CoffinDeliveryService/this-day-in-horror](https://github.com/CoffinDeliveryService/this-day-in-horror),
 and the polling URL is:
 
 ```
-https://raw.githubusercontent.com/CoffinDeliveryService/this-day-in-horror/main/data/days.json
+https://raw.githubusercontent.com/CoffinDeliveryService/this-day-in-horror/main/data/current.json
 ```
 
 ### 2. Create the private plugin on TRMNL
@@ -53,7 +78,9 @@ https://raw.githubusercontent.com/CoffinDeliveryService/this-day-in-horror/main/
 1. usetrmnl.com → **Plugins → Private Plugin → Add New**
 2. Name: `This Day in Horror`
 3. Strategy: **Polling**, Polling URL: the raw URL above
-4. Refresh rate: daily (the fact only changes at midnight)
+4. Max refresh rate: **every 15 mins** — the fact only changes at midnight, but
+   the device must poll often enough to notice the hourly payload change soon
+   after your local midnight
 5. **Edit Markup** and paste each file from [src/](src/) into the matching
    layout tab: `full.liquid`, `half_horizontal.liquid`, `half_vertical.liquid`,
    `quadrant.liquid`
