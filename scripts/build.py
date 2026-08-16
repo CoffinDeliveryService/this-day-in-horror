@@ -203,9 +203,19 @@ def main():
         "generated": time.strftime("%Y-%m-%d"),
         "days": {k: days[k] for k in sorted(days)},
     }
+    # rich copy for maintenance (keeps wiki/source fields)
+    full_path = ROOT / "data" / "days.full.json"
+    full_path.write_text(json.dumps(out, ensure_ascii=False, indent=1))
+
+    # lean copy for TRMNL — polling responses must stay under 100 KB
+    for e in out["days"].values():
+        e["image"] = e["image"].split("?")[0]
+        e.pop("wiki", None)
+        e.pop("source", None)
     out_path = ROOT / "data" / "days.json"
-    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=1))
-    print(f"wrote {out_path} ({out_path.stat().st_size // 1024} KB)")
+    out_path.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
+    size = out_path.stat().st_size
+    print(f"wrote {out_path} ({size // 1024} KB)" + ("  WARNING: exceeds TRMNL 100KB polling limit!" if size > 100_000 else ""))
 
 
 if __name__ == "__main__":
