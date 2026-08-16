@@ -1,0 +1,9 @@
+# TRMNL private plugin settings (trmnlp format)
+# Replace polling_url with your hosted copy of data/days.json
+---
+name: This Day in Horror
+refresh_interval: 1440
+strategy: polling
+polling_verb: get
+polling_url: https://raw.githubusercontent.com/CoffinDeliveryService/this-day-in-horror/main/data/days.json
+dark_mode: "no"

@@ -1,0 +1,13 @@
+{% assign local_ts = "now" | date: "%s" | plus: trmnl.user.utc_offset %}
+{% assign mmdd = local_ts | date: "%m-%d" %}
+{% assign entry = days[mmdd] %}
+
+{% if entry %}
+<div class="layout layout--col" style="gap: 6px; padding: 0 8px;">
+  <span class="label label--small">THIS DAY IN HORROR &bull; {{ entry.year }}</span>
+  <span class="value value--large">{{ entry.title }}</span>
+  <p class="description" style="font-size: 13px; line-height: 1.3;">{{ entry.fact | truncate: 110 }}</p>
+</div>
+{% else %}
+<div class="layout"><span class="value">&hellip;</span></div>
+{% endif %}

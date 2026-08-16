@@ -1,0 +1,25 @@
+{% assign local_ts = "now" | date: "%s" | plus: trmnl.user.utc_offset %}
+{% assign mmdd = local_ts | date: "%m-%d" %}
+{% assign nice_date = local_ts | date: "%b %-d" %}
+{% assign entry = days[mmdd] %}
+
+{% if entry %}
+<div class="layout layout--row" style="align-items: center; gap: 16px; padding: 0 8px;">
+  <div style="flex: 0 0 20%; display: flex; justify-content: center;">
+    <img class="image image-dither" src="{{ entry.image }}" style="max-width: 100%; max-height: 140px; object-fit: contain;" />
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
+    <span class="label label--small">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
+    <span class="value value--large">{{ entry.title }}</span>
+    <p class="description" style="font-size: 14px; line-height: 1.3;">{{ entry.fact | truncate: 120 }}</p>
+  </div>
+</div>
+{% else %}
+<div class="layout"><span class="value">The archive is silent today&hellip;</span></div>
+{% endif %}
+
+<div class="title_bar">
+  <img class="image" src="https://usetrmnl.com/images/plugins/trmnl--render.svg" />
+  <span class="title">This Day in Horror</span>
+  <span class="instance">{{ nice_date }}</span>
+</div>
