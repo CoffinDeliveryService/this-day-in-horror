@@ -1,0 +1,3299 @@
+{
+ "generated": "2026-08-15",
+ "days": {
+  "01-01": {
+   "year": 1818,
+   "category": "publication",
+   "title": "Frankenstein",
+   "fact": "Mary Shelley's Frankenstein was published anonymously in London on New Year's Day 1818 — the book that invented modern horror.",
+   "wiki": "Frankenstein",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christie%27s_auction_scan_of_Frankenstein_1818.jpg/500px-Christie%27s_auction_scan_of_Frankenstein_1818.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "01-02": {
+   "year": 2004,
+   "category": "release",
+   "title": "The Card Player",
+   "fact": "The Card Player first hit screens on this day in 2004.",
+   "wiki": "The Card Player",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/85/Ilcartaio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-03": {
+   "year": 2002,
+   "category": "release",
+   "title": "Jeepers Creepers",
+   "fact": "Jeepers Creepers first hit screens on this day in 2002.",
+   "wiki": "Jeepers Creepers (2001 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Jeepers_Creepers_%282001_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-04": {
+   "year": 2018,
+   "category": "release",
+   "title": "Insidious: The Last Key",
+   "fact": "Insidious: The Last Key first hit screens on this day in 2018.",
+   "wiki": "Insidious: The Last Key",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/34/InsidiousTheLastKey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-05": {
+   "year": 2013,
+   "category": "release",
+   "title": "The Day",
+   "fact": "The Day first hit screens on this day in 2013.",
+   "wiki": "The Day (2011 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/The_Day_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-06": {
+   "year": 2012,
+   "category": "release",
+   "title": "The Devil Inside",
+   "fact": "The Devil Inside first hit screens on this day in 2012.",
+   "wiki": "The Devil Inside (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Dvinside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-07": {
+   "year": 2005,
+   "category": "release",
+   "title": "White Noise",
+   "fact": "White Noise first hit screens on this day in 2005.",
+   "wiki": "White Noise (2005 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/White_Noise_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-08": {
+   "year": 2013,
+   "category": "release",
+   "title": "Mama",
+   "fact": "Mama first hit screens on this day in 2013.",
+   "wiki": "Mama (2013 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/11/Mama_2012_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-09": {
+   "year": 2020,
+   "category": "release",
+   "title": "Underwater",
+   "fact": "Underwater first hit screens on this day in 2020.",
+   "wiki": "Underwater (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Underwater_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-10": {
+   "year": 2019,
+   "category": "release",
+   "title": "Hellboy",
+   "fact": "Hellboy first hit screens on this day in 2019.",
+   "wiki": "Hellboy (2019 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Hellboy_%282019%29_theatrical_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-11": {
+   "year": 1960,
+   "category": "release",
+   "title": "Eyes Without a Face",
+   "fact": "Eyes Without a Face first hit screens on this day in 1960.",
+   "wiki": "Eyes Without a Face (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Eyeswithoutaface_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-12": {
+   "year": 2006,
+   "category": "release",
+   "title": "The Fog",
+   "fact": "The Fog first hit screens on this day in 2006.",
+   "wiki": "The Fog (2005 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/62/The_Fog_2005_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-13": {
+   "year": 1939,
+   "category": "release",
+   "title": "Son of Frankenstein",
+   "fact": "Son of Frankenstein first hit screens on this day in 1939.",
+   "wiki": "Son of Frankenstein",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Son_of_Frankenstein_-_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-14": {
+   "year": 2026,
+   "category": "release",
+   "title": "28 Years Later: The Bone Temple",
+   "fact": "28 Years Later: The Bone Temple first hit screens on this day in 2026.",
+   "wiki": "28 Years Later: The Bone Temple",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/28_Years_Later%2C_The_Bone_Temple_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-15": {
+   "year": 2007,
+   "category": "release",
+   "title": "Ghost Rider",
+   "fact": "Ghost Rider first hit screens on this day in 2007.",
+   "wiki": "Ghost Rider (2007 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/71/GhostRiderBigPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-16": {
+   "year": 1998,
+   "category": "release",
+   "title": "Fallen",
+   "fact": "Fallen first hit screens on this day in 1998.",
+   "wiki": "Fallen (1998 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Fallen_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-17": {
+   "year": 1996,
+   "category": "release",
+   "title": "From Dusk till Dawn",
+   "fact": "From Dusk till Dawn first hit screens on this day in 1996.",
+   "wiki": "From Dusk till Dawn",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/From_dusk_till_dawn_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-18": {
+   "year": 2001,
+   "category": "release",
+   "title": "The Watcher",
+   "fact": "The Watcher first hit screens on this day in 2001.",
+   "wiki": "The Watcher (2000 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/14/The_Watcher_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-19": {
+   "year": 1809,
+   "category": "birth",
+   "title": "Edgar Allan Poe",
+   "fact": "Edgar Allan Poe, master of the macabre, was born in Boston in 1809.",
+   "wiki": "Edgar Allan Poe",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "01-20": {
+   "year": 2006,
+   "category": "release",
+   "title": "Underworld: Evolution",
+   "fact": "Underworld: Evolution first hit screens on this day in 2006.",
+   "wiki": "Underworld: Evolution",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Underworld2evolution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-21": {
+   "year": 2016,
+   "category": "release",
+   "title": "Pride and Prejudice and Zombies",
+   "fact": "Pride and Prejudice and Zombies first hit screens on this day in 2016.",
+   "wiki": "Pride and Prejudice and Zombies (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Pride_and_Prejudice_and_Zombies_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-22": {
+   "year": 1998,
+   "category": "release",
+   "title": "The Devil's Advocate",
+   "fact": "The Devil's Advocate first hit screens on this day in 1998.",
+   "wiki": "The Devil's Advocate (1997 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/Devilsadvocate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-23": {
+   "year": 2015,
+   "category": "release",
+   "title": "Knock Knock",
+   "fact": "Knock Knock first hit screens on this day in 2015.",
+   "wiki": "Knock Knock (2015 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Knock_Knock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-24": {
+   "year": 2020,
+   "category": "release",
+   "title": "Run",
+   "fact": "Run first hit screens on this day in 2020.",
+   "wiki": "Run (2020 American film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Run_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-25": {
+   "year": 1999,
+   "category": "trivia",
+   "title": "The Blair Witch Project",
+   "fact": "The Blair Witch Project premiered at a midnight Sundance screening in 1999, igniting the found-footage boom.",
+   "wiki": "The Blair Witch Project",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Blair_Witch_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-26": {
+   "year": 2022,
+   "category": "release",
+   "title": "Morbius",
+   "fact": "Morbius first hit screens on this day in 2022.",
+   "wiki": "Morbius (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Morbius_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-27": {
+   "year": 2011,
+   "category": "release",
+   "title": "Quarantine 2: Terminal",
+   "fact": "Quarantine 2: Terminal first hit screens on this day in 2011.",
+   "wiki": "Quarantine 2: Terminal",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Quarantine2Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-28": {
+   "year": 2016,
+   "category": "release",
+   "title": "The Boy",
+   "fact": "The Boy first hit screens on this day in 2016.",
+   "wiki": "The Boy (2016 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/TheBoy_2016-OfficialPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-29": {
+   "year": 1845,
+   "category": "publication",
+   "title": "The Raven",
+   "fact": "Poe's 'The Raven' first appeared in print in 1845 and made its author famous almost overnight.",
+   "wiki": "The Raven",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Raven_Manet_C2.jpg/500px-Raven_Manet_C2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "01-30": {
+   "year": 2003,
+   "category": "release",
+   "title": "Final Destination 2",
+   "fact": "Final Destination 2 first hit screens on this day in 2003.",
+   "wiki": "Final Destination 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/Final_destination_two.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "01-31": {
+   "year": 1998,
+   "category": "release",
+   "title": "Ring",
+   "fact": "Ring first hit screens on this day in 1998.",
+   "wiki": "Ring (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Ringu_%281998%29_Japanese_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-01": {
+   "year": 1851,
+   "category": "death",
+   "title": "Mary Shelley",
+   "fact": "Mary Shelley, who dreamed up Frankenstein at age 18, died on this day in 1851.",
+   "wiki": "Mary Shelley",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mary_Wollstonecraft_Shelley_Rothwell.tif/lossy-page1-500px-Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "02-02": {
+   "year": 1969,
+   "category": "death",
+   "title": "Boris Karloff",
+   "fact": "Boris Karloff, the screen's definitive Frankenstein monster, died on this day in 1969.",
+   "wiki": "Boris Karloff",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boris_Karloff.jpg/500px-Boris_Karloff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "02-03": {
+   "year": 1978,
+   "category": "release",
+   "title": "Eraserhead",
+   "fact": "Eraserhead first hit screens on this day in 1978.",
+   "wiki": "Eraserhead",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eraserhead_-_Filmex_%2777_poster.jpg/500px-Eraserhead_-_Filmex_%2777_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "02-04": {
+   "year": 1983,
+   "category": "release",
+   "title": "Videodrome",
+   "fact": "Videodrome first hit screens on this day in 1983.",
+   "wiki": "Videodrome",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Videodromeposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-05": {
+   "year": 1956,
+   "category": "release",
+   "title": "Invasion of the Body Snatchers",
+   "fact": "Cold War paranoia classic Invasion of the Body Snatchers first crept into theaters in 1956.",
+   "wiki": "Invasion of the Body Snatchers (1956 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg/500px-Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "02-06": {
+   "year": 2009,
+   "category": "release",
+   "title": "Coraline",
+   "fact": "Coraline first hit screens on this day in 2009.",
+   "wiki": "Coraline (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Coraline_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-07": {
+   "year": 2005,
+   "category": "release",
+   "title": "Constantine",
+   "fact": "Constantine first hit screens on this day in 2005.",
+   "wiki": "Constantine (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/2b/Constantine_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-08": {
+   "year": 1990,
+   "category": "release",
+   "title": "A Nightmare on Elm Street 5: The Dream Child",
+   "fact": "A Nightmare on Elm Street 5: The Dream Child first hit screens on this day in 1990.",
+   "wiki": "A Nightmare on Elm Street 5: The Dream Child",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/A_Nightmare_on_Elm_Street_5_-_The_Dream_Child_-US_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-09": {
+   "year": 2001,
+   "category": "release",
+   "title": "Hannibal",
+   "fact": "Hannibal first hit screens on this day in 2001.",
+   "wiki": "Hannibal (2001 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Hannibal_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-10": {
+   "year": 1984,
+   "category": "release",
+   "title": "The Evil Dead",
+   "fact": "The Evil Dead first hit screens on this day in 1984.",
+   "wiki": "The Evil Dead",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/7d/Evil_dead_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-11": {
+   "year": 2010,
+   "category": "release",
+   "title": "The Wolfman",
+   "fact": "The Wolfman first hit screens on this day in 2010.",
+   "wiki": "The Wolfman (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Wolfman-final-small.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-12": {
+   "year": 1971,
+   "category": "release",
+   "title": "The Cat o' Nine Tails",
+   "fact": "The Cat o' Nine Tails first hit screens on this day in 1971.",
+   "wiki": "The Cat o' Nine Tails",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Il-gatto-a-nove-code-italian-movie-poster-md.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-13": {
+   "year": 2010,
+   "category": "release",
+   "title": "Shutter Island",
+   "fact": "Shutter Island first hit screens on this day in 2010.",
+   "wiki": "Shutter Island (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-14": {
+   "year": 1931,
+   "category": "release",
+   "title": "Dracula",
+   "fact": "Universal released Dracula on Valentine's Day 1931 as 'the strangest love story of all' — and 60 years later to the day, The Silence of the Lambs opened in 1991.",
+   "wiki": "Dracula (1931 English-language film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dracula_%281931_film_poster_-_Style_F%29.jpg/500px-Dracula_%281931_film_poster_-_Style_F%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "02-15": {
+   "year": 2023,
+   "category": "release",
+   "title": "Winnie-the-Pooh: Blood and Honey",
+   "fact": "Winnie-the-Pooh: Blood and Honey first hit screens on this day in 2023.",
+   "wiki": "Winnie-the-Pooh: Blood and Honey",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Winnie_the_Pooh%2C_Blood_and_Honey_Film_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-16": {
+   "year": 2017,
+   "category": "release",
+   "title": "A Cure for Wellness",
+   "fact": "A Cure for Wellness first hit screens on this day in 2017.",
+   "wiki": "A Cure for Wellness",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/df/CureforWellnessOfficialPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-17": {
+   "year": 2012,
+   "category": "release",
+   "title": "Ghost Rider: Spirit of Vengeance",
+   "fact": "Ghost Rider: Spirit of Vengeance first hit screens on this day in 2012.",
+   "wiki": "Ghost Rider: Spirit of Vengeance",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Ghost_Rider_2_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-18": {
+   "year": 2000,
+   "category": "release",
+   "title": "Pitch Black",
+   "fact": "Pitch Black first hit screens on this day in 2000.",
+   "wiki": "Pitch Black (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Pitch_Black_poster.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-19": {
+   "year": 2016,
+   "category": "release",
+   "title": "The Witch",
+   "fact": "The Witch first hit screens on this day in 2016.",
+   "wiki": "The Witch (2015 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Witch_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-20": {
+   "year": 2020,
+   "category": "release",
+   "title": "Brahms: The Boy II",
+   "fact": "Brahms: The Boy II first hit screens on this day in 2020.",
+   "wiki": "Brahms: The Boy II",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Brahms_The_Boy_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-21": {
+   "year": 1986,
+   "category": "release",
+   "title": "The Hitcher",
+   "fact": "The Hitcher first hit screens on this day in 1986.",
+   "wiki": "The Hitcher (1986 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Hitchermovieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-22": {
+   "year": 1957,
+   "category": "release",
+   "title": "The Incredible Shrinking Man",
+   "fact": "The Incredible Shrinking Man first hit screens on this day in 1957.",
+   "wiki": "The Incredible Shrinking Man",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/IncredibleShrinkingMan-poster.jpg/500px-IncredibleShrinkingMan-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "02-23": {
+   "year": 2018,
+   "category": "release",
+   "title": "Annihilation",
+   "fact": "Annihilation first hit screens on this day in 2018.",
+   "wiki": "Annihilation (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Annihilation_%28film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-24": {
+   "year": 2017,
+   "category": "release",
+   "title": "Get Out",
+   "fact": "Jordan Peele's Get Out opened in 2017, redefining social horror and winning Peele an Oscar for the screenplay.",
+   "wiki": "Get Out",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-25": {
+   "year": 2026,
+   "category": "release",
+   "title": "Scream 7",
+   "fact": "Scream 7 first hit screens on this day in 2026.",
+   "wiki": "Scream 7",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Scream_7_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-26": {
+   "year": 1999,
+   "category": "release",
+   "title": "I Still Know What You Did Last Summer",
+   "fact": "I Still Know What You Did Last Summer first hit screens on this day in 1999.",
+   "wiki": "I Still Know What You Did Last Summer",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/43/I_Still_Know_What_You_Did_Last_Summer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-27": {
+   "year": 1920,
+   "category": "release",
+   "title": "The Cabinet of Dr. Caligari",
+   "fact": "The Cabinet of Dr. Caligari first hit screens on this day in 1920.",
+   "wiki": "The Cabinet of Dr. Caligari",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Das_Cabinet_des_Dr._Caligari.JPG/500px-Das_Cabinet_des_Dr._Caligari.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "02-28": {
+   "year": 2002,
+   "category": "release",
+   "title": "From Hell",
+   "fact": "From Hell first hit screens on this day in 2002.",
+   "wiki": "From Hell (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/66/From_Hell_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "02-29": {
+   "year": 1692,
+   "category": "trivia",
+   "title": "The Salem Witch Trials",
+   "fact": "On leap day 1692, arrest warrants were issued for the first three women accused of witchcraft in Salem.",
+   "wiki": "Salem witch trials",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/500px-Salem_witch2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "03-01": {
+   "year": 1692,
+   "category": "trivia",
+   "title": "The Salem Witch Trials",
+   "fact": "The first Salem witch examinations began on this day in 1692, when Tituba's confession set off a deadly panic.",
+   "wiki": "Salem witch trials",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/500px-Salem_witch2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "03-02": {
+   "year": 1933,
+   "category": "release",
+   "title": "King Kong",
+   "fact": "King Kong premiered at Radio City Music Hall in 1933, terrifying audiences with the eighth wonder of the world.",
+   "wiki": "King Kong (1933 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kingkongposter.jpg/500px-Kingkongposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "03-03": {
+   "year": 1959,
+   "category": "release",
+   "title": "The Giant Behemoth",
+   "fact": "The Giant Behemoth first hit screens on this day in 1959.",
+   "wiki": "The Giant Behemoth",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Giant_Behemoth.jpg/500px-The_Giant_Behemoth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "03-04": {
+   "year": 1922,
+   "category": "release",
+   "title": "Nosferatu",
+   "fact": "F.W. Murnau's Nosferatu premiered in Berlin in 1922. A court later ordered every print destroyed as a Dracula rip-off — one survived.",
+   "wiki": "Nosferatu",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg/500px-Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "03-05": {
+   "year": 1954,
+   "category": "release",
+   "title": "Creature from the Black Lagoon",
+   "fact": "Creature from the Black Lagoon first hit screens on this day in 1954.",
+   "wiki": "Creature from the Black Lagoon",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Creature_from_the_Black_Lagoon_poster.jpg/500px-Creature_from_the_Black_Lagoon_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "03-06": {
+   "year": 1987,
+   "category": "release",
+   "title": "Angel Heart",
+   "fact": "Angel Heart first hit screens on this day in 1987.",
+   "wiki": "Angel Heart",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Angel_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-07": {
+   "year": 2025,
+   "category": "release",
+   "title": "Sinners",
+   "fact": "Sinners first hit screens on this day in 2025.",
+   "wiki": "Sinners (2025 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Sinners_%282025_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-08": {
+   "year": 2016,
+   "category": "release",
+   "title": "10 Cloverfield Lane",
+   "fact": "10 Cloverfield Lane first hit screens on this day in 2016.",
+   "wiki": "10 Cloverfield Lane",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/10_Cloverfield_Lane.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-09": {
+   "year": 1984,
+   "category": "release",
+   "title": "Children of the Corn",
+   "fact": "Children of the Corn first hit screens on this day in 1984.",
+   "wiki": "Children of the Corn (1984 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/57/ChildrenoftheCornPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-10": {
+   "year": 2006,
+   "category": "release",
+   "title": "The Hills Have Eyes",
+   "fact": "The Hills Have Eyes first hit screens on this day in 2006.",
+   "wiki": "The Hills Have Eyes (2006 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/08/The_Hills_Have_Eyes_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-11": {
+   "year": 2012,
+   "category": "release",
+   "title": "Sinister",
+   "fact": "Sinister first hit screens on this day in 2012.",
+   "wiki": "Sinister (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/SinisterMoviePoster2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-12": {
+   "year": 2002,
+   "category": "release",
+   "title": "Blade II",
+   "fact": "Blade II first hit screens on this day in 2002.",
+   "wiki": "Blade II",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Blade_II_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-13": {
+   "year": 2015,
+   "category": "release",
+   "title": "It Follows",
+   "fact": "It Follows opened in 2015, turning a slow walk into one of the decade's most dreaded images.",
+   "wiki": "It Follows",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/It_Follows_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-14": {
+   "year": 2022,
+   "category": "release",
+   "title": "Bodies Bodies Bodies",
+   "fact": "Bodies Bodies Bodies first hit screens on this day in 2022.",
+   "wiki": "Bodies Bodies Bodies",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/Bodies_Bodies_Bodies_%28poster%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-15": {
+   "year": 1937,
+   "category": "death",
+   "title": "H.P. Lovecraft",
+   "fact": "H.P. Lovecraft died poor and obscure in Providence in 1937, decades before his cosmic horror conquered pop culture.",
+   "wiki": "H. P. Lovecraft",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/H._P._Lovecraft%2C_June_1934.jpg/500px-H._P._Lovecraft%2C_June_1934.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "03-16": {
+   "year": 2007,
+   "category": "release",
+   "title": "Dead Silence",
+   "fact": "Dead Silence first hit screens on this day in 2007.",
+   "wiki": "Dead Silence",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Dead_silence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-17": {
+   "year": 2000,
+   "category": "release",
+   "title": "Final Destination",
+   "fact": "Final Destination first hit screens on this day in 2000.",
+   "wiki": "Final Destination (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Final_Destination_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-18": {
+   "year": 2022,
+   "category": "release",
+   "title": "X",
+   "fact": "X first hit screens on this day in 2022.",
+   "wiki": "X (2022 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/34/X_%282022_film%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-19": {
+   "year": 2004,
+   "category": "release",
+   "title": "Mindhunters",
+   "fact": "Mindhunters first hit screens on this day in 2004.",
+   "wiki": "Mindhunters",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Mindhunters_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-20": {
+   "year": 1981,
+   "category": "release",
+   "title": "The Final Conflict",
+   "fact": "The Final Conflict first hit screens on this day in 1981.",
+   "wiki": "The Final Conflict (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/cc/Omen_III_the_final_conflict.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-21": {
+   "year": 2002,
+   "category": "release",
+   "title": "Resident Evil",
+   "fact": "Resident Evil first hit screens on this day in 2002.",
+   "wiki": "Resident Evil (2002 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Resident_evil_ver4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-22": {
+   "year": 2019,
+   "category": "release",
+   "title": "Us",
+   "fact": "Jordan Peele's doppelgänger nightmare Us opened in 2019 to one of the biggest original-horror debuts ever.",
+   "wiki": "Us (2019 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Us_%282019%29_theatrical_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-23": {
+   "year": 2017,
+   "category": "release",
+   "title": "Life",
+   "fact": "Life first hit screens on this day in 2017.",
+   "wiki": "Life (2017 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Life_%282017_film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-24": {
+   "year": 1939,
+   "category": "release",
+   "title": "The Hound of the Baskervilles",
+   "fact": "The Hound of the Baskervilles first hit screens on this day in 1939.",
+   "wiki": "The Hound of the Baskervilles (1939 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Hound_of_the_Baskervilles_-_1939-_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-25": {
+   "year": 2010,
+   "category": "release",
+   "title": "The Phobos",
+   "fact": "The Phobos first hit screens on this day in 2010.",
+   "wiki": "The Phobos",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/29/The_Phobos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-26": {
+   "year": 1980,
+   "category": "release",
+   "title": "The Changeling",
+   "fact": "The Changeling first hit screens on this day in 1980.",
+   "wiki": "The Changeling (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Changeling_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-27": {
+   "year": 1997,
+   "category": "release",
+   "title": "The Addiction",
+   "fact": "The Addiction first hit screens on this day in 1997.",
+   "wiki": "The Addiction",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Addictionposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-28": {
+   "year": 1963,
+   "category": "release",
+   "title": "The Birds",
+   "fact": "Alfred Hitchcock's The Birds premiered in New York in 1963 — nature's revenge, with no musical score at all.",
+   "wiki": "The Birds (film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Birds_original_poster.jpg/500px-The_Birds_original_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "03-29": {
+   "year": 2007,
+   "category": "release",
+   "title": "The Hills Have Eyes 2",
+   "fact": "The Hills Have Eyes 2 first hit screens on this day in 2007.",
+   "wiki": "The Hills Have Eyes 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/41/HHE2DomTeaserPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-30": {
+   "year": 1992,
+   "category": "trivia",
+   "title": "The Silence of the Lambs",
+   "fact": "On Oscar night 1992, The Silence of the Lambs swept the 'Big Five' awards — still the only horror film to win Best Picture.",
+   "wiki": "The Silence of the Lambs (film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "03-31": {
+   "year": 2017,
+   "category": "release",
+   "title": "The Blackcoat's Daughter",
+   "fact": "The Blackcoat's Daughter first hit screens on this day in 2017.",
+   "wiki": "The Blackcoat's Daughter",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Blackcoat%27s_Daughter.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-01": {
+   "year": 1883,
+   "category": "birth",
+   "title": "Lon Chaney",
+   "fact": "Lon Chaney, the 'Man of a Thousand Faces' behind the Phantom of the Opera, was born in 1883.",
+   "wiki": "Lon Chaney",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lon_Chaney%2C_Sr._The_Miracle_Man.jpg/500px-Lon_Chaney%2C_Sr._The_Miracle_Man.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "04-02": {
+   "year": 2004,
+   "category": "release",
+   "title": "Hellboy",
+   "fact": "Hellboy first hit screens on this day in 2004.",
+   "wiki": "Hellboy (2004 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Hellboy_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-03": {
+   "year": 2024,
+   "category": "release",
+   "title": "The First Omen",
+   "fact": "The First Omen first hit screens on this day in 2024.",
+   "wiki": "The First Omen",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/70/The_First_Omen_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-04": {
+   "year": 2019,
+   "category": "release",
+   "title": "Pet Sematary",
+   "fact": "Pet Sematary first hit screens on this day in 2019.",
+   "wiki": "Pet Sematary (2019 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Pet_Sematary_%282019_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-05": {
+   "year": 2013,
+   "category": "release",
+   "title": "Evil Dead",
+   "fact": "Evil Dead first hit screens on this day in 2013.",
+   "wiki": "Evil Dead (2013 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/EvilDead2013Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-06": {
+   "year": 2018,
+   "category": "release",
+   "title": "A Quiet Place",
+   "fact": "A Quiet Place opened in 2018 and made entire theaters afraid to eat their popcorn.",
+   "wiki": "A Quiet Place",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-07": {
+   "year": 2005,
+   "category": "release",
+   "title": "The Amityville Horror",
+   "fact": "The Amityville Horror first hit screens on this day in 2005.",
+   "wiki": "The Amityville Horror (2005 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/The_Amityville_Horror_poster.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-08": {
+   "year": 1943,
+   "category": "release",
+   "title": "I Walked with a Zombie",
+   "fact": "I Walked with a Zombie first hit screens on this day in 1943.",
+   "wiki": "I Walked with a Zombie",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/I_Walked_With_a_Zombie_%281943_poster%29.jpeg/500px-I_Walked_With_a_Zombie_%281943_poster%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "04-09": {
+   "year": 1953,
+   "category": "release",
+   "title": "House of Wax",
+   "fact": "House of Wax first hit screens on this day in 1953.",
+   "wiki": "House of Wax (1953 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/House_of_Wax_%281953_film_poster%29.jpg/500px-House_of_Wax_%281953_film_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "04-10": {
+   "year": 2008,
+   "category": "release",
+   "title": "Prom Night",
+   "fact": "Prom Night first hit screens on this day in 2008.",
+   "wiki": "Prom Night (2008 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Prom_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-11": {
+   "year": 2011,
+   "category": "release",
+   "title": "Scream 4",
+   "fact": "Scream 4 first hit screens on this day in 2011.",
+   "wiki": "Scream 4",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Scream4Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-12": {
+   "year": 1985,
+   "category": "release",
+   "title": "Cat's Eye",
+   "fact": "Cat's Eye first hit screens on this day in 1985.",
+   "wiki": "Cat's Eye (1985 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Cat%27s_Eye_%28poster%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-13": {
+   "year": 2018,
+   "category": "release",
+   "title": "Truth or Dare",
+   "fact": "Truth or Dare first hit screens on this day in 2018.",
+   "wiki": "Truth or Dare (2018 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/TruthorDarePoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-14": {
+   "year": 1971,
+   "category": "release",
+   "title": "The Blood on Satan's Claw",
+   "fact": "The Blood on Satan's Claw first hit screens on this day in 1971.",
+   "wiki": "The Blood on Satan's Claw",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/99/BloodSatansClaw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-15": {
+   "year": 2016,
+   "category": "release",
+   "title": "Green Room",
+   "fact": "Green Room first hit screens on this day in 2016.",
+   "wiki": "Green Room (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/Green_Room_%28film%29_POSTER.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-16": {
+   "year": 2004,
+   "category": "release",
+   "title": "Krishna Cottage",
+   "fact": "Krishna Cottage first hit screens on this day in 2004.",
+   "wiki": "Krishna Cottage",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Krishna_Cottage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-17": {
+   "year": 1980,
+   "category": "release",
+   "title": "The Watcher in the Woods",
+   "fact": "The Watcher in the Woods first hit screens on this day in 1980.",
+   "wiki": "The Watcher in the Woods (1980 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/21/The_Watcher_in_the_Woods%2C_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-18": {
+   "year": 2014,
+   "category": "release",
+   "title": "A Haunted House 2",
+   "fact": "A Haunted House 2 first hit screens on this day in 2014.",
+   "wiki": "A Haunted House 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/A_Haunted_House_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-19": {
+   "year": 2007,
+   "category": "release",
+   "title": "The Reaping",
+   "fact": "The Reaping first hit screens on this day in 2007.",
+   "wiki": "The Reaping",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/TheReapingPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-20": {
+   "year": 1912,
+   "category": "death",
+   "title": "Bram Stoker",
+   "fact": "Bram Stoker, author of Dracula, died in London in 1912 — the same week the Titanic sank.",
+   "wiki": "Bram Stoker",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bram_Stoker_1906.jpg/500px-Bram_Stoker_1906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "04-21": {
+   "year": 2006,
+   "category": "release",
+   "title": "Silent Hill",
+   "fact": "Silent Hill first hit screens on this day in 2006.",
+   "wiki": "Silent Hill (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/2a/Silent_Hill_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-22": {
+   "year": 1995,
+   "category": "release",
+   "title": "301, 302",
+   "fact": "301, 302 first hit screens on this day in 1995.",
+   "wiki": "301, 302",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Korean_film-301.302-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-23": {
+   "year": 1993,
+   "category": "release",
+   "title": "The Dark Half",
+   "fact": "The Dark Half first hit screens on this day in 1993.",
+   "wiki": "The Dark Half (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fa/DarkHalfPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-24": {
+   "year": 1955,
+   "category": "release",
+   "title": "Godzilla Raids Again",
+   "fact": "Godzilla Raids Again first hit screens on this day in 1955.",
+   "wiki": "Godzilla Raids Again",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gojira_no_gyakushu_poster.jpg/500px-Gojira_no_gyakushu_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "04-25": {
+   "year": 2003,
+   "category": "release",
+   "title": "Identity",
+   "fact": "Identity first hit screens on this day in 2003.",
+   "wiki": "Identity (2003 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Identity_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-26": {
+   "year": 2007,
+   "category": "release",
+   "title": "28 Weeks Later",
+   "fact": "28 Weeks Later first hit screens on this day in 2007.",
+   "wiki": "28 Weeks Later",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/46/28_Weeks_Later_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-27": {
+   "year": 1956,
+   "category": "release",
+   "title": "Godzilla, King of the Monsters!",
+   "fact": "Godzilla, King of the Monsters! first hit screens on this day in 1956.",
+   "wiki": "Godzilla, King of the Monsters!",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Godzilla%2C_King_of_the_Monsters%21_%28U.S._release_poster%29.jpg/500px-Godzilla%2C_King_of_the_Monsters%21_%28U.S._release_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "04-28": {
+   "year": 1994,
+   "category": "release",
+   "title": "The Good Son",
+   "fact": "The Good Son first hit screens on this day in 1994.",
+   "wiki": "The Good Son (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/07/The_Good_Son_%28movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "04-29": {
+   "year": 1980,
+   "category": "death",
+   "title": "Alfred Hitchcock",
+   "fact": "Alfred Hitchcock, the Master of Suspense, died on this day in 1980.",
+   "wiki": "Alfred Hitchcock",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/500px-Hitchcock%2C_Alfred_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "04-30": {
+   "year": 1981,
+   "category": "release",
+   "title": "Friday the 13th Part 2",
+   "fact": "Friday the 13th Part 2 first hit screens on this day in 1981.",
+   "wiki": "Friday the 13th Part 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Friday_the_13th_part2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-01": {
+   "year": 1997,
+   "category": "release",
+   "title": "The Relic",
+   "fact": "The Relic first hit screens on this day in 1997.",
+   "wiki": "The Relic",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Relic_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-02": {
+   "year": 2013,
+   "category": "release",
+   "title": "The Purge",
+   "fact": "The Purge first hit screens on this day in 2013.",
+   "wiki": "The Purge (2013 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/94/The_Purge_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-03": {
+   "year": 2004,
+   "category": "release",
+   "title": "Van Helsing",
+   "fact": "Van Helsing first hit screens on this day in 2004.",
+   "wiki": "Van Helsing (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Van_Helsing_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-04": {
+   "year": 1999,
+   "category": "release",
+   "title": "The Mummy",
+   "fact": "The Mummy first hit screens on this day in 1999.",
+   "wiki": "The Mummy (1999 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-05": {
+   "year": 1988,
+   "category": "release",
+   "title": "Prince of Darkness",
+   "fact": "Prince of Darkness first hit screens on this day in 1988.",
+   "wiki": "Prince of Darkness (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Prince_of_darkness.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-06": {
+   "year": 2021,
+   "category": "release",
+   "title": "Doctor Strange in the Multiverse of Madness",
+   "fact": "Doctor Strange in the Multiverse of Madness first hit screens on this day in 2021.",
+   "wiki": "Doctor Strange in the Multiverse of Madness",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-07": {
+   "year": 2015,
+   "category": "release",
+   "title": "The Babadook",
+   "fact": "The Babadook first hit screens on this day in 2015.",
+   "wiki": "The Babadook",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/The-Babadook-Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-08": {
+   "year": 1981,
+   "category": "release",
+   "title": "The Burning",
+   "fact": "The Burning first hit screens on this day in 1981.",
+   "wiki": "The Burning (1981 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Theburningposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-09": {
+   "year": 1980,
+   "category": "release",
+   "title": "Friday the 13th",
+   "fact": "Friday the 13th opened in 1980, sending a generation of campers home from Crystal Lake early.",
+   "wiki": "Friday the 13th (1980 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Friday_the_13th_%281980%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-10": {
+   "year": 2007,
+   "category": "release",
+   "title": "The Invisible",
+   "fact": "The Invisible first hit screens on this day in 2007.",
+   "wiki": "The Invisible (2007 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Invisible_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-11": {
+   "year": 1936,
+   "category": "release",
+   "title": "Dracula's Daughter",
+   "fact": "Dracula's Daughter first hit screens on this day in 1936.",
+   "wiki": "Dracula's Daughter",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dracula%27s_Daughter_%281936_poster%29.jpg/500px-Dracula%27s_Daughter_%281936_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "05-12": {
+   "year": 2017,
+   "category": "release",
+   "title": "Alien: Covenant",
+   "fact": "Alien: Covenant first hit screens on this day in 2017.",
+   "wiki": "Alien: Covenant",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Alien_Covenant_Teaser_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-13": {
+   "year": 2016,
+   "category": "release",
+   "title": "Train to Busan",
+   "fact": "Train to Busan first hit screens on this day in 2016.",
+   "wiki": "Train to Busan",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/95/Train_to_Busan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-14": {
+   "year": 2020,
+   "category": "release",
+   "title": "Spiral",
+   "fact": "Spiral first hit screens on this day in 2020.",
+   "wiki": "Spiral (2021 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Spiral_Official_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-15": {
+   "year": 1981,
+   "category": "release",
+   "title": "The Beyond",
+   "fact": "The Beyond first hit screens on this day in 1981.",
+   "wiki": "The Beyond (1981 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/35/L%27aldil%C3%A0-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-16": {
+   "year": 1960,
+   "category": "release",
+   "title": "Peeping Tom",
+   "fact": "Peeping Tom first hit screens on this day in 1960.",
+   "wiki": "Peeping Tom (1960 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Peepingtomposter.jpg/500px-Peepingtomposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "05-17": {
+   "year": 2016,
+   "category": "release",
+   "title": "Personal Shopper",
+   "fact": "Personal Shopper first hit screens on this day in 2016.",
+   "wiki": "Personal Shopper",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Personal_Shopper_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-18": {
+   "year": 2009,
+   "category": "release",
+   "title": "Antichrist",
+   "fact": "Antichrist first hit screens on this day in 2009.",
+   "wiki": "Antichrist (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Larsvontrierantichristposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-19": {
+   "year": 2024,
+   "category": "release",
+   "title": "The Substance",
+   "fact": "The Substance first hit screens on this day in 2024.",
+   "wiki": "The Substance",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Substance_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-20": {
+   "year": 1999,
+   "category": "release",
+   "title": "Virus",
+   "fact": "Virus first hit screens on this day in 1999.",
+   "wiki": "Virus (1999 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Virus_%281999_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-21": {
+   "year": 2006,
+   "category": "release",
+   "title": "The Host",
+   "fact": "The Host first hit screens on this day in 2006.",
+   "wiki": "The Host (2006 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/55/The_Host_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-22": {
+   "year": 1992,
+   "category": "release",
+   "title": "Alien 3",
+   "fact": "Alien 3 first hit screens on this day in 1992.",
+   "wiki": "Alien 3",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Alien3_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-23": {
+   "year": 1980,
+   "category": "release",
+   "title": "The Shining",
+   "fact": "Stanley Kubrick's The Shining opened in 1980. Stephen King famously hated it; audiences never forgot it.",
+   "wiki": "The Shining (film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-24": {
+   "year": 1976,
+   "category": "release",
+   "title": "The Tenant",
+   "fact": "The Tenant first hit screens on this day in 1976.",
+   "wiki": "The Tenant (1976 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Locataire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-25": {
+   "year": 1979,
+   "category": "release",
+   "title": "Alien",
+   "fact": "Alien opened in American theaters in 1979: in space, no one can hear you scream.",
+   "wiki": "Alien (film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-26": {
+   "year": 1897,
+   "category": "publication",
+   "title": "Dracula",
+   "fact": "Bram Stoker's Dracula went on sale in London in 1897. Horror legend Peter Cushing was born on the same date in 1913.",
+   "wiki": "Dracula",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dracula-First-Edition-1897.jpg/500px-Dracula-First-Edition-1897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "05-27": {
+   "year": 1911,
+   "category": "birth",
+   "title": "Vincent Price & Christopher Lee",
+   "fact": "Horror royalty shares this birthday: Vincent Price (1911) and Christopher Lee (1922) were born exactly eleven years apart.",
+   "wiki": "Vincent Price",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vincent_Price_Riverboat_1959.jpg/500px-Vincent_Price_Riverboat_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "05-28": {
+   "year": 2009,
+   "category": "release",
+   "title": "The Uninvited",
+   "fact": "The Uninvited first hit screens on this day in 2009.",
+   "wiki": "The Uninvited (2009 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/60/The_Uninvited_%282009_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-29": {
+   "year": 2008,
+   "category": "release",
+   "title": "The Strangers",
+   "fact": "The Strangers first hit screens on this day in 2008.",
+   "wiki": "The Strangers (2008 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Strangersposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-30": {
+   "year": 2012,
+   "category": "release",
+   "title": "Prometheus",
+   "fact": "Prometheus first hit screens on this day in 2012.",
+   "wiki": "Prometheus (2012 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Prometheusposterfixed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "05-31": {
+   "year": 2023,
+   "category": "release",
+   "title": "The Boogeyman",
+   "fact": "The Boogeyman first hit screens on this day in 2023.",
+   "wiki": "The Boogeyman (2023 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Boogeyman_2023_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-01": {
+   "year": 2018,
+   "category": "release",
+   "title": "Upgrade",
+   "fact": "Upgrade first hit screens on this day in 2018.",
+   "wiki": "Upgrade (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/24/UpgradePoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-02": {
+   "year": 2013,
+   "category": "release",
+   "title": "World War Z",
+   "fact": "World War Z first hit screens on this day in 2013.",
+   "wiki": "World War Z (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/World_War_Z_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-03": {
+   "year": 1992,
+   "category": "release",
+   "title": "Twin Peaks: Fire Walk with Me",
+   "fact": "Twin Peaks: Fire Walk with Me first hit screens on this day in 1992.",
+   "wiki": "Twin Peaks: Fire Walk with Me",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Twin_Peaks_-_Fire_Walk_with_Me.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-04": {
+   "year": 1982,
+   "category": "release",
+   "title": "Poltergeist",
+   "fact": "Poltergeist opened in 1982 and made an entire generation distrust television static and clown dolls.",
+   "wiki": "Poltergeist (1982 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Poltergeist_%281982%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-05": {
+   "year": 2024,
+   "category": "release",
+   "title": "The Watchers",
+   "fact": "The Watchers first hit screens on this day in 2024.",
+   "wiki": "The Watchers (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_Watchers_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-06": {
+   "year": 1976,
+   "category": "release",
+   "title": "The Omen",
+   "fact": "The Omen opened on 6/6/76 — a marketing masterstroke for a film about the birth of the Antichrist.",
+   "wiki": "The Omen",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/Omen_ver4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-07": {
+   "year": 2015,
+   "category": "death",
+   "title": "Christopher Lee",
+   "fact": "Sir Christopher Lee, Hammer's Dracula across a half-century of screen villainy, died on this day in 2015.",
+   "wiki": "Christopher Lee",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Christopher_Lee_2009.jpg/500px-Christopher_Lee_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "06-08": {
+   "year": 2018,
+   "category": "release",
+   "title": "Hereditary",
+   "fact": "Ari Aster's Hereditary opened in 2018, giving A24 its biggest hit to date and audiences a new fear of clucking sounds.",
+   "wiki": "Hereditary (film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-09": {
+   "year": 2016,
+   "category": "release",
+   "title": "The Conjuring 2",
+   "fact": "The Conjuring 2 first hit screens on this day in 2016.",
+   "wiki": "The Conjuring 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/27/The_Conjuring_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-10": {
+   "year": 2011,
+   "category": "release",
+   "title": "Super 8",
+   "fact": "Super 8 first hit screens on this day in 2011.",
+   "wiki": "Super 8 (2011 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Super_8_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-11": {
+   "year": 1969,
+   "category": "release",
+   "title": "The Valley of Gwangi",
+   "fact": "The Valley of Gwangi first hit screens on this day in 1969.",
+   "wiki": "The Valley of Gwangi",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Valgwanpos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-12": {
+   "year": 1968,
+   "category": "release",
+   "title": "Rosemary's Baby",
+   "fact": "Rosemary's Baby opened in 1968, bringing the Devil into a Manhattan apartment building.",
+   "wiki": "Rosemary's Baby (film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/ef/Rosemarys_baby_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-13": {
+   "year": 1953,
+   "category": "release",
+   "title": "The Beast from 20,000 Fathoms",
+   "fact": "The Beast from 20,000 Fathoms first hit screens on this day in 1953.",
+   "wiki": "The Beast from 20,000 Fathoms",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/40/Beast_from_20%2C000_Fathoms_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-14": {
+   "year": 2021,
+   "category": "release",
+   "title": "Bestia",
+   "fact": "Bestia first hit screens on this day in 2021.",
+   "wiki": "Bestia (2021 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Bestia_-_Short_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-15": {
+   "year": 1989,
+   "category": "release",
+   "title": "Child's Play",
+   "fact": "Child's Play first hit screens on this day in 1989.",
+   "wiki": "Child's Play (1988 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Childs_Play.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-16": {
+   "year": 1960,
+   "category": "release",
+   "title": "Psycho",
+   "fact": "Psycho premiered in New York in 1960. Hitchcock barred theaters from admitting anyone after it began.",
+   "wiki": "Psycho (1960 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/500px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "06-17": {
+   "year": 1977,
+   "category": "release",
+   "title": "Exorcist II: The Heretic",
+   "fact": "Exorcist II: The Heretic first hit screens on this day in 1977.",
+   "wiki": "Exorcist II: The Heretic",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Exorcist2poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-18": {
+   "year": 2012,
+   "category": "release",
+   "title": "Abraham Lincoln: Vampire Hunter",
+   "fact": "Abraham Lincoln: Vampire Hunter first hit screens on this day in 2012.",
+   "wiki": "Abraham Lincoln: Vampire Hunter",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Abraham_Lincoln_-_Vampire_Hunter_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-19": {
+   "year": 2014,
+   "category": "release",
+   "title": "Wolf Creek 2",
+   "fact": "Wolf Creek 2 first hit screens on this day in 2014.",
+   "wiki": "Wolf Creek 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Wolf_Creek_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-20": {
+   "year": 1975,
+   "category": "release",
+   "title": "Jaws",
+   "fact": "Jaws opened in 1975, inventing the summer blockbuster and emptying beaches across America.",
+   "wiki": "Jaws (film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaws_movie_poster.jpg/500px-Jaws_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "06-21": {
+   "year": 2012,
+   "category": "release",
+   "title": "Chernobyl Diaries",
+   "fact": "Chernobyl Diaries first hit screens on this day in 2012.",
+   "wiki": "Chernobyl Diaries",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Chernobyl-Diaries-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-22": {
+   "year": 2007,
+   "category": "release",
+   "title": "1408",
+   "fact": "1408 first hit screens on this day in 2007.",
+   "wiki": "1408 (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/63/1408poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-23": {
+   "year": 1988,
+   "category": "release",
+   "title": "The Serpent and the Rainbow",
+   "fact": "The Serpent and the Rainbow first hit screens on this day in 1988.",
+   "wiki": "The Serpent and the Rainbow (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/28/The_Serpent_and_the_Rainbow_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-24": {
+   "year": 1977,
+   "category": "release",
+   "title": "The Rocky Horror Picture Show",
+   "fact": "The Rocky Horror Picture Show first hit screens on this day in 1977.",
+   "wiki": "The Rocky Horror Picture Show",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Original_Rocky_Horror_Picture_Show_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-25": {
+   "year": 1982,
+   "category": "release",
+   "title": "The Thing",
+   "fact": "John Carpenter's The Thing opened in 1982 — savaged by critics, ignored by audiences, and later canonized as a masterpiece.",
+   "wiki": "The Thing (1982 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/The_Thing_%281982_film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-26": {
+   "year": 1948,
+   "category": "publication",
+   "title": "The Lottery",
+   "fact": "Shirley Jackson's 'The Lottery' ran in The New Yorker in 1948 and drew the most hate mail in the magazine's history.",
+   "wiki": "Shirley Jackson",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Shirley_Jackson_1940s.png/500px-Shirley_Jackson_1940s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "06-27": {
+   "year": 1986,
+   "category": "release",
+   "title": "Psycho III",
+   "fact": "Psycho III first hit screens on this day in 1986.",
+   "wiki": "Psycho III",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Psycho_3_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-28": {
+   "year": 2008,
+   "category": "release",
+   "title": "Hellboy II: The Golden Army",
+   "fact": "Hellboy II: The Golden Army first hit screens on this day in 2008.",
+   "wiki": "Hellboy II: The Golden Army",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Hellboy_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-29": {
+   "year": 1995,
+   "category": "release",
+   "title": "The Mangler",
+   "fact": "The Mangler first hit screens on this day in 1995.",
+   "wiki": "The Mangler (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/Themangler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "06-30": {
+   "year": 1985,
+   "category": "release",
+   "title": "Day of the Dead",
+   "fact": "Day of the Dead first hit screens on this day in 1985.",
+   "wiki": "Day of the Dead (1985 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Day_of_the_Dead_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-01": {
+   "year": 1993,
+   "category": "release",
+   "title": "The Vanishing",
+   "fact": "The Vanishing first hit screens on this day in 1993.",
+   "wiki": "The Vanishing (1993 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Thevanishing1993poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-02": {
+   "year": 2021,
+   "category": "release",
+   "title": "Fear Street Part One: 1994",
+   "fact": "Fear Street Part One: 1994 first hit screens on this day in 2021.",
+   "wiki": "Fear Street Part One: 1994",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Fear_Street_Part_One_-_1994_%282021_film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-03": {
+   "year": 2019,
+   "category": "release",
+   "title": "Midsommar",
+   "fact": "Midsommar opened in 2019, proving horror can be just as terrifying in broad daylight.",
+   "wiki": "Midsommar",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/47/Midsommar_%282019_film_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-04": {
+   "year": 2018,
+   "category": "release",
+   "title": "The First Purge",
+   "fact": "The First Purge first hit screens on this day in 2018.",
+   "wiki": "The First Purge",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/91/The_First_Purge_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-05": {
+   "year": 2024,
+   "category": "release",
+   "title": "MaXXXine",
+   "fact": "MaXXXine first hit screens on this day in 2024.",
+   "wiki": "MaXXXine",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/06/MaXXXine_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-06": {
+   "year": 1968,
+   "category": "release",
+   "title": "The Green Slime",
+   "fact": "The Green Slime first hit screens on this day in 1968.",
+   "wiki": "The Green Slime",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/The_Green_Slime_%281968_movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-07": {
+   "year": 2000,
+   "category": "release",
+   "title": "Scary Movie",
+   "fact": "Scary Movie first hit screens on this day in 2000.",
+   "wiki": "Scary Movie",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Movie_poster_for_%22Scary_Movie%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-08": {
+   "year": 2010,
+   "category": "release",
+   "title": "Predators",
+   "fact": "Predators first hit screens on this day in 2010.",
+   "wiki": "Predators (2010 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Predators_54632_glg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-09": {
+   "year": 2026,
+   "category": "release",
+   "title": "Evil Dead Burn",
+   "fact": "Evil Dead Burn first hit screens on this day in 2026.",
+   "wiki": "Evil Dead Burn",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/Evil_Dead_Burn_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-10": {
+   "year": 1998,
+   "category": "release",
+   "title": "Pi",
+   "fact": "Pi first hit screens on this day in 1998.",
+   "wiki": "Pi (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Piposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-11": {
+   "year": 1991,
+   "category": "release",
+   "title": "Halloween 5: The Revenge of Michael Myers",
+   "fact": "Halloween 5: The Revenge of Michael Myers first hit screens on this day in 1991.",
+   "wiki": "Halloween 5: The Revenge of Michael Myers",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Halloween5poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-12": {
+   "year": 2019,
+   "category": "release",
+   "title": "Crawl",
+   "fact": "Crawl first hit screens on this day in 2019.",
+   "wiki": "Crawl (2019 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Crawl_%282019_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-13": {
+   "year": 2000,
+   "category": "release",
+   "title": "Cube",
+   "fact": "Cube first hit screens on this day in 2000.",
+   "wiki": "Cube (1997 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Cube_The_Movie_Poster_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-14": {
+   "year": 1999,
+   "category": "release",
+   "title": "The Blair Witch Project",
+   "fact": "The Blair Witch Project hit theaters in 1999 — made for around $60,000, it grossed nearly $250 million.",
+   "wiki": "The Blair Witch Project",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Blair_Witch_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-15": {
+   "year": 1983,
+   "category": "release",
+   "title": "Psycho II",
+   "fact": "Psycho II first hit screens on this day in 1983.",
+   "wiki": "Psycho II (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Psycho_ii.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-16": {
+   "year": 2017,
+   "category": "death",
+   "title": "George A. Romero",
+   "fact": "George A. Romero, father of the modern zombie film, died on this day in 2017.",
+   "wiki": "George A. Romero",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/George_Romero%2C_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg/500px-George_Romero%2C_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "07-17": {
+   "year": 2014,
+   "category": "release",
+   "title": "The Purge: Anarchy",
+   "fact": "The Purge: Anarchy first hit screens on this day in 2014.",
+   "wiki": "The Purge: Anarchy",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/29/The_Purge_%E2%80%93_Anarchy_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-18": {
+   "year": 1986,
+   "category": "release",
+   "title": "Aliens",
+   "fact": "Aliens first hit screens on this day in 1986.",
+   "wiki": "Aliens (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Aliens_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-19": {
+   "year": 2013,
+   "category": "release",
+   "title": "The Conjuring",
+   "fact": "The Conjuring opened in 2013, launching horror's biggest cinematic universe from a Rhode Island farmhouse.",
+   "wiki": "The Conjuring",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Conjuring_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-20": {
+   "year": 2014,
+   "category": "release",
+   "title": "Unfriended",
+   "fact": "Unfriended first hit screens on this day in 2014.",
+   "wiki": "Unfriended",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Unfriended_%282014%29_original_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-21": {
+   "year": 2006,
+   "category": "release",
+   "title": "Monster House",
+   "fact": "Monster House first hit screens on this day in 2006.",
+   "wiki": "Monster House (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Monster_House_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-22": {
+   "year": 2022,
+   "category": "release",
+   "title": "Nope",
+   "fact": "Nope first hit screens on this day in 2022.",
+   "wiki": "Nope (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/Nope_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-23": {
+   "year": 2021,
+   "category": "release",
+   "title": "Old",
+   "fact": "Old first hit screens on this day in 2021.",
+   "wiki": "Old (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Old_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-24": {
+   "year": 2008,
+   "category": "release",
+   "title": "The Mummy: Tomb of the Dragon Emperor",
+   "fact": "The Mummy: Tomb of the Dragon Emperor first hit screens on this day in 2008.",
+   "wiki": "The Mummy: Tomb of the Dragon Emperor",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Mummy_-_Tomb_of_the_Dragon_Emperor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-25": {
+   "year": 1980,
+   "category": "release",
+   "title": "Dressed to Kill",
+   "fact": "Dressed to Kill first hit screens on this day in 1980.",
+   "wiki": "Dressed to Kill (1980 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/11/Dressed_to_kill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-26": {
+   "year": 2004,
+   "category": "release",
+   "title": "The Village",
+   "fact": "The Village first hit screens on this day in 2004.",
+   "wiki": "The Village (2004 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/The_Village_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-27": {
+   "year": 2022,
+   "category": "release",
+   "title": "Orphan: First Kill",
+   "fact": "Orphan: First Kill first hit screens on this day in 2022.",
+   "wiki": "Orphan: First Kill",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b4/OrphanFirstKillPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-28": {
+   "year": 2016,
+   "category": "release",
+   "title": "Demon",
+   "fact": "Demon first hit screens on this day in 2016.",
+   "wiki": "Demon (2015 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Demon_2015_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-29": {
+   "year": 2002,
+   "category": "release",
+   "title": "Signs",
+   "fact": "Signs first hit screens on this day in 2002.",
+   "wiki": "Signs (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/08/The_Signs_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-30": {
+   "year": 1998,
+   "category": "release",
+   "title": "Species II",
+   "fact": "Species II first hit screens on this day in 1998.",
+   "wiki": "Species II",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Species2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "07-31": {
+   "year": 1992,
+   "category": "release",
+   "title": "Death Becomes Her",
+   "fact": "Death Becomes Her first hit screens on this day in 1992.",
+   "wiki": "Death Becomes Her",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Death_Becomes_Her_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-01": {
+   "year": 2024,
+   "category": "release",
+   "title": "Trap",
+   "fact": "Trap first hit screens on this day in 2024.",
+   "wiki": "Trap (2024 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Trap_2024_%28film_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-02": {
+   "year": 2001,
+   "category": "release",
+   "title": "The Others",
+   "fact": "The Others first hit screens on this day in 2001.",
+   "wiki": "The Others (2001 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/TheOthers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-03": {
+   "year": 2017,
+   "category": "release",
+   "title": "The Dark Tower",
+   "fact": "The Dark Tower first hit screens on this day in 2017.",
+   "wiki": "The Dark Tower (2017 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/49/The_Dark_Tower_teaser_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-04": {
+   "year": 2000,
+   "category": "release",
+   "title": "Hollow Man",
+   "fact": "Hollow Man first hit screens on this day in 2000.",
+   "wiki": "Hollow Man",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Poster_Hollow_Man.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-05": {
+   "year": 1960,
+   "category": "release",
+   "title": "The Little Shop of Horrors",
+   "fact": "The Little Shop of Horrors first hit screens on this day in 1960.",
+   "wiki": "The Little Shop of Horrors",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Little_Shop_of_Horrors_%281960%29_-_Half-Sheet_poster.webp/500px-The_Little_Shop_of_Horrors_%281960%29_-_Half-Sheet_poster.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "08-06": {
+   "year": 1999,
+   "category": "release",
+   "title": "The Sixth Sense",
+   "fact": "The Sixth Sense opened in 1999. Audiences kept its ending secret all summer.",
+   "wiki": "The Sixth Sense",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Sixth_Sense_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-07": {
+   "year": 2009,
+   "category": "release",
+   "title": "A Perfect Getaway",
+   "fact": "A Perfect Getaway first hit screens on this day in 2009.",
+   "wiki": "A Perfect Getaway",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Perfect_getaway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-08": {
+   "year": 1965,
+   "category": "death",
+   "title": "Shirley Jackson",
+   "fact": "Shirley Jackson, author of The Haunting of Hill House, died on this day in 1965.",
+   "wiki": "Shirley Jackson",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Shirley_Jackson_1940s.png/500px-Shirley_Jackson_1940s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "08-09": {
+   "year": 2018,
+   "category": "release",
+   "title": "The Meg",
+   "fact": "The Meg first hit screens on this day in 2018.",
+   "wiki": "The Meg",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/The_Meg_2018_film_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-10": {
+   "year": 2017,
+   "category": "release",
+   "title": "Annabelle: Creation",
+   "fact": "Annabelle: Creation first hit screens on this day in 2017.",
+   "wiki": "Annabelle: Creation",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Annabelle_Creation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-11": {
+   "year": 1994,
+   "category": "death",
+   "title": "Peter Cushing",
+   "fact": "Peter Cushing, Hammer Films' gentleman Van Helsing and Baron Frankenstein, died on this day in 1994.",
+   "wiki": "Peter Cushing",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Revenge_of_Frankenstein_%28trailer%29_-_Peter_Cushing_%28cropped%29.png/500px-Revenge_of_Frankenstein_%28trailer%29_-_Peter_Cushing_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "08-12": {
+   "year": 2011,
+   "category": "release",
+   "title": "Final Destination 5",
+   "fact": "Final Destination 5 first hit screens on this day in 2011.",
+   "wiki": "Final Destination 5",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/FD5_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-13": {
+   "year": 1899,
+   "category": "birth",
+   "title": "Alfred Hitchcock",
+   "fact": "Alfred Hitchcock, the Master of Suspense, was born in London in 1899.",
+   "wiki": "Alfred Hitchcock",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/500px-Hitchcock%2C_Alfred_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "08-14": {
+   "year": 2020,
+   "category": "release",
+   "title": "Malignant",
+   "fact": "Malignant first hit screens on this day in 2020.",
+   "wiki": "Malignant (2021 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/ee/Malignant2021poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-15": {
+   "year": 1986,
+   "category": "release",
+   "title": "The Fly",
+   "fact": "The Fly first hit screens on this day in 1986.",
+   "wiki": "The Fly (1986 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fly_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-16": {
+   "year": 1956,
+   "category": "death",
+   "title": "Bela Lugosi",
+   "fact": "Bela Lugosi died on this day in 1956 and was buried wearing his Dracula cape.",
+   "wiki": "Bela Lugosi",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lugosi_B%C3%A9la_fortepan_14652_%28cropped%29.jpg/500px-Lugosi_B%C3%A9la_fortepan_14652_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "08-17": {
+   "year": 2000,
+   "category": "release",
+   "title": "The Cell",
+   "fact": "The Cell first hit screens on this day in 2000.",
+   "wiki": "The Cell (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/Thecellposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-18": {
+   "year": 2004,
+   "category": "release",
+   "title": "Exorcist: The Beginning",
+   "fact": "Exorcist: The Beginning first hit screens on this day in 2004.",
+   "wiki": "Exorcist: The Beginning",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/81/Exorcist_the_Beginning_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-19": {
+   "year": 1998,
+   "category": "release",
+   "title": "Blade",
+   "fact": "Blade first hit screens on this day in 1998.",
+   "wiki": "Blade (1998 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Blade_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-20": {
+   "year": 1890,
+   "category": "birth",
+   "title": "H.P. Lovecraft",
+   "fact": "H.P. Lovecraft, architect of cosmic horror and the Cthulhu Mythos, was born in Providence in 1890.",
+   "wiki": "H. P. Lovecraft",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/H._P._Lovecraft%2C_June_1934.jpg/500px-H._P._Lovecraft%2C_June_1934.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "08-21": {
+   "year": 2019,
+   "category": "release",
+   "title": "Ready or Not",
+   "fact": "Ready or Not first hit screens on this day in 2019.",
+   "wiki": "Ready or Not (2019 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Ready_or_Not_2019_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-22": {
+   "year": 1986,
+   "category": "release",
+   "title": "The Texas Chainsaw Massacre 2",
+   "fact": "The Texas Chainsaw Massacre 2 first hit screens on this day in 1986.",
+   "wiki": "The Texas Chainsaw Massacre 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Texas_chainsaw_massacre_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-23": {
+   "year": 1996,
+   "category": "release",
+   "title": "The Island of Dr. Moreau",
+   "fact": "The Island of Dr. Moreau first hit screens on this day in 1996.",
+   "wiki": "The Island of Dr. Moreau (1996 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/The_Island_of_Dr._Moreau_1996_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-24": {
+   "year": 2001,
+   "category": "release",
+   "title": "Ghosts of Mars",
+   "fact": "Ghosts of Mars first hit screens on this day in 2001.",
+   "wiki": "Ghosts of Mars",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/John_Carpenter%27s_Ghosts_of_Mars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-25": {
+   "year": 1999,
+   "category": "release",
+   "title": "The Ninth Gate",
+   "fact": "The Ninth Gate first hit screens on this day in 1999.",
+   "wiki": "The Ninth Gate",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Ninth_gate_ver3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-26": {
+   "year": 1930,
+   "category": "death",
+   "title": "Lon Chaney & Tobe Hooper",
+   "fact": "A dark double anniversary: silent horror icon Lon Chaney (1930) and Texas Chain Saw Massacre director Tobe Hooper (2017) both died on this day.",
+   "wiki": "Lon Chaney",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lon_Chaney%2C_Sr._The_Miracle_Man.jpg/500px-Lon_Chaney%2C_Sr._The_Miracle_Man.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "08-27": {
+   "year": 2020,
+   "category": "release",
+   "title": "The New Mutants",
+   "fact": "The New Mutants first hit screens on this day in 2020.",
+   "wiki": "The New Mutants (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/1a/TheNewMutantsPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-28": {
+   "year": 1895,
+   "category": "release",
+   "title": "The Execution of Mary, Queen of Scots",
+   "fact": "The Execution of Mary, Queen of Scots first hit screens on this day in 1895.",
+   "wiki": "The Execution of Mary, Queen of Scots (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MaryExecution.jpg/500px-MaryExecution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "08-29": {
+   "year": 1974,
+   "category": "release",
+   "title": "Don't Look Now",
+   "fact": "Don't Look Now first hit screens on this day in 1974.",
+   "wiki": "Don't Look Now",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/Dont_look_movieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "08-30": {
+   "year": 2015,
+   "category": "death",
+   "title": "Wes Craven",
+   "fact": "Wes Craven, creator of Freddy Krueger and Scream, died in 2015 — on the birthday of Frankenstein author Mary Shelley (1797).",
+   "wiki": "Wes Craven",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wes_Craven_2010.jpg/500px-Wes_Craven_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "08-31": {
+   "year": 2006,
+   "category": "release",
+   "title": "Lady in the Water",
+   "fact": "Lady in the Water first hit screens on this day in 2006.",
+   "wiki": "Lady in the Water",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ladyinthewater_pos_gal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-01": {
+   "year": 2010,
+   "category": "release",
+   "title": "Black Swan",
+   "fact": "Black Swan first hit screens on this day in 2010.",
+   "wiki": "Black Swan (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Black_Swan_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-02": {
+   "year": 1978,
+   "category": "release",
+   "title": "Dawn of the Dead",
+   "fact": "Dawn of the Dead first hit screens on this day in 1978.",
+   "wiki": "Dawn of the Dead (1978 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/63/Dawn_of_the_dead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-03": {
+   "year": 1970,
+   "category": "release",
+   "title": "The Vampire Lovers",
+   "fact": "The Vampire Lovers first hit screens on this day in 1970.",
+   "wiki": "The Vampire Lovers",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Vampire_lovers231.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-04": {
+   "year": 2025,
+   "category": "release",
+   "title": "The Conjuring: Last Rites",
+   "fact": "The Conjuring: Last Rites first hit screens on this day in 2025.",
+   "wiki": "The Conjuring: Last Rites",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Conjuring_%E2%80%93_Last_Rites.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-05": {
+   "year": 2019,
+   "category": "release",
+   "title": "It Chapter Two",
+   "fact": "It Chapter Two first hit screens on this day in 2019.",
+   "wiki": "It Chapter Two",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/It_Chapter_Two_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-06": {
+   "year": 2018,
+   "category": "release",
+   "title": "The Nun",
+   "fact": "The Nun first hit screens on this day in 2018.",
+   "wiki": "The Nun (2018 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/34/TheNunPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-07": {
+   "year": 2006,
+   "category": "release",
+   "title": "Perfume: The Story of a Murderer",
+   "fact": "Perfume: The Story of a Murderer first hit screens on this day in 2006.",
+   "wiki": "Perfume: The Story of a Murderer (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Perfume_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-08": {
+   "year": 2017,
+   "category": "release",
+   "title": "It",
+   "fact": "It opened in 2017 and floated past every record to become the highest-grossing horror film of all time.",
+   "wiki": "It (2017 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-09": {
+   "year": 2015,
+   "category": "release",
+   "title": "The Visit",
+   "fact": "The Visit first hit screens on this day in 2015.",
+   "wiki": "The Visit (2015 American film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/The_Visit_%282015_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-10": {
+   "year": 2004,
+   "category": "release",
+   "title": "Resident Evil: Apocalypse",
+   "fact": "Resident Evil: Apocalypse first hit screens on this day in 2004.",
+   "wiki": "Resident Evil: Apocalypse",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Resident_evil_apocalypse_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-11": {
+   "year": 1992,
+   "category": "release",
+   "title": "Candyman",
+   "fact": "Candyman first hit screens on this day in 1992.",
+   "wiki": "Candyman (1992 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Candymanposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-12": {
+   "year": 1985,
+   "category": "release",
+   "title": "The Hills Have Eyes Part II",
+   "fact": "The Hills Have Eyes Part II first hit screens on this day in 1985.",
+   "wiki": "The Hills Have Eyes Part II",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Hills-have-eyes-2-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-13": {
+   "year": 2012,
+   "category": "release",
+   "title": "Resident Evil: Retribution",
+   "fact": "Resident Evil: Retribution first hit screens on this day in 2012.",
+   "wiki": "Resident Evil: Retribution",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Resident_evil_retribution_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-14": {
+   "year": 2010,
+   "category": "release",
+   "title": "Insidious",
+   "fact": "Insidious first hit screens on this day in 2010.",
+   "wiki": "Insidious (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Insidious_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-15": {
+   "year": 1995,
+   "category": "release",
+   "title": "Seven",
+   "fact": "Seven first hit screens on this day in 1995.",
+   "wiki": "Seven (1995 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-16": {
+   "year": 1932,
+   "category": "release",
+   "title": "The Most Dangerous Game",
+   "fact": "The Most Dangerous Game first hit screens on this day in 1932.",
+   "wiki": "The Most Dangerous Game (1932 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Most_Dangerous_Game_%281932%29_poster_card.jpg/500px-The_Most_Dangerous_Game_%281932%29_poster_card.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "09-17": {
+   "year": 2005,
+   "category": "release",
+   "title": "Hostel",
+   "fact": "Hostel first hit screens on this day in 2005.",
+   "wiki": "Hostel (2005 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hostel_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-18": {
+   "year": 1951,
+   "category": "release",
+   "title": "The Day the Earth Stood Still",
+   "fact": "The Day the Earth Stood Still first hit screens on this day in 1951.",
+   "wiki": "The Day the Earth Stood Still",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Day_the_Earth_Stood_Still_%281951_poster%29.jpeg/500px-The_Day_the_Earth_Stood_Still_%281951_poster%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "09-19": {
+   "year": 2001,
+   "category": "release",
+   "title": "Vidocq",
+   "fact": "Vidocq first hit screens on this day in 2001.",
+   "wiki": "Vidocq (2001 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Vidocq2001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-20": {
+   "year": 2012,
+   "category": "release",
+   "title": "Frankenweenie",
+   "fact": "Frankenweenie first hit screens on this day in 2012.",
+   "wiki": "Frankenweenie (2012 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Frankenweenie_%282012_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-21": {
+   "year": 1947,
+   "category": "birth",
+   "title": "Stephen King",
+   "fact": "Stephen King, the modern master of horror, was born in Portland, Maine in 1947.",
+   "wiki": "Stephen King",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg/500px-Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "09-22": {
+   "year": 2011,
+   "category": "release",
+   "title": "The Human Centipede 2",
+   "fact": "The Human Centipede 2 first hit screens on this day in 2011.",
+   "wiki": "The Human Centipede 2 (Full Sequence)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Human_Centipede_2_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-23": {
+   "year": 2016,
+   "category": "release",
+   "title": "The Girl with All the Gifts",
+   "fact": "The Girl with All the Gifts first hit screens on this day in 2016.",
+   "wiki": "The Girl with All the Gifts (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/The_Girl_with_All_the_Gifts_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-24": {
+   "year": 2002,
+   "category": "release",
+   "title": "Red Dragon",
+   "fact": "Red Dragon first hit screens on this day in 2002.",
+   "wiki": "Red Dragon (2002 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Red_Dragon_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-25": {
+   "year": 2009,
+   "category": "release",
+   "title": "Paranormal Activity",
+   "fact": "Paranormal Activity opened in 2009 — a $15,000 movie that became one of the most profitable films ever made.",
+   "wiki": "Paranormal Activity",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/54/Paranormal_Activity_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-26": {
+   "year": 2016,
+   "category": "release",
+   "title": "Split",
+   "fact": "Split first hit screens on this day in 2016.",
+   "wiki": "Split (2016 American film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/31/Split_%282017_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-27": {
+   "year": 2024,
+   "category": "release",
+   "title": "The Platform 2",
+   "fact": "The Platform 2 first hit screens on this day in 2024.",
+   "wiki": "The Platform 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/45/The_Platform_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-28": {
+   "year": 2000,
+   "category": "release",
+   "title": "What Lies Beneath",
+   "fact": "What Lies Beneath first hit screens on this day in 2000.",
+   "wiki": "What Lies Beneath",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/What_lies_beneath_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-29": {
+   "year": 1995,
+   "category": "release",
+   "title": "Halloween: The Curse of Michael Myers",
+   "fact": "Halloween: The Curse of Michael Myers first hit screens on this day in 1995.",
+   "wiki": "Halloween: The Curse of Michael Myers",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Halloween6cover.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "09-30": {
+   "year": 1972,
+   "category": "release",
+   "title": "Horror Express",
+   "fact": "Horror Express first hit screens on this day in 1972.",
+   "wiki": "Horror Express",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Horrorexpress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-01": {
+   "year": 1968,
+   "category": "release",
+   "title": "Night of the Living Dead",
+   "fact": "Night of the Living Dead premiered in Pittsburgh in 1968, and the modern zombie was born.",
+   "wiki": "Night of the Living Dead",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Night_of_the_Living_Dead_%281968%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-02": {
+   "year": 2014,
+   "category": "release",
+   "title": "Dracula Untold",
+   "fact": "Dracula Untold first hit screens on this day in 2014.",
+   "wiki": "Dracula Untold",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dracula_Untold_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-03": {
+   "year": 1980,
+   "category": "release",
+   "title": "Terror Train",
+   "fact": "Terror Train first hit screens on this day in 1980.",
+   "wiki": "Terror Train",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/6a/Terrortrainposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-04": {
+   "year": 2023,
+   "category": "release",
+   "title": "The Exorcist: Believer",
+   "fact": "The Exorcist: Believer first hit screens on this day in 2023.",
+   "wiki": "The Exorcist: Believer",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/36/ExorcistBelieverPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-05": {
+   "year": 2019,
+   "category": "release",
+   "title": "The Lighthouse",
+   "fact": "The Lighthouse first hit screens on this day in 2019.",
+   "wiki": "The Lighthouse (2019 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/The_Lighthouse.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-06": {
+   "year": 2006,
+   "category": "release",
+   "title": "The Texas Chainsaw Massacre: The Beginning",
+   "fact": "The Texas Chainsaw Massacre: The Beginning first hit screens on this day in 2006.",
+   "wiki": "The Texas Chainsaw Massacre: The Beginning",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Texas_chainsaw_massacre_the_beginning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-07": {
+   "year": 1849,
+   "category": "death",
+   "title": "Edgar Allan Poe",
+   "fact": "Edgar Allan Poe died mysteriously in Baltimore in 1849, found delirious in clothes that were not his own.",
+   "wiki": "Edgar Allan Poe",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "10-08": {
+   "year": 1973,
+   "category": "release",
+   "title": "Sssssss",
+   "fact": "Sssssss first hit screens on this day in 1973.",
+   "wiki": "Sssssss",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/06/SSSSSSS_%28movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-09": {
+   "year": 2014,
+   "category": "release",
+   "title": "Annabelle",
+   "fact": "Annabelle first hit screens on this day in 2014.",
+   "wiki": "Annabelle (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/90/Annabelle_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-10": {
+   "year": 2008,
+   "category": "release",
+   "title": "Quarantine",
+   "fact": "Quarantine first hit screens on this day in 2008.",
+   "wiki": "Quarantine (2008 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Quarantineposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-11": {
+   "year": 1974,
+   "category": "release",
+   "title": "Black Christmas",
+   "fact": "Black Christmas first hit screens on this day in 1974.",
+   "wiki": "Black Christmas (1974 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/ee/Black_Christmas_%281974%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-12": {
+   "year": 2022,
+   "category": "release",
+   "title": "Halloween Ends",
+   "fact": "Halloween Ends first hit screens on this day in 2022.",
+   "wiki": "Halloween Ends",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Halloween_ends_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-13": {
+   "year": 2006,
+   "category": "release",
+   "title": "Cold Prey",
+   "fact": "Cold Prey first hit screens on this day in 2006.",
+   "wiki": "Cold Prey",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Cold_Prey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-14": {
+   "year": 2015,
+   "category": "release",
+   "title": "Crimson Peak",
+   "fact": "Crimson Peak first hit screens on this day in 2015.",
+   "wiki": "Crimson Peak",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Crimson_Peak_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-15": {
+   "year": 2021,
+   "category": "release",
+   "title": "Halloween Kills",
+   "fact": "Halloween Kills first hit screens on this day in 2021.",
+   "wiki": "Halloween Kills",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Halloween_Kills_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-16": {
+   "year": 2007,
+   "category": "release",
+   "title": "30 Days of Night",
+   "fact": "30 Days of Night first hit screens on this day in 2007.",
+   "wiki": "30 Days of Night (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/53/30_Days_of_Night_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-17": {
+   "year": 1997,
+   "category": "release",
+   "title": "I Know What You Did Last Summer",
+   "fact": "I Know What You Did Last Summer first hit screens on this day in 1997.",
+   "wiki": "I Know What You Did Last Summer",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/I_Know_What_You_Did_Last_Summer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-18": {
+   "year": 2002,
+   "category": "release",
+   "title": "The Ring",
+   "fact": "The Ring opened in 2002, kicking off Hollywood's J-horror wave. Seven days...",
+   "wiki": "The Ring (2002 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/37/Theringpostere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-19": {
+   "year": 1932,
+   "category": "release",
+   "title": "The Old Dark House",
+   "fact": "The Old Dark House first hit screens on this day in 1932.",
+   "wiki": "The Old Dark House",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Old_Dark_House_%281932_poster%29.jpeg/500px-The_Old_Dark_House_%281932_poster%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "10-20": {
+   "year": 1882,
+   "category": "birth",
+   "title": "Bela Lugosi",
+   "fact": "Bela Lugosi, the screen's original Count Dracula, was born in Lugos, Hungary in 1882.",
+   "wiki": "Bela Lugosi",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lugosi_B%C3%A9la_fortepan_14652_%28cropped%29.jpg/500px-Lugosi_B%C3%A9la_fortepan_14652_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "10-21": {
+   "year": 2010,
+   "category": "release",
+   "title": "Saw 3D",
+   "fact": "Saw 3D first hit screens on this day in 2010.",
+   "wiki": "Saw 3D",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Saw_3D_Final.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-22": {
+   "year": 2009,
+   "category": "release",
+   "title": "Saw VI",
+   "fact": "Saw VI first hit screens on this day in 2009.",
+   "wiki": "Saw VI",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Saw_VI_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-23": {
+   "year": 2003,
+   "category": "release",
+   "title": "Jeepers Creepers 2",
+   "fact": "Jeepers Creepers 2 first hit screens on this day in 2003.",
+   "wiki": "Jeepers Creepers 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Jeepers_Creepers_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-24": {
+   "year": 1973,
+   "category": "release",
+   "title": "Westworld",
+   "fact": "Westworld first hit screens on this day in 1973.",
+   "wiki": "Westworld (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/Westworld_ver2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-25": {
+   "year": 1978,
+   "category": "release",
+   "title": "Halloween",
+   "fact": "John Carpenter's Halloween premiered in Kansas City in 1978. Fifteen years later to the day, Vincent Price passed away in 1993.",
+   "wiki": "Halloween (1978 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Halloween_%281978%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-26": {
+   "year": 1984,
+   "category": "release",
+   "title": "The Terminator",
+   "fact": "The Terminator first hit screens on this day in 1984.",
+   "wiki": "The Terminator",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/The_Terminator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-27": {
+   "year": 2006,
+   "category": "release",
+   "title": "Saw III",
+   "fact": "Saw III first hit screens on this day in 2006.",
+   "wiki": "Saw III",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Saw3_cape10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-28": {
+   "year": 1982,
+   "category": "release",
+   "title": "Tenebrae",
+   "fact": "Tenebrae first hit screens on this day in 1982.",
+   "wiki": "Tenebrae (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/Tenebrae_-_Film_1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-29": {
+   "year": 2004,
+   "category": "release",
+   "title": "Saw",
+   "fact": "Saw opened in 2004, launching the biggest horror franchise of its decade. Do you want to play a game?",
+   "wiki": "Saw (2004 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/56/Saw_official_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "10-30": {
+   "year": 1938,
+   "category": "trivia",
+   "title": "The War of the Worlds Broadcast",
+   "fact": "On the night before Halloween 1938, Orson Welles's War of the Worlds radio broadcast convinced some listeners that Martians had landed.",
+   "wiki": "The War of the Worlds (1938 radio drama)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Orson_Welles_War_of_the_Worlds_1938.jpg/500px-Orson_Welles_War_of_the_Worlds_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "10-31": {
+   "year": 1926,
+   "category": "death",
+   "title": "Harry Houdini",
+   "fact": "Harry Houdini died on Halloween 1926. Séances attempting to contact him are still held every October 31.",
+   "wiki": "Harry Houdini",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Harry_Handcuff_Houdini_Crop.jpg/500px-Harry_Handcuff_Houdini_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "11-01": {
+   "year": 2002,
+   "category": "release",
+   "title": "28 Days Later",
+   "fact": "28 Days Later first hit screens on this day in 2002.",
+   "wiki": "28 Days Later",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/28_days_later.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-02": {
+   "year": 1995,
+   "category": "release",
+   "title": "Witchboard III: The Possession",
+   "fact": "Witchboard III: The Possession first hit screens on this day in 1995.",
+   "wiki": "Witchboard III: The Possession",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Witchboard_III_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-03": {
+   "year": 1954,
+   "category": "release",
+   "title": "Godzilla",
+   "fact": "Godzilla first rose from the sea in Japanese theaters in 1954, nuclear dread made flesh.",
+   "wiki": "Godzilla (1954 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gojira_1954_Japanese_poster.jpg/500px-Gojira_1954_Japanese_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "11-04": {
+   "year": 1988,
+   "category": "release",
+   "title": "They Live",
+   "fact": "They Live first hit screens on this day in 1988.",
+   "wiki": "They Live",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/1988They_Live_poster300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-05": {
+   "year": 1977,
+   "category": "release",
+   "title": "The Last Wave",
+   "fact": "The Last Wave first hit screens on this day in 1977.",
+   "wiki": "The Last Wave",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Thelastwave.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-06": {
+   "year": 1980,
+   "category": "release",
+   "title": "The House on the Edge of the Park",
+   "fact": "The House on the Edge of the Park first hit screens on this day in 1980.",
+   "wiki": "The House on the Edge of the Park",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/TheHouseOnTheEdgeOfThePark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-07": {
+   "year": 2002,
+   "category": "release",
+   "title": "Halloween: Resurrection",
+   "fact": "Halloween: Resurrection first hit screens on this day in 2002.",
+   "wiki": "Halloween: Resurrection",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Halloween_Resurrection_Theatrical_Poster_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-08": {
+   "year": 1847,
+   "category": "birth",
+   "title": "Bram Stoker",
+   "fact": "Bram Stoker, the Dublin theater manager who wrote Dracula, was born in 1847.",
+   "wiki": "Bram Stoker",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bram_Stoker_1906.jpg/500px-Bram_Stoker_1906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "11-09": {
+   "year": 1984,
+   "category": "release",
+   "title": "A Nightmare on Elm Street",
+   "fact": "A Nightmare on Elm Street opened in 1984, and Freddy Krueger began haunting America's dreams.",
+   "wiki": "A Nightmare on Elm Street",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fa/A_Nightmare_on_Elm_Street_%281984%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-10": {
+   "year": 1982,
+   "category": "release",
+   "title": "Creepshow",
+   "fact": "Creepshow first hit screens on this day in 1982.",
+   "wiki": "Creepshow",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/25/CreepshowPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-11": {
+   "year": 1994,
+   "category": "release",
+   "title": "Interview with the Vampire",
+   "fact": "Interview with the Vampire first hit screens on this day in 1994.",
+   "wiki": "Interview with the Vampire (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/InterviewwithaVampireMoviePoste.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-12": {
+   "year": 1982,
+   "category": "release",
+   "title": "Alone in the Dark",
+   "fact": "Alone in the Dark first hit screens on this day in 1982.",
+   "wiki": "Alone in the Dark (1982 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Alone_in_the_dark_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-13": {
+   "year": 1992,
+   "category": "release",
+   "title": "Bram Stoker's Dracula",
+   "fact": "Francis Ford Coppola's Bram Stoker's Dracula opened in 1992 with a record-setting bite at the box office.",
+   "wiki": "Bram Stoker's Dracula (1992 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Bram_Stoker%27s_Dracula_%281992_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-14": {
+   "year": 1980,
+   "category": "release",
+   "title": "Alligator",
+   "fact": "Alligator first hit screens on this day in 1980.",
+   "wiki": "Alligator (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Alligator_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-15": {
+   "year": 1990,
+   "category": "release",
+   "title": "Darkman",
+   "fact": "Darkman first hit screens on this day in 1990.",
+   "wiki": "Darkman",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Darkman_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-16": {
+   "year": 1957,
+   "category": "trivia",
+   "title": "Ed Gein Arrested",
+   "fact": "Ed Gein was arrested in Plainfield, Wisconsin in 1957. His crimes inspired Psycho, The Texas Chain Saw Massacre, and The Silence of the Lambs.",
+   "wiki": "Ed Gein",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ed-Gein.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-17": {
+   "year": 1999,
+   "category": "release",
+   "title": "Sleepy Hollow",
+   "fact": "Sleepy Hollow first hit screens on this day in 1999.",
+   "wiki": "Sleepy Hollow (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Sleepy_hollow_ver2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-18": {
+   "year": 1999,
+   "category": "release",
+   "title": "The Astronaut's Wife",
+   "fact": "The Astronaut's Wife first hit screens on this day in 1999.",
+   "wiki": "The Astronaut's Wife",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/68/AstronautWife.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-19": {
+   "year": 1993,
+   "category": "release",
+   "title": "Addams Family Values",
+   "fact": "Addams Family Values first hit screens on this day in 1993.",
+   "wiki": "Addams Family Values",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Addams_family_values.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-20": {
+   "year": 1997,
+   "category": "release",
+   "title": "Snake Spring",
+   "fact": "Snake Spring first hit screens on this day in 1997.",
+   "wiki": "Snake Spring (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/Snake_Spring_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-21": {
+   "year": 1931,
+   "category": "release",
+   "title": "Frankenstein",
+   "fact": "Universal's Frankenstein opened in 1931. Theaters kept nurses on hand for fainting patrons — 'It's alive!'",
+   "wiki": "Frankenstein (1931 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frankenstein_poster_1931.jpg/500px-Frankenstein_poster_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "11-22": {
+   "year": 1991,
+   "category": "release",
+   "title": "The Addams Family",
+   "fact": "The Addams Family first hit screens on this day in 1991.",
+   "wiki": "The Addams Family (1991 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/04/The_Addams_Family.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-23": {
+   "year": 1887,
+   "category": "birth",
+   "title": "Boris Karloff",
+   "fact": "Boris Karloff, born William Henry Pratt in London in 1887, became horror's gentlest monster.",
+   "wiki": "Boris Karloff",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boris_Karloff.jpg/500px-Boris_Karloff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "11-24": {
+   "year": 1999,
+   "category": "release",
+   "title": "End of Days",
+   "fact": "End of Days first hit screens on this day in 1999.",
+   "wiki": "End of Days (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/73/End_of_days_ver5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-25": {
+   "year": 1999,
+   "category": "release",
+   "title": "Ravenous",
+   "fact": "Ravenous first hit screens on this day in 1999.",
+   "wiki": "Ravenous (1999 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Ravenous_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-26": {
+   "year": 1997,
+   "category": "release",
+   "title": "Alien Resurrection",
+   "fact": "Alien Resurrection first hit screens on this day in 1997.",
+   "wiki": "Alien Resurrection",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Alien_Resurrection_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-27": {
+   "year": 1967,
+   "category": "release",
+   "title": "Viy",
+   "fact": "Viy first hit screens on this day in 1967.",
+   "wiki": "Viy (1967 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Viy_%281967_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-28": {
+   "year": 1981,
+   "category": "release",
+   "title": "Venom",
+   "fact": "Venom first hit screens on this day in 1981.",
+   "wiki": "Venom (1981 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Venom1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-29": {
+   "year": 2018,
+   "category": "release",
+   "title": "The House That Jack Built",
+   "fact": "The House That Jack Built first hit screens on this day in 2018.",
+   "wiki": "The House That Jack Built (2018 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/The_House_That_Jack_Built.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "11-30": {
+   "year": 1990,
+   "category": "release",
+   "title": "Misery",
+   "fact": "Misery first hit screens on this day in 1990.",
+   "wiki": "Misery (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Misery_%281990_film_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-01": {
+   "year": 2021,
+   "category": "release",
+   "title": "Nightmare Alley",
+   "fact": "Nightmare Alley first hit screens on this day in 2021.",
+   "wiki": "Nightmare Alley (2021 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Nightmare_Alley_%282021_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-02": {
+   "year": 1936,
+   "category": "release",
+   "title": "Sabotage",
+   "fact": "Sabotage first hit screens on this day in 1936.",
+   "wiki": "Sabotage (1936 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/3/37/Sabotage1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-03": {
+   "year": 2007,
+   "category": "release",
+   "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+   "fact": "Sweeney Todd: The Demon Barber of Fleet Street first hit screens on this day in 2007.",
+   "wiki": "Sweeney Todd: The Demon Barber of Fleet Street (2007 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Sweeneylarge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-04": {
+   "year": 2025,
+   "category": "release",
+   "title": "Five Nights at Freddy's 2",
+   "fact": "Five Nights at Freddy's 2 first hit screens on this day in 2025.",
+   "wiki": "Five Nights at Freddy's 2 (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/11/Five_Nights_At_Freddy%27s_2_Movie_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-05": {
+   "year": 2007,
+   "category": "release",
+   "title": "I Am Legend",
+   "fact": "I Am Legend first hit screens on this day in 2007.",
+   "wiki": "I Am Legend (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/d/df/I_am_legend_teaser.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-06": {
+   "year": 1973,
+   "category": "release",
+   "title": "The Wicker Man",
+   "fact": "The Wicker Man first hit screens on this day in 1973.",
+   "wiki": "The Wicker Man",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/11/The_Wicker_Man_%281973_film%29_UK_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-07": {
+   "year": 2022,
+   "category": "release",
+   "title": "M3GAN",
+   "fact": "M3GAN first hit screens on this day in 2022.",
+   "wiki": "M3GAN",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/03/M3GAN_Poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-08": {
+   "year": 2004,
+   "category": "release",
+   "title": "Blade: Trinity",
+   "fact": "Blade: Trinity first hit screens on this day in 2004.",
+   "wiki": "Blade: Trinity",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Blade_Trinity_poster.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-09": {
+   "year": 2004,
+   "category": "release",
+   "title": "Anacondas: The Hunt for the Blood Orchid",
+   "fact": "Anacondas: The Hunt for the Blood Orchid first hit screens on this day in 2004.",
+   "wiki": "Anacondas: The Hunt for the Blood Orchid",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Anacondas_The_Hunt_for_the_Blood_Orchid_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-10": {
+   "year": 1997,
+   "category": "release",
+   "title": "Scream 2",
+   "fact": "Scream 2 first hit screens on this day in 1997.",
+   "wiki": "Scream 2",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/Scream_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-11": {
+   "year": 2019,
+   "category": "release",
+   "title": "Black Christmas",
+   "fact": "Black Christmas first hit screens on this day in 2019.",
+   "wiki": "Black Christmas (2019 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Black_Christmas_2019_teaser_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-12": {
+   "year": 1941,
+   "category": "release",
+   "title": "The Wolf Man",
+   "fact": "The Wolf Man premiered in 1941, giving cinema its definitive werewolf legend — even a man who is pure in heart...",
+   "wiki": "The Wolf Man (1941 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/The-wolfman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-13": {
+   "year": 2012,
+   "category": "release",
+   "title": "The Apparition",
+   "fact": "The Apparition first hit screens on this day in 2012.",
+   "wiki": "The Apparition (2012 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/c/ce/The_Apparition_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-14": {
+   "year": 1916,
+   "category": "birth",
+   "title": "Shirley Jackson",
+   "fact": "Shirley Jackson, whose Hill House still isn't sane, was born in 1916.",
+   "wiki": "Shirley Jackson",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Shirley_Jackson_1940s.png/500px-Shirley_Jackson_1940s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "12-15": {
+   "year": 1974,
+   "category": "release",
+   "title": "Young Frankenstein",
+   "fact": "Young Frankenstein first hit screens on this day in 1974.",
+   "wiki": "Young Frankenstein",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/Young_Frankenstein_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-16": {
+   "year": 1983,
+   "category": "release",
+   "title": "The Keep",
+   "fact": "The Keep first hit screens on this day in 1983.",
+   "wiki": "The Keep (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Keepposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-17": {
+   "year": 1958,
+   "category": "release",
+   "title": "House on Haunted Hill",
+   "fact": "House on Haunted Hill first hit screens on this day in 1958.",
+   "wiki": "House on Haunted Hill",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/House_on_Haunted_Hill.jpg/500px-House_on_Haunted_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "12-18": {
+   "year": 1981,
+   "category": "release",
+   "title": "Ghost Story",
+   "fact": "Ghost Story first hit screens on this day in 1981.",
+   "wiki": "Ghost Story (1981 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Ghost_Story.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-19": {
+   "year": 1986,
+   "category": "release",
+   "title": "Little Shop of Horrors",
+   "fact": "Little Shop of Horrors first hit screens on this day in 1986.",
+   "wiki": "Little Shop of Horrors (1986 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Little_shop_of_horrors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-20": {
+   "year": 1996,
+   "category": "release",
+   "title": "Scream",
+   "fact": "Wes Craven's Scream opened in 1996, resurrecting the slasher by teaching it the rules.",
+   "wiki": "Scream (1996 film)",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-21": {
+   "year": 2018,
+   "category": "release",
+   "title": "Bird Box",
+   "fact": "Bird Box first hit screens on this day in 2018.",
+   "wiki": "Bird Box (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Bird_Box_%28film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-22": {
+   "year": 1932,
+   "category": "release",
+   "title": "The Mummy",
+   "fact": "The Mummy first hit screens on this day in 1932.",
+   "wiki": "The Mummy (1932 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_Mummy_1932_film_poster.jpg/500px-The_Mummy_1932_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "12-23": {
+   "year": 2009,
+   "category": "release",
+   "title": "Solomon Kane",
+   "fact": "Solomon Kane first hit screens on this day in 2009.",
+   "wiki": "Solomon Kane (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/SolomonKANEposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-24": {
+   "year": 1976,
+   "category": "release",
+   "title": "The Town That Dreaded Sundown",
+   "fact": "The Town That Dreaded Sundown first hit screens on this day in 1976.",
+   "wiki": "The Town That Dreaded Sundown (1976 film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Town_That_Dreaded_Sundown_1976_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-25": {
+   "year": 2007,
+   "category": "release",
+   "title": "Aliens vs. Predator: Requiem",
+   "fact": "Aliens vs. Predator: Requiem first hit screens on this day in 2007.",
+   "wiki": "Aliens vs. Predator: Requiem",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Aliens_vs_Predator_Requiem_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-26": {
+   "year": 1973,
+   "category": "release",
+   "title": "The Exorcist",
+   "fact": "The Exorcist opened the day after Christmas 1973 — lines around the block, fainting audiences, and waiting ambulances.",
+   "wiki": "The Exorcist",
+   "source": "curated",
+   "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Exorcist_ver2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-27": {
+   "year": 1991,
+   "category": "release",
+   "title": "Naked Lunch",
+   "fact": "Naked Lunch first hit screens on this day in 1991.",
+   "wiki": "Naked Lunch (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Naked_Lunch_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-28": {
+   "year": 2000,
+   "category": "release",
+   "title": "Unbreakable",
+   "fact": "Unbreakable first hit screens on this day in 2000.",
+   "wiki": "Unbreakable (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Unbreakableposterwillis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-29": {
+   "year": 2000,
+   "category": "release",
+   "title": "Shadow of the Vampire",
+   "fact": "Shadow of the Vampire first hit screens on this day in 2000.",
+   "wiki": "Shadow of the Vampire",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/ShadowoftheVampireposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-30": {
+   "year": 2004,
+   "category": "release",
+   "title": "Shaun of the Dead",
+   "fact": "Shaun of the Dead first hit screens on this day in 2004.",
+   "wiki": "Shaun of the Dead",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Shaun_of_the_Dead_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "12-31": {
+   "year": 1981,
+   "category": "release",
+   "title": "Basket Case",
+   "fact": "Basket Case first hit screens on this day in 1981.",
+   "wiki": "Basket Case (film)",
+   "source": "wikidata",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/Basketcaseposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  }
+ }
+}
