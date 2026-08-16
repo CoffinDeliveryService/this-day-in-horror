@@ -4,22 +4,22 @@
 {% assign entry = days[mmdd] %}
 
 {% if entry %}
-<div class="layout layout--row" style="align-items: center; gap: 16px; padding: 0 8px;">
-  <div style="flex: 0 0 20%; display: flex; justify-content: center;">
-    <img class="image image-dither" src="{{ entry.image }}" style="max-width: 100%; max-height: 140px; object-fit: contain;" />
-  </div>
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 4px;">
-    <span class="label label--small">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-    <span class="value value--large">{{ entry.title }}</span>
-    <p class="description" style="font-size: 14px; line-height: 1.3;">{{ entry.fact | truncate: 120 }}</p>
+<div class="layout layout--center">
+  <div class="flex flex--row flex--center gap--medium">
+    <img class="image image-dither image--contain w--24 h--32" src="{{ entry.image }}" alt="{{ entry.title }}" />
+    <div class="flex flex--col gap--xsmall">
+      <span class="label label--small">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
+      <span class="value lg:value--large">{{ entry.title }}</span>
+      <p class="description">{{ entry.fact | truncate: 110 }}</p>
+    </div>
   </div>
 </div>
 {% else %}
-<div class="layout"><span class="value">The archive is silent today&hellip;</span></div>
+<div class="layout layout--center"><span class="value">The archive is silent today&hellip;</span></div>
 {% endif %}
 
 <div class="title_bar">
-  <img class="image" src="https://usetrmnl.com/images/plugins/trmnl--render.svg" />
+  <img class="image" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0id2hpdGUiLz48ZWxsaXBzZSBjeD0iMjU2IiBjeT0iMjAwIiByeD0iMTYwIiByeT0iMTQwIiBmaWxsPSJibGFjayIvPjxyZWN0IHg9IjE2NiIgeT0iMjgwIiB3aWR0aD0iMTgwIiBoZWlnaHQ9IjEyMCIgZmlsbD0iYmxhY2siLz48ZWxsaXBzZSBjeD0iMjAwIiBjeT0iMjE1IiByeD0iNDAiIHJ5PSI0NSIgZmlsbD0id2hpdGUiLz48ZWxsaXBzZSBjeD0iMzEyIiBjeT0iMjE1IiByeD0iNDAiIHJ5PSI0NSIgZmlsbD0id2hpdGUiLz48cG9seWdvbiBwb2ludHM9IjI1NiwyNjAgMjMyLDMxNSAyODAsMzE1IiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjE4NiIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+PHJlY3QgeD0iMjIyIiB5PSIzNDAiIHdpZHRoPSIxMCIgaGVpZ2h0PSI2MCIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIyNTgiIHk9IjM0MCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjYwIiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjI5NCIgeT0iMzQwIiB3aWR0aD0iMTAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+PHJlY3QgeD0iMzMwIiB5PSIzNDAiIHdpZHRoPSIxMCIgaGVpZ2h0PSI2MCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" />
   <span class="title">This Day in Horror</span>
   <span class="instance">{{ nice_date }}</span>
 </div>
