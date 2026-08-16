@@ -18,7 +18,11 @@ timezone, so the JSON never needs daily updates.
   **Wikidata** for the most notable horror film (by Wikipedia sitelink count)
   with an exact release date on that day, then fetches each entry's lead image
   (poster/portrait) from **Wikipedia** and bakes the URL in.
-- Output: [data/days.json](data/days.json) (~143 KB, 366 entries, all with images).
+- Output: [data/days.json](data/days.json) — 366 entries, all with images, minified
+  to ~86 KB. **TRMNL rejects polling responses over 100 KB**, so the build strips
+  build-only fields and image query params; it prints a warning if the file grows
+  past the limit. [data/days.full.json](data/days.full.json) keeps the unminified
+  copy (with `wiki`/`source` fields) for maintenance — the plugin does not use it.
 
 Rebuild any time with:
 
