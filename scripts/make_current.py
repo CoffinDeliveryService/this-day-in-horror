@@ -46,8 +46,12 @@ def main():
         window.setdefault("02-29", days["02-29"])
 
     out = {
-        # changes every hour -> guarantees TRMNL sees new data and re-renders
-        "generated": now.strftime("%Y-%m-%dT%H:00:00Z"),
+        # Minute precision: every workflow run emits a distinct value, so the
+        # payload always differs and TRMNL always re-renders. Running this every
+        # 15 minutes means a device polling every 15 minutes re-renders on
+        # essentially every check, so the date is picked up within minutes of
+        # the viewer's local midnight — including half-hour timezones.
+        "generated": now.strftime("%Y-%m-%dT%H:%M:00Z"),
         "days": window,
     }
 
