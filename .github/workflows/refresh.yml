@@ -1,0 +1,38 @@
+name: Refresh current.json
+
+# TRMNL skips re-rendering when a polled response is unchanged, so the plugin
+# would freeze on whichever day it last rendered. Regenerating this small file
+# hourly keeps the payload changing, so the screen re-renders and picks up the
+# viewer's new local date shortly after their midnight.
+on:
+  schedule:
+    - cron: "7 * * * *"   # hourly, at :07 (off the hour — GitHub delays busy slots)
+  workflow_dispatch:       # allows a manual run from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-current
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate current.json
+        run: python3 scripts/make_current.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain data/current.json)" ]]; then
+            git add data/current.json
+            git commit -m "Refresh current.json ($(date -u +%Y-%m-%dT%H:00Z))"
+            git push
+          else
+            echo "no change"
+          fi
