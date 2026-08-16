@@ -62,10 +62,23 @@ https://raw.githubusercontent.com/CoffinDeliveryService/this-day-in-horror/main/
 ### 3. Preview locally (optional)
 
 ```bash
-python3 scripts/preview.py 10-31
+python3 scripts/preview.py 10-31 --all
 ```
 
-Writes `preview/preview.html` (approximate 800×480 render) for any date.
+Writes `preview/preview.html` — open it in a browser. Arguments are optional:
+a `MM-DD` date (defaults to today) and a layout name (defaults to `full`);
+`--all` renders all four layouts side by side at their true pixel sizes.
+
+The preview renders the **actual `src/*.liquid` templates** against the real
+dataset, so it cannot drift from what is deployed. It caches the TRMNL
+framework CSS into `preview/` on first run (~17 MB, git-ignored) and wraps the
+screens in `.trmnl`, which the framework requires — without that wrapper none
+of its rules apply and the preview silently renders unstyled.
+
+It implements only the small slice of Liquid these templates use (`assign`,
+`if`/`else`, dotted and bracket lookups, and the `date`, `plus`, `upcase`, and
+`truncate` filters) — enough to preview, but TRMNL itself renders with real
+Liquid, so treat the on-device result as the source of truth.
 
 ## Customizing
 

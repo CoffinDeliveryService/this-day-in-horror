@@ -1,0 +1,5 @@
+# Generated locally by scripts/preview.py — includes a ~17 MB cached copy of
+# the TRMNL framework CSS. Not part of the plugin.
+preview/
+__pycache__/
+*.pyc
