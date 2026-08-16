@@ -214,8 +214,17 @@ def main():
         e.pop("source", None)
     out_path = ROOT / "data" / "days.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
-    size = out_path.stat().st_size
-    print(f"wrote {out_path} ({size // 1024} KB)" + ("  WARNING: exceeds TRMNL 100KB polling limit!" if size > 100_000 else ""))
+    print(f"wrote {out_path} ({out_path.stat().st_size // 1024} KB)")
+
+    # Ready-to-paste payload for the plugin's Static data field. The plugin uses
+    # the Static strategy so that TRMNL re-renders on every device refresh (see
+    # README); this file is exactly what belongs in that field.
+    static_path = ROOT / "data" / "static_data.json"
+    static_path.write_text(
+        json.dumps({"days": out["days"]}, ensure_ascii=False, separators=(",", ":"))
+    )
+    print(f"wrote {static_path} ({static_path.stat().st_size // 1024} KB)"
+          "  <- paste into TRMNL 'Static data'")
 
 
 if __name__ == "__main__":
