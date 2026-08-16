@@ -5,11 +5,11 @@ year — film releases, deaths/births of horror icons, publications, and dark
 trivia — with a matching poster or portrait, auto-dithered for the e-ink screen.
 
 There is no live "today in horror history" API, so this repo takes the
-pre-built approach: a **366-day JSON dataset**, from which a small rolling
-file is published hourly for the plugin to poll. The Liquid template picks the
-right entry using the device owner's timezone — see
-["Why current.json exists"](#why-currentjson-exists) for why the polled file
-has to keep changing.
+pre-built approach: a **366-day JSON dataset**, embedded in the plugin as
+Static data. The Liquid template picks the right entry on every refresh using
+the device owner's timezone — see
+["How the plugin gets its data"](#how-the-plugin-gets-its-data) for why Static
+rather than polling.
 
 ## How the dataset is built
 
@@ -20,10 +20,9 @@ has to keep changing.
   **Wikidata** for the most notable horror film (by Wikipedia sitelink count)
   with an exact release date on that day, then fetches each entry's lead image
   (poster/portrait) from **Wikipedia** and bakes the URL in.
-- [data/current.json](data/current.json) — **this is the file the plugin polls.**
-  A GitHub Actions workflow ([refresh.yml](.github/workflows/refresh.yml)) runs
-  [scripts/make_current.py](scripts/make_current.py) hourly to regenerate it.
-  See "Why current.json exists" below.
+- [data/static_data.json](data/static_data.json) — **this is what goes into the
+  plugin.** It is `days.json` wrapped as `{"days": …}`, ready to paste into
+  TRMNL's *Static data* field. See "How the plugin gets its data" below.
 - Output: [data/days.json](data/days.json) — 366 entries, all with images, minified
   to ~86 KB. **TRMNL rejects polling responses over 100 KB**, so the build strips
   build-only fields and image query params; it prints a warning if the file grows
@@ -36,66 +35,56 @@ Rebuild any time with:
 python3 scripts/build.py
 ```
 
-## Why current.json exists
+## How the plugin gets its data
 
-TRMNL **skips re-rendering a screen when the polled response is unchanged** —
-the device logs show `Skipping: No change in data`. A completely static dataset
-is therefore rendered once and then frozen on that day forever, even though the
-template computes the date itself. That is not a caching quirk to wait out; the
-payload has to change for the screen to be redrawn at all.
+The plugin uses TRMNL's **Static** strategy: the whole 366-day dataset lives in
+the plugin's *Static data* field, and there is no polling URL.
 
-So the plugin polls a small rolling file instead:
+This is not just simpler — it is the only arrangement that is *reliably*
+correct. TRMNL normally **skips re-rendering a screen when the polled response
+is unchanged** (`Skipping: No change in data` in the device logs), so a static
+dataset served over a polling URL renders once and then freezes on that day
+forever, even though the template computes the date itself. Static data is
+[explicitly exempt from that skip](https://help.trmnl.com/en/articles/10113695-how-refresh-rates-work),
+so **every scheduled device refresh regenerates the screen**.
 
-- `data/current.json` (~750 bytes) holds a timestamp plus a **three-day window**
-  of entries — yesterday, today and tomorrow in UTC.
-- A workflow regenerates it **every 15 minutes** with a minute-precision
-  timestamp, so every run produces a distinct payload.
-- The templates are unchanged: they still look up `days["MM-DD"]` using the
-  *viewer's* local date via `trmnl.user.utc_offset`. A ±1 day window covers
-  every timezone from UTC-12 to UTC+14, so the plugin stays correct worldwide.
+That gives the property that matters: whenever the device checks in — on
+whatever interval its owner set — the template runs, reads that moment's date
+through `trmnl.user.utc_offset`, and renders that viewer's local day. No
+dependency on a payload changing, on a cron job firing, or on this repo staying
+reachable.
 
-### Cadence
+Verified on-device: consecutive scheduled refreshes at 17:48:54 and 18:04:34 UTC
+both regenerated the screen with no data change and no forced refresh.
 
-Because the payload changes every 15 minutes and devices poll on their own
-schedule (5–15 minutes), a device re-renders on essentially **every** check —
-so it picks up the new local date within minutes of midnight, not hours.
+### Updating the data
 
-Hourly was the obvious first choice and is **not** sufficient: local midnight
-falls on a *half-hour* UTC boundary in some timezones (India, parts of
-Australia), which would leave those viewers on yesterday's fact until roughly
-00:50 local. GitHub also delays scheduled runs under load, which eats any
-thinner margin. Fifteen minutes leaves room for both.
+Because the dataset is embedded in the plugin, this repo is the **build source**,
+not the live source. After changing entries and rerunning the build, paste the
+new [data/static_data.json](data/static_data.json) into the plugin's *Static
+data* field to publish the change.
 
 ## Setup
 
-### 1. Host the data publicly
+Nothing needs to be hosted — the data ships inside the plugin. This project
+lives at
+[github.com/CoffinDeliveryService/this-day-in-horror](https://github.com/CoffinDeliveryService/this-day-in-horror).
 
-Push this folder to GitHub, and **enable Actions** on the repo so the hourly
-refresh workflow can run (it needs write access to commit `data/current.json`;
-the workflow already requests `permissions: contents: write`).
-
-This project lives at
-[github.com/CoffinDeliveryService/this-day-in-horror](https://github.com/CoffinDeliveryService/this-day-in-horror),
-and the polling URL is:
-
-```
-https://raw.githubusercontent.com/CoffinDeliveryService/this-day-in-horror/main/data/current.json
-```
-
-### 2. Create the private plugin on TRMNL
+### 1. Create the private plugin on TRMNL
 
 1. usetrmnl.com → **Plugins → Private Plugin → Add New**
 2. Name: `This Day in Horror`
-3. Strategy: **Polling**, Polling URL: the raw URL above
-4. Max refresh rate: **every 15 mins** — the fact only changes at midnight, but
-   the device must poll often enough to notice the hourly payload change soon
-   after your local midnight
+3. Strategy: **Static**, and paste the contents of
+   [data/static_data.json](data/static_data.json) into the *Static data* field.
+   Leave the polling URL empty.
+4. Max refresh rate: whatever you like — the screen re-renders on every refresh,
+   so the day rolls over within one refresh interval of your local midnight.
 5. **Edit Markup** and paste each file from [src/](src/) into the matching
    layout tab: `full.liquid`, `half_horizontal.liquid`, `half_vertical.liquid`,
    `quadrant.liquid`
 6. Save, then add the plugin to your playlist.
 
-### 3. Preview locally (optional)
+### 2. Preview locally (optional)
 
 ```bash
 python3 scripts/preview.py 10-31 --all
