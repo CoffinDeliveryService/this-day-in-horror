@@ -57,12 +57,18 @@ reachable.
 Verified on-device: consecutive scheduled refreshes at 17:48:54 and 18:04:34 UTC
 both regenerated the screen with no data change and no forced refresh.
 
-### Updating the data
+### Maintenance: none
 
-Because the dataset is embedded in the plugin, this repo is the **build source**,
-not the live source. After changing entries and rerunning the build, paste the
-new [data/static_data.json](data/static_data.json) into the plugin's *Static
-data* field to publish the change.
+Nothing has to run for this plugin to keep working. There is no server, no
+scheduled job, and no dependency on this repo staying online. The dataset
+covers all 366 days and the facts are historical, so once the plugin is set up
+it stays correct indefinitely — for you and for anyone who installs it.
+
+The only reason to come back here is if you want to **change** a fact. That is
+optional, not upkeep: edit [data/curated.json](data/curated.json), run
+`python3 scripts/build.py`, and paste the regenerated
+[data/static_data.json](data/static_data.json) into the plugin's *Static data*
+field to publish it.
 
 ## Setup
 
