@@ -12,7 +12,7 @@
          src="{{ entry.image }}" alt="{{ entry.title }}" />
     <span class="label label--small lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
     <span class="value lg:value--large">{{ entry.title }}</span>
-    <p class="description lg:description--large">{{ entry.fact | truncate: 130 }}</p>
+    <p class="description lg:description--large" data-clamp="3" data-clamp-lg="4" data-clamp-lg-portrait="4">{{ entry.fact }}</p>
   </div>
 </div>
 {% else %}

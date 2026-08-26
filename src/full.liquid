@@ -14,7 +14,7 @@
     <div class="flex flex--col gap--small">
       <span class="label label--underline lg:label--xlarge">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
       <span class="value value--large lg:value--xxlarge">{{ entry.title }}</span>
-      <p class="description lg:description--xlarge">{{ entry.fact }}</p>
+      <p class="description lg:description--xlarge" data-clamp="3" data-clamp-lg="4" data-clamp-lg-portrait="5">{{ entry.fact }}</p>
     </div>
   </div>
 </div>
