@@ -70,6 +70,38 @@ optional, not upkeep: edit [data/curated.json](data/curated.json), run
 [data/static_data.json](data/static_data.json) into the plugin's *Static data*
 field to publish it.
 
+## Responsive: OG and TRMNL X
+
+Every view is built to work on TRMNL OG (800x480), TRMNL X (1040x780), and
+TRMNL X rotated to portrait (780x1040).
+
+- **Images bound both axes** — e.g. FULL uses
+  `w--56 lg:w--[45cqw] h--80 lg:h--[70cqh] lg:portrait:w--[45cqw] lg:portrait:h--[40cqh]`
+  together with `image--contain`. The container-relative (`cqw`/`cqh`) values at
+  `lg:` let the poster grow with the larger screen instead of staying pinned to
+  a fixed pixel size.
+
+  Bounding *both* axes matters: the dataset mixes portrait posters with
+  landscape stills and portraits, so constraining only height lets a wide image
+  blow out the row width (and vice versa). `image--contain` letterboxes inside
+  the box, so any aspect ratio is safe.
+
+- **`flex-none` on the image** stops it being squeezed by long titles.
+- **`lg:portrait:flex--col`** on the FULL row re-stacks image above text when
+  TRMNL X is rotated.
+- **Text scales with `lg:`** — label, value and description all step up on the
+  larger screen (e.g. 16/58/12px on OG becomes 26/96/21px on X).
+
+Verify locally across the whole matrix:
+
+```bash
+python3 scripts/preview.py 12-03 --all --devices
+```
+
+`--devices` renders every layout on OG, TRMNL X and TRMNL X portrait, applying
+the same `screen--lg` / `screen--portrait` classes TRMNL uses to gate its
+responsive rules.
+
 ## Setup
 
 Nothing needs to be hosted — the data ships inside the plugin. This project
