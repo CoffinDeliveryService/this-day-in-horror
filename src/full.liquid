@@ -5,18 +5,22 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex flex--row flex--center gap--large">
-    <img class="image image-dither image--contain w--56 h--80" src="{{ entry.image }}" alt="{{ entry.title }}" />
+  <div class="flex flex--row flex--center gap--large lg:portrait:flex--col">
+    <img class="image image-dither image--contain flex-none
+                w--56 lg:w--[45cqw]
+                h--80 lg:h--[70cqh]
+                lg:portrait:w--[45cqw] lg:portrait:h--[40cqh]"
+         src="{{ entry.image }}" alt="{{ entry.title }}" />
     <div class="flex flex--col gap--small">
-      <span class="label label--underline">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-      <span class="value value--large lg:value--xlarge">{{ entry.title }}</span>
-      <p class="description">{{ entry.fact }}</p>
+      <span class="label label--underline lg:label--xlarge">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
+      <span class="value value--large lg:value--xxlarge">{{ entry.title }}</span>
+      <p class="description lg:description--xlarge">{{ entry.fact }}</p>
     </div>
   </div>
 </div>
 {% else %}
 <div class="layout layout--center">
-  <span class="value">The archive is silent today&hellip;</span>
+  <span class="value lg:value--large">The archive is silent today&hellip;</span>
 </div>
 {% endif %}
 

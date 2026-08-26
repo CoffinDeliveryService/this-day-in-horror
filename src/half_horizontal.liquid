@@ -6,16 +6,19 @@
 {% if entry %}
 <div class="layout layout--center">
   <div class="flex flex--row flex--center gap--medium">
-    <img class="image image-dither image--contain w--24 h--32" src="{{ entry.image }}" alt="{{ entry.title }}" />
+    <img class="image image-dither image--contain flex-none
+                w--24 h--32
+                lg:w--[20cqw] lg:h--[70cqh]"
+         src="{{ entry.image }}" alt="{{ entry.title }}" />
     <div class="flex flex--col gap--xsmall">
-      <span class="label label--small">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-      <span class="value lg:value--large">{{ entry.title }}</span>
-      <p class="description">{{ entry.fact | truncate: 110 }}</p>
+      <span class="label label--small lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
+      <span class="value lg:value--xlarge">{{ entry.title }}</span>
+      <p class="description lg:description--large">{{ entry.fact | truncate: 110 }}</p>
     </div>
   </div>
 </div>
 {% else %}
-<div class="layout layout--center"><span class="value">The archive is silent today&hellip;</span></div>
+<div class="layout layout--center"><span class="value lg:value--large">The archive is silent today&hellip;</span></div>
 {% endif %}
 
 <div class="title_bar">

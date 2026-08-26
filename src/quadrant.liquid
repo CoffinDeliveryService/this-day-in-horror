@@ -5,11 +5,11 @@
 {% if entry %}
 <div class="layout layout--center">
   <div class="flex flex--col gap--xsmall">
-    <span class="label label--small">THIS DAY IN HORROR &bull; {{ entry.year }}</span>
+    <span class="label label--small lg:label--large">THIS DAY IN HORROR &bull; {{ entry.year }}</span>
     <span class="value lg:value--large">{{ entry.title }}</span>
-    <p class="description">{{ entry.fact | truncate: 100 }}</p>
+    <p class="description lg:description--large">{{ entry.fact | truncate: 100 }}</p>
   </div>
 </div>
 {% else %}
-<div class="layout layout--center"><span class="value">&hellip;</span></div>
+<div class="layout layout--center"><span class="value lg:value--large">&hellip;</span></div>
 {% endif %}
