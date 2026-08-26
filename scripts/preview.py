@@ -29,6 +29,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CSS_URL = "https://trmnl.com/css/latest/plugins.css"
+JS_URL = "https://trmnl.com/js/latest/plugins.js"
 CSS_MAX_AGE = 7 * 24 * 3600  # re-download the cached framework CSS weekly
 
 # Device/orientation matrix. TRMNL gates responsive classes on screen classes:
@@ -206,6 +207,24 @@ def framework_css(out_dir):
     return css.name
 
 
+def framework_js(out_dir):
+    """Cache plugins.js — it implements the data-clamp / clamp--N line clamping,
+    so without it the preview would not reflect how text is trimmed."""
+    js = out_dir / "plugins.js"
+    fresh = js.exists() and (time.time() - js.stat().st_mtime) < CSS_MAX_AGE
+    if not fresh:
+        try:
+            req = urllib.request.Request(JS_URL, headers={"User-Agent": "ThisDayInHorror/1.0"})
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                js.write_bytes(resp.read())
+            print(f"  cached framework JS ({js.stat().st_size // 1024} KB)")
+        except Exception as e:
+            if not js.exists():
+                print(f"  WARNING: could not fetch framework JS ({e}); clamping will not run.")
+                return JS_URL
+    return js.name
+
+
 def build_context(mmdd, days):
     fixed = calendar.timegm(time.strptime(f"2024-{mmdd}", "%Y-%m-%d")) - UTC_OFFSET
     return {
@@ -242,6 +261,7 @@ def main():
     out_dir = ROOT / "preview"
     out_dir.mkdir(exist_ok=True)
     css_href = framework_css(out_dir)
+    js_href = framework_js(out_dir)
 
     blocks = []
     if devices:
@@ -278,6 +298,7 @@ def main():
 <meta charset="utf-8">
 <title>This Day in Horror — {mmdd}</title>
 <link rel="stylesheet" href="{css_href}">
+<script src="{js_href}"></script>
 <style>
   body {{ background:#e5e5e5; margin:0; }}
   .gallery {{ font-family:system-ui,sans-serif; padding:32px;
