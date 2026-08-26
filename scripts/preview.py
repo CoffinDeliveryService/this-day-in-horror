@@ -10,6 +10,7 @@ Usage:
     python3 scripts/preview.py 10-31              # a specific day
     python3 scripts/preview.py 10-31 quadrant     # a specific layout
     python3 scripts/preview.py --all              # every layout, today
+    python3 scripts/preview.py --devices          # FULL on OG, TRMNL X, X portrait
 
 Writes preview/preview.html — open it in a browser.
 
@@ -29,6 +30,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CSS_URL = "https://trmnl.com/css/latest/plugins.css"
 CSS_MAX_AGE = 7 * 24 * 3600  # re-download the cached framework CSS weekly
+
+# Device/orientation matrix. TRMNL gates responsive classes on screen classes:
+# `lg:` needs .screen--lg, portrait variants need .screen--portrait, and the
+# cqw/cqh units resolve against .layout (container-type: size).
+DEVICES = {
+    "og":         {"label": "OG 800x480",            "w": 800,  "h": 480,  "cls": "screen--og screen--sm screen--1bit"},
+    "x_landscape":{"label": "TRMNL X 1040x780",      "w": 1040, "h": 780,  "cls": "screen--v2 screen--lg"},
+    "x_portrait": {"label": "TRMNL X portrait 780x1040", "w": 780, "h": 1040, "cls": "screen--v2 screen--lg screen--portrait"},
+}
 
 # TRMNL screen sizes, in pixels
 SIZES = {
@@ -218,7 +228,9 @@ def render_layout(layout, mmdd, days):
 def main():
     args = [a for a in sys.argv[1:]]
     show_all = "--all" in args
-    args = [a for a in args if a != "--all"]
+    show_devices = "--devices" in args
+    args = [a for a in args if a not in ("--all", "--devices")]
+    devices = list(DEVICES) if show_devices else None
     mmdd = args[0] if args else time.strftime("%m-%d")
     layouts = list(SIZES) if show_all else [args[1] if len(args) > 1 else "full"]
 
@@ -232,14 +244,31 @@ def main():
     css_href = framework_css(out_dir)
 
     blocks = []
-    for layout in layouts:
-        if layout not in SIZES:
-            sys.exit(f"unknown layout {layout!r}; choose from {', '.join(SIZES)}")
-        w, h = SIZES[layout]
-        blocks.append(f"""
-  <figure>
+    if devices:
+        for dev in devices:
+            d = DEVICES[dev]
+            for layout in layouts:
+                # Slot geometry within the device screen
+                w, h = d["w"], d["h"]
+                if layout == "half_horizontal": h = h // 2
+                elif layout == "half_vertical": w = w // 2
+                elif layout == "quadrant":      w, h = w // 2, h // 2
+                blocks.append(f"""
+  <figure data-device="{dev}" data-layout="{layout}">
+    <figcaption>{d['label']} &middot; {layout}</figcaption>
+    <div class="screen {d['cls']}" style="width:{w}px;height:{h}px">
+      <div class="view view--{layout}">{render_layout(layout, mmdd, days)}</div>
+    </div>
+  </figure>""")
+    else:
+        for layout in layouts:
+            if layout not in SIZES:
+                sys.exit(f"unknown layout {layout!r}; choose from {', '.join(SIZES)}")
+            w, h = SIZES[layout]
+            blocks.append(f"""
+  <figure data-device="og" data-layout="{layout}">
     <figcaption>{layout} &middot; {w}&times;{h}</figcaption>
-    <div class="screen screen--1bit" style="width:{w}px;height:{h}px">
+    <div class="screen screen--og screen--sm screen--1bit" style="width:{w}px;height:{h}px">
       <div class="view view--{layout}">{render_layout(layout, mmdd, days)}</div>
     </div>
   </figure>""")
