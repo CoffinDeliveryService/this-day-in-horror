@@ -91,6 +91,16 @@ TRMNL X rotated to portrait (780x1040).
   TRMNL X is rotated.
 - **Text scales with `lg:`** — label, value and description all step up on the
   larger screen (e.g. 16/58/12px on OG becomes 26/96/21px on X).
+- **Facts are line-clamped, not character-truncated.** Each description carries
+  `data-clamp` / `data-clamp-lg` / `data-clamp-lg-portrait`, so the framework
+  trims by *rendered lines* against the actual slot. An earlier version used
+  Liquid `truncate: N`, which cut mid-sentence with an ellipsis on most days
+  regardless of how much room the display actually had.
+
+  The clamp values are set so the longest entries still fit: across the 30
+  worst-case days x 4 layouts x 3 devices (360 renders), **nothing overflows and
+  nothing is ellipsed**. The clamp remains as a guarantee that no future edit can
+  push text off-screen.
 
 Verify locally across the whole matrix:
 
