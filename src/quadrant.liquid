@@ -5,9 +5,9 @@
 {% if entry %}
 <div class="layout layout--center">
   <div class="flex flex--col gap--xsmall">
-    <span class="label label--small lg:label--large">THIS DAY IN HORROR &bull; {{ entry.year }}</span>
+    <span class="label label--base lg:label--large">THIS DAY IN HORROR &bull; {{ entry.year }}</span>
     <span class="value lg:value--large">{{ entry.title }}</span>
-    <p class="description lg:description--large" data-clamp="3" data-clamp-lg="4" data-clamp-lg-portrait="4">{{ entry.fact }}</p>
+    <p class="description description--base lg:description--large">{{ entry.fact }}</p>
   </div>
 </div>
 {% else %}

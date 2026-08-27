@@ -5,15 +5,13 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex flex--row flex--center gap--medium">
-    <img class="image image-dither image--contain flex-none
-                w--24 h--32
-                lg:w--[20cqw] lg:h--[70cqh]"
+  <div class="flex flex--row flex--center gap--medium lg:portrait:flex--col">
+    <img class="image image-dither image--contain w--24 lg:w--[20cqw] h--32 lg:h--auto"
          src="{{ entry.image }}" alt="{{ entry.title }}" />
     <div class="flex flex--col gap--xsmall">
-      <span class="label label--small lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
+      <span class="label label--base lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
       <span class="value lg:value--xlarge">{{ entry.title }}</span>
-      <p class="description lg:description--large" data-clamp="2" data-clamp-lg="3" data-clamp-lg-portrait="3">{{ entry.fact }}</p>
+      <p class="description description--base lg:description--large">{{ entry.fact }}</p>
     </div>
   </div>
 </div>
