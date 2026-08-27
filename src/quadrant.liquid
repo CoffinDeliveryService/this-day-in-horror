@@ -7,7 +7,7 @@
   <div class="flex flex--col gap--xsmall">
     <span class="label label--base lg:label--large">THIS DAY IN HORROR &bull; {{ entry.year }}</span>
     <span class="value lg:value--large">{{ entry.title }}</span>
-    <p class="description description--base lg:description--large">{{ entry.fact }}</p>
+    <p class="description description--base lg:description--large" data-clamp="2" data-clamp-lg="3">{{ entry.fact }}</p>
   </div>
 </div>
 {% else %}
