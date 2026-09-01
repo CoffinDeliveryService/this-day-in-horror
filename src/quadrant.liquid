@@ -4,10 +4,9 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex flex--col gap--xsmall">
-    <span class="label label--base lg:label--large">THIS DAY IN HORROR &bull; {{ entry.year }}</span>
-    <span class="value value--small lg:value--large" data-clamp="2">{{ entry.title }}</span>
-    <p class="description description--base lg:description--large" data-clamp="2" data-clamp-lg="3">{{ entry.fact }}</p>
+  <div class="flex flex--col flex--center gap--xsmall text--center">
+    <span class="label label--base lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
+    <span class="value lg:value--large" data-clamp="3">{{ entry.title }}</span>
   </div>
 </div>
 {% else %}

@@ -8,19 +8,18 @@
   <div class="flex flex--row flex--center gap--medium">
     {% if entry.orientation == "landscape" %}
       <img class="image image-dither image--contain flex-none
-                  w--32 lg:w--[26cqw] h--auto
-                  h--max-[80cqh] lg:h--max-[80cqh]"
+                  w--[30cqw] lg:w--[30cqw] h--auto
+                  h--max-[86cqh] lg:h--max-[86cqh]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% else %}
       <img class="image image-dither image--contain flex-none
-                  h--40 lg:h--[82cqh] w--auto
-                  w--max-[22cqw] lg:w--max-[24cqw]"
+                  h--[88cqh] lg:h--[88cqh] w--auto
+                  w--max-[24cqw] lg:w--max-[26cqw]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% endif %}
-    <div class="flex flex--col gap--xsmall">
+    <div class="flex flex--col gap--xsmall text--center">
       <span class="label label--base lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-      <span class="value lg:value--large" data-clamp="2">{{ entry.title }}</span>
-      <p class="description description--base lg:description--large" data-clamp="2" data-clamp-lg="3">{{ entry.fact }}</p>
+      <span class="value lg:value--xlarge" data-clamp="2">{{ entry.title }}</span>
     </div>
   </div>
 </div>
