@@ -8,17 +8,17 @@
   <div class="flex flex--col flex--center gap--small text--center">
     {% if entry.orientation == "landscape" %}
       <img class="image image-dither image--contain flex-none
-                  w--48 lg:w--[88cqw] h--auto
-                  h--max-[34cqh] lg:h--max-[40cqh]"
+                  w--[88cqw] lg:w--[88cqw] h--auto
+                  h--max-[36cqh] lg:h--max-[40cqh]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% else %}
       <img class="image image-dither image--contain flex-none
-                  w--40 lg:w--[62cqw] h--auto
-                  h--max-[50cqh] lg:h--max-[58cqh]"
+                  w--[60cqw] lg:w--[62cqw] h--auto
+                  h--max-[62cqh] lg:h--max-[58cqh]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% endif %}
     <span class="label label--base lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-    <span class="value lg:value--large" data-clamp="2">{{ entry.title }}</span>
+    <span class="value value--small lg:value--large" data-clamp="2">{{ entry.title }}</span>
     <p class="description description--base lg:description--large" data-clamp="3" data-clamp-lg="4">{{ entry.fact }}</p>
   </div>
 </div>
