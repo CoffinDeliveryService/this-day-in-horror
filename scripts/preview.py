@@ -39,6 +39,14 @@ DEVICES = {
     "og":         {"label": "OG 800x480",            "w": 800,  "h": 480,  "cls": "screen--og screen--sm screen--1bit"},
     "x_landscape":{"label": "TRMNL X 1040x780",      "w": 1040, "h": 780,  "cls": "screen--v2 screen--lg"},
     "x_portrait": {"label": "TRMNL X portrait 780x1040", "w": 780, "h": 1040, "cls": "screen--v2 screen--lg screen--portrait"},
+    # Real-world BYOD device: Kindle Paperwhite 7th gen reports screen--md, and
+    # owners can set a text scale that inflates every font.
+    "kindle_md": {"label": "Kindle PW7 905x670 (md)", "w": 905, "h": 670,
+                  "cls": "screen--amazon_kindle_paperwhite_7th_gen screen--md"},
+    "kindle_md_xl": {"label": "Kindle PW7 (md, text xlarge)", "w": 905, "h": 670,
+                     "cls": "screen--amazon_kindle_paperwhite_7th_gen screen--md screen--text-scale-xlarge"},
+    "kindle_md_xl_port": {"label": "Kindle PW7 portrait (md, xlarge)", "w": 670, "h": 905,
+                          "cls": "screen--amazon_kindle_paperwhite_7th_gen screen--md screen--portrait screen--text-scale-xlarge"},
 }
 
 # TRMNL screen sizes, in pixels
@@ -120,8 +128,19 @@ def evaluate(expr, ctx):
     return val
 
 
+
+def evaluate_condition(expr, ctx):
+    """Support `a == b`, `a != b`, and plain truthiness."""
+    for op in ("==", "!="):
+        if op in expr:
+            left, right = expr.split(op, 1)
+            lv, rv = evaluate(left.strip(), ctx), evaluate(right.strip(), ctx)
+            return (lv == rv) if op == "==" else (lv != rv)
+    return evaluate(expr, ctx)
+
 def render(tpl, ctx):
     """Render assigns, if/else blocks, and {{ }} output."""
+    tpl = re.sub(r"\{%-?\s*comment\s*-?%\}.*?\{%-?\s*endcomment\s*-?%\}", "", tpl, flags=re.S)
     # {% assign x = ... %}
     def do_assign(m):
         ctx[m.group(1)] = evaluate(m.group(2), ctx)
@@ -168,7 +187,7 @@ def render(tpl, ctx):
             else:
                 truthy, falsy = tpl[m.end() : end_at[0]], ""
 
-            val = evaluate(body, ctx)
+            val = evaluate_condition(body, ctx)
             chosen = truthy if val not in (None, False, "") else falsy
             out.append(render(chosen, ctx))
             pos = end_at[1]
