@@ -20,11 +20,16 @@ rather than polling.
   **Wikidata** for the most notable horror film (by Wikipedia sitelink count)
   with an exact release date on that day, then fetches each entry's lead image
   (poster/portrait) from **Wikipedia** and bakes the URL in.
+- [scripts/add_orientation.py](scripts/add_orientation.py) — tags every entry with
+  an `orientation` of `portrait`, `landscape` or `square`, read from the real
+  Wikipedia image dimensions (currently 348 / 14 / 4). The templates branch on
+  this so posters and wide stills are each sized to fill the view properly.
+  Run it after `build.py`.
 - [data/static_data.json](data/static_data.json) — **this is what goes into the
   plugin.** It is `days.json` wrapped as `{"days": …}`, ready to paste into
   TRMNL's *Static data* field. See "How the plugin gets its data" below.
 - Output: [data/days.json](data/days.json) — 366 entries, all with images, minified
-  to ~86 KB. **TRMNL rejects polling responses over 100 KB**, so the build strips
+  to ~93 KB. **TRMNL rejects polling responses over 100 KB**, so the build strips
   build-only fields and image query params; it prints a warning if the file grows
   past the limit. [data/days.full.json](data/days.full.json) keeps the unminified
   copy (with `wiki`/`source` fields) for maintenance — the plugin does not use it.
@@ -75,17 +80,17 @@ field to publish it.
 Every view is built to work on TRMNL OG (800x480), TRMNL X (1040x780), and
 TRMNL X rotated to portrait (780x1040).
 
-- **Images bound both axes** — e.g. FULL uses
-  `w--56 lg:w--[45cqw] h--80 lg:h--[70cqh] lg:portrait:w--[45cqw] lg:portrait:h--[40cqh]`
-  together with `image--contain`. The container-relative (`cqw`/`cqh`) values at
-  `lg:` let the poster grow with the larger screen instead of staying pinned to
-  a fixed pixel size.
+- **Images are bounded on both axes** using container-relative (`cqw`/`cqh`)
+  values at `lg:`, so the artwork grows with the larger screen instead of
+  staying pinned to a fixed pixel size, and `w--max-` / `h--max-` constraints
+  stop it overshooting. `image--contain` letterboxes inside the box, so any
+  aspect ratio is safe.
 
-  Bounding *both* axes matters: the dataset mixes portrait posters with
-  landscape stills and portraits, so constraining only height lets a wide image
-  blow out the row width (and vice versa). `image--contain` letterboxes inside
-  the box, so any aspect ratio is safe.
-
+- **The image branches on `entry.orientation`** (Liquid `if`/`else`). Tall
+  posters are driven from height (`h--96 lg:h--[85cqh]`, width capped) so they
+  fill the view; wide stills are driven from width (`w--64 lg:w--[45cqw]`,
+  height capped). One rule cannot flatter both shapes — a height-driven wide
+  still blows out the row, and a width-driven poster overshoots vertically.
 - **`flex-none` on the image** stops it being squeezed by long titles.
 - **`lg:portrait:flex--col`** on the FULL row re-stacks image above text when
   TRMNL X is rotated.
