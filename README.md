@@ -1,11 +1,8 @@
 # This Day in Horror
 
 A TRMNL plugin that shows one piece of horror history for the current date — a
-film released that day, or a birth or death in the genre — with the poster art,
-the year, and the title, dithered for e-ink.
-
-All 366 days are filled, one entry per day. Works on TRMNL OG and TRMNL X, in
-both orientations, in all four layouts.
+film released that day, or a birth or death in the genre — with an image, the
+year, and the title, dithered for e-ink.
 
 ## Install
 
@@ -53,7 +50,7 @@ Add or replace an entry in [`data/curated.json`](data/curated.json), keyed by
 ```
 
 `title` and `year` are what appear on screen. `wiki` is the English Wikipedia
-article title the poster is pulled from. `category` is the small header label —
+article title the image is pulled from. `category` is the small header label —
 one of `release`, `death`, `birth`, `publication`, `trivia`. `fact` is kept for
 reference and is not currently rendered on any layout.
 
@@ -81,8 +78,8 @@ Curated entries win when both sources have something for the same date.
 
 For the automatic 296, `build.py` queries Wikidata for horror films with an exact
 release date, ranks the candidates for each date by how many Wikipedia language
-editions they appear in, keeps the most notable one, and pulls its poster from
-Wikipedia. `add_orientation.py` then tags every entry `portrait`, `landscape` or
+editions they appear in, keeps the most notable one, and pulls its lead image
+from Wikipedia. `add_orientation.py` then tags every entry `portrait`, `landscape` or
 `square` from the real image dimensions (currently 348 / 14 / 4); the templates
 size images differently per tag.
 
@@ -140,4 +137,6 @@ Automatic entries use each film's earliest exact release date on Wikidata, which
 is sometimes a festival premiere rather than the wide release. Override any date
 in `curated.json`.
 
-Poster images are hot-linked from Wikipedia and Wikimedia at low resolution.
+Images are hot-linked from Wikipedia and Wikimedia at low resolution. Most are
+posters; some are stills or portraits, which is why entries carry an orientation
+tag.
