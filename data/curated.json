@@ -1,72 +1,492 @@
 {
-  "01-01": { "year": 1818, "category": "publication", "title": "Frankenstein", "fact": "Mary Shelley's Frankenstein was published anonymously in London on New Year's Day 1818 — the book that invented modern horror.", "wiki": "Frankenstein" },
-  "01-19": { "year": 1809, "category": "birth", "title": "Edgar Allan Poe", "fact": "Edgar Allan Poe, master of the macabre, was born in Boston in 1809.", "wiki": "Edgar Allan Poe" },
-  "01-25": { "year": 1999, "category": "trivia", "title": "The Blair Witch Project", "fact": "The Blair Witch Project premiered at a midnight Sundance screening in 1999, igniting the found-footage boom.", "wiki": "The Blair Witch Project" },
-  "01-29": { "year": 1845, "category": "publication", "title": "The Raven", "fact": "Poe's 'The Raven' first appeared in print in 1845 and made its author famous almost overnight.", "wiki": "The Raven" },
-  "02-01": { "year": 1851, "category": "death", "title": "Mary Shelley", "fact": "Mary Shelley, who dreamed up Frankenstein at age 18, died on this day in 1851.", "wiki": "Mary Shelley" },
-  "02-02": { "year": 1969, "category": "death", "title": "Boris Karloff", "fact": "Boris Karloff, the screen's definitive Frankenstein monster, died on this day in 1969.", "wiki": "Boris Karloff" },
-  "02-05": { "year": 1956, "category": "release", "title": "Invasion of the Body Snatchers", "fact": "Cold War paranoia classic Invasion of the Body Snatchers first crept into theaters in 1956.", "wiki": "Invasion of the Body Snatchers (1956 film)" },
-  "02-14": { "year": 1931, "category": "release", "title": "Dracula", "fact": "Universal released Dracula on Valentine's Day 1931 as 'the strangest love story of all' — and 60 years later to the day, The Silence of the Lambs opened in 1991.", "wiki": "Dracula (1931 English-language film)" },
-  "02-24": { "year": 2017, "category": "release", "title": "Get Out", "fact": "Jordan Peele's Get Out opened in 2017, redefining social horror and winning Peele an Oscar for the screenplay.", "wiki": "Get Out" },
-  "02-29": { "year": 1692, "category": "trivia", "title": "The Salem Witch Trials", "fact": "On leap day 1692, arrest warrants were issued for the first three women accused of witchcraft in Salem.", "wiki": "Salem witch trials" },
-  "03-01": { "year": 1692, "category": "trivia", "title": "The Salem Witch Trials", "fact": "The first Salem witch examinations began on this day in 1692, when Tituba's confession set off a deadly panic.", "wiki": "Salem witch trials" },
-  "03-02": { "year": 1933, "category": "release", "title": "King Kong", "fact": "King Kong premiered at Radio City Music Hall in 1933, terrifying audiences with the eighth wonder of the world.", "wiki": "King Kong (1933 film)" },
-  "03-04": { "year": 1922, "category": "release", "title": "Nosferatu", "fact": "F.W. Murnau's Nosferatu premiered in Berlin in 1922. A court later ordered every print destroyed as a Dracula rip-off — one survived.", "wiki": "Nosferatu" },
-  "03-13": { "year": 2015, "category": "release", "title": "It Follows", "fact": "It Follows opened in 2015, turning a slow walk into one of the decade's most dreaded images.", "wiki": "It Follows" },
-  "03-15": { "year": 1937, "category": "death", "title": "H.P. Lovecraft", "fact": "H.P. Lovecraft died poor and obscure in Providence in 1937, decades before his cosmic horror conquered pop culture.", "wiki": "H. P. Lovecraft" },
-  "03-22": { "year": 2019, "category": "release", "title": "Us", "fact": "Jordan Peele's doppelgänger nightmare Us opened in 2019 to one of the biggest original-horror debuts ever.", "wiki": "Us (2019 film)" },
-  "03-28": { "year": 1963, "category": "release", "title": "The Birds", "fact": "Alfred Hitchcock's The Birds premiered in New York in 1963 — nature's revenge, with no musical score at all.", "wiki": "The Birds (film)" },
-  "03-30": { "year": 1992, "category": "trivia", "title": "The Silence of the Lambs", "fact": "On Oscar night 1992, The Silence of the Lambs swept the 'Big Five' awards — still the only horror film to win Best Picture.", "wiki": "The Silence of the Lambs (film)" },
-  "04-01": { "year": 1883, "category": "birth", "title": "Lon Chaney", "fact": "Lon Chaney, the 'Man of a Thousand Faces' behind the Phantom of the Opera, was born in 1883.", "wiki": "Lon Chaney" },
-  "04-06": { "year": 2018, "category": "release", "title": "A Quiet Place", "fact": "A Quiet Place opened in 2018 and made entire theaters afraid to eat their popcorn.", "wiki": "A Quiet Place" },
-  "04-20": { "year": 1912, "category": "death", "title": "Bram Stoker", "fact": "Bram Stoker, author of Dracula, died in London in 1912 — the same week the Titanic sank.", "wiki": "Bram Stoker" },
-  "04-29": { "year": 1980, "category": "death", "title": "Alfred Hitchcock", "fact": "Alfred Hitchcock, the Master of Suspense, died on this day in 1980.", "wiki": "Alfred Hitchcock" },
-  "05-09": { "year": 1980, "category": "release", "title": "Friday the 13th", "fact": "Friday the 13th opened in 1980, sending a generation of campers home from Crystal Lake early.", "wiki": "Friday the 13th (1980 film)" },
-  "05-23": { "year": 1980, "category": "release", "title": "The Shining", "fact": "Stanley Kubrick's The Shining opened in 1980. Stephen King famously hated it; audiences never forgot it.", "wiki": "The Shining (film)" },
-  "05-25": { "year": 1979, "category": "release", "title": "Alien", "fact": "Alien opened in American theaters in 1979: in space, no one can hear you scream.", "wiki": "Alien (film)" },
-  "05-26": { "year": 1897, "category": "publication", "title": "Dracula", "fact": "Bram Stoker's Dracula went on sale in London in 1897. Horror legend Peter Cushing was born on the same date in 1913.", "wiki": "Dracula" },
-  "05-27": { "year": 1911, "category": "birth", "title": "Vincent Price & Christopher Lee", "fact": "Horror royalty shares this birthday: Vincent Price (1911) and Christopher Lee (1922) were born exactly eleven years apart.", "wiki": "Vincent Price" },
-  "06-04": { "year": 1982, "category": "release", "title": "Poltergeist", "fact": "Poltergeist opened in 1982 and made an entire generation distrust television static and clown dolls.", "wiki": "Poltergeist (1982 film)" },
-  "06-06": { "year": 1976, "category": "release", "title": "The Omen", "fact": "The Omen opened on 6/6/76 — a marketing masterstroke for a film about the birth of the Antichrist.", "wiki": "The Omen" },
-  "06-07": { "year": 2015, "category": "death", "title": "Christopher Lee", "fact": "Sir Christopher Lee, Hammer's Dracula across a half-century of screen villainy, died on this day in 2015.", "wiki": "Christopher Lee" },
-  "06-08": { "year": 2018, "category": "release", "title": "Hereditary", "fact": "Ari Aster's Hereditary opened in 2018, giving A24 its biggest hit to date and audiences a new fear of clucking sounds.", "wiki": "Hereditary (film)" },
-  "06-12": { "year": 1968, "category": "release", "title": "Rosemary's Baby", "fact": "Rosemary's Baby opened in 1968, bringing the Devil into a Manhattan apartment building.", "wiki": "Rosemary's Baby (film)" },
-  "06-16": { "year": 1960, "category": "release", "title": "Psycho", "fact": "Psycho premiered in New York in 1960. Hitchcock barred theaters from admitting anyone after it began.", "wiki": "Psycho (1960 film)" },
-  "06-20": { "year": 1975, "category": "release", "title": "Jaws", "fact": "Jaws opened in 1975, inventing the summer blockbuster and emptying beaches across America.", "wiki": "Jaws (film)" },
-  "06-25": { "year": 1982, "category": "release", "title": "The Thing", "fact": "John Carpenter's The Thing opened in 1982 — savaged by critics, ignored by audiences, and later canonized as a masterpiece.", "wiki": "The Thing (1982 film)" },
-  "06-26": { "year": 1948, "category": "publication", "title": "The Lottery", "fact": "Shirley Jackson's 'The Lottery' ran in The New Yorker in 1948 and drew the most hate mail in the magazine's history.", "wiki": "Shirley Jackson" },
-  "07-03": { "year": 2019, "category": "release", "title": "Midsommar", "fact": "Midsommar opened in 2019, proving horror can be just as terrifying in broad daylight.", "wiki": "Midsommar" },
-  "07-14": { "year": 1999, "category": "release", "title": "The Blair Witch Project", "fact": "The Blair Witch Project hit theaters in 1999 — made for around $60,000, it grossed nearly $250 million.", "wiki": "The Blair Witch Project" },
-  "07-16": { "year": 2017, "category": "death", "title": "George A. Romero", "fact": "George A. Romero, father of the modern zombie film, died on this day in 2017.", "wiki": "George A. Romero" },
-  "07-19": { "year": 2013, "category": "release", "title": "The Conjuring", "fact": "The Conjuring opened in 2013, launching horror's biggest cinematic universe from a Rhode Island farmhouse.", "wiki": "The Conjuring" },
-  "08-06": { "year": 1999, "category": "release", "title": "The Sixth Sense", "fact": "The Sixth Sense opened in 1999. Audiences kept its ending secret all summer.", "wiki": "The Sixth Sense" },
-  "08-08": { "year": 1965, "category": "death", "title": "Shirley Jackson", "fact": "Shirley Jackson, author of The Haunting of Hill House, died on this day in 1965.", "wiki": "Shirley Jackson" },
-  "08-11": { "year": 1994, "category": "death", "title": "Peter Cushing", "fact": "Peter Cushing, Hammer Films' gentleman Van Helsing and Baron Frankenstein, died on this day in 1994.", "wiki": "Peter Cushing" },
-  "08-13": { "year": 1899, "category": "birth", "title": "Alfred Hitchcock", "fact": "Alfred Hitchcock, the Master of Suspense, was born in London in 1899.", "wiki": "Alfred Hitchcock" },
-  "08-16": { "year": 1956, "category": "death", "title": "Bela Lugosi", "fact": "Bela Lugosi died on this day in 1956 and was buried wearing his Dracula cape.", "wiki": "Bela Lugosi" },
-  "08-20": { "year": 1890, "category": "birth", "title": "H.P. Lovecraft", "fact": "H.P. Lovecraft, architect of cosmic horror and the Cthulhu Mythos, was born in Providence in 1890.", "wiki": "H. P. Lovecraft" },
-  "08-26": { "year": 1930, "category": "death", "title": "Lon Chaney & Tobe Hooper", "fact": "A dark double anniversary: silent horror icon Lon Chaney (1930) and Texas Chain Saw Massacre director Tobe Hooper (2017) both died on this day.", "wiki": "Lon Chaney" },
-  "08-30": { "year": 2015, "category": "death", "title": "Wes Craven", "fact": "Wes Craven, creator of Freddy Krueger and Scream, died in 2015 — on the birthday of Frankenstein author Mary Shelley (1797).", "wiki": "Wes Craven" },
-  "09-08": { "year": 2017, "category": "release", "title": "It", "fact": "It opened in 2017 and floated past every record to become the highest-grossing horror film of all time.", "wiki": "It (2017 film)" },
-  "09-21": { "year": 1947, "category": "birth", "title": "Stephen King", "fact": "Stephen King, the modern master of horror, was born in Portland, Maine in 1947.", "wiki": "Stephen King" },
-  "09-25": { "year": 2009, "category": "release", "title": "Paranormal Activity", "fact": "Paranormal Activity opened in 2009 — a $15,000 movie that became one of the most profitable films ever made.", "wiki": "Paranormal Activity" },
-  "10-01": { "year": 1968, "category": "release", "title": "Night of the Living Dead", "fact": "Night of the Living Dead premiered in Pittsburgh in 1968, and the modern zombie was born.", "wiki": "Night of the Living Dead" },
-  "10-07": { "year": 1849, "category": "death", "title": "Edgar Allan Poe", "fact": "Edgar Allan Poe died mysteriously in Baltimore in 1849, found delirious in clothes that were not his own.", "wiki": "Edgar Allan Poe" },
-  "10-18": { "year": 2002, "category": "release", "title": "The Ring", "fact": "The Ring opened in 2002, kicking off Hollywood's J-horror wave. Seven days...", "wiki": "The Ring (2002 film)" },
-  "10-20": { "year": 1882, "category": "birth", "title": "Bela Lugosi", "fact": "Bela Lugosi, the screen's original Count Dracula, was born in Lugos, Hungary in 1882.", "wiki": "Bela Lugosi" },
-  "10-25": { "year": 1978, "category": "release", "title": "Halloween", "fact": "John Carpenter's Halloween premiered in Kansas City in 1978. Fifteen years later to the day, Vincent Price passed away in 1993.", "wiki": "Halloween (1978 film)" },
-  "10-29": { "year": 2004, "category": "release", "title": "Saw", "fact": "Saw opened in 2004, launching the biggest horror franchise of its decade. Do you want to play a game?", "wiki": "Saw (2004 film)" },
-  "10-30": { "year": 1938, "category": "trivia", "title": "The War of the Worlds Broadcast", "fact": "On the night before Halloween 1938, Orson Welles's War of the Worlds radio broadcast convinced some listeners that Martians had landed.", "wiki": "The War of the Worlds (1938 radio drama)" },
-  "10-31": { "year": 1926, "category": "death", "title": "Harry Houdini", "fact": "Harry Houdini died on Halloween 1926. Séances attempting to contact him are still held every October 31.", "wiki": "Harry Houdini" },
-  "11-03": { "year": 1954, "category": "release", "title": "Godzilla", "fact": "Godzilla first rose from the sea in Japanese theaters in 1954, nuclear dread made flesh.", "wiki": "Godzilla (1954 film)" },
-  "11-08": { "year": 1847, "category": "birth", "title": "Bram Stoker", "fact": "Bram Stoker, the Dublin theater manager who wrote Dracula, was born in 1847.", "wiki": "Bram Stoker" },
-  "11-09": { "year": 1984, "category": "release", "title": "A Nightmare on Elm Street", "fact": "A Nightmare on Elm Street opened in 1984, and Freddy Krueger began haunting America's dreams.", "wiki": "A Nightmare on Elm Street" },
-  "11-13": { "year": 1992, "category": "release", "title": "Bram Stoker's Dracula", "fact": "Francis Ford Coppola's Bram Stoker's Dracula opened in 1992 with a record-setting bite at the box office.", "wiki": "Bram Stoker's Dracula (1992 film)" },
-  "11-16": { "year": 1957, "category": "trivia", "title": "Ed Gein Arrested", "fact": "Ed Gein was arrested in Plainfield, Wisconsin in 1957. His crimes inspired Psycho, The Texas Chain Saw Massacre, and The Silence of the Lambs.", "wiki": "Ed Gein" },
-  "11-21": { "year": 1931, "category": "release", "title": "Frankenstein", "fact": "Universal's Frankenstein opened in 1931. Theaters kept nurses on hand for fainting patrons — 'It's alive!'", "wiki": "Frankenstein (1931 film)" },
-  "11-23": { "year": 1887, "category": "birth", "title": "Boris Karloff", "fact": "Boris Karloff, born William Henry Pratt in London in 1887, became horror's gentlest monster.", "wiki": "Boris Karloff" },
-  "12-12": { "year": 1941, "category": "release", "title": "The Wolf Man", "fact": "The Wolf Man premiered in 1941, giving cinema its definitive werewolf legend — even a man who is pure in heart...", "wiki": "The Wolf Man (1941 film)" },
-  "12-14": { "year": 1916, "category": "birth", "title": "Shirley Jackson", "fact": "Shirley Jackson, whose Hill House still isn't sane, was born in 1916.", "wiki": "Shirley Jackson" },
-  "12-20": { "year": 1996, "category": "release", "title": "Scream", "fact": "Wes Craven's Scream opened in 1996, resurrecting the slasher by teaching it the rules.", "wiki": "Scream (1996 film)" },
-  "12-26": { "year": 1973, "category": "release", "title": "The Exorcist", "fact": "The Exorcist opened the day after Christmas 1973 — lines around the block, fainting audiences, and waiting ambulances.", "wiki": "The Exorcist" }
+ "01-01": {
+  "year": 1818,
+  "category": "publication",
+  "title": "Frankenstein",
+  "fact": "Mary Shelley's Frankenstein was published anonymously in London on New Year's Day 1818 — the book that invented modern horror.",
+  "wiki": "Frankenstein"
+ },
+ "01-19": {
+  "year": 1809,
+  "category": "birth",
+  "title": "Edgar Allan Poe",
+  "fact": "Edgar Allan Poe, master of the macabre, was born in Boston in 1809.",
+  "wiki": "Edgar Allan Poe"
+ },
+ "01-25": {
+  "year": 1999,
+  "category": "trivia",
+  "title": "The Blair Witch Project",
+  "fact": "The Blair Witch Project premiered at a midnight Sundance screening in 1999, igniting the found-footage boom.",
+  "wiki": "The Blair Witch Project"
+ },
+ "01-29": {
+  "year": 1845,
+  "category": "publication",
+  "title": "The Raven",
+  "fact": "Poe's 'The Raven' first appeared in print in 1845 and made its author famous almost overnight.",
+  "wiki": "The Raven"
+ },
+ "02-01": {
+  "year": 1851,
+  "category": "death",
+  "title": "Mary Shelley",
+  "fact": "Mary Shelley, who dreamed up Frankenstein at age 18, died on this day in 1851.",
+  "wiki": "Mary Shelley"
+ },
+ "02-02": {
+  "year": 1969,
+  "category": "death",
+  "title": "Boris Karloff",
+  "fact": "Boris Karloff, the screen's definitive Frankenstein monster, died on this day in 1969.",
+  "wiki": "Boris Karloff"
+ },
+ "02-05": {
+  "year": 1956,
+  "category": "release",
+  "title": "Invasion of the Body Snatchers",
+  "fact": "Cold War paranoia classic Invasion of the Body Snatchers first crept into theaters in 1956.",
+  "wiki": "Invasion of the Body Snatchers (1956 film)"
+ },
+ "02-14": {
+  "year": 1931,
+  "category": "release",
+  "title": "Dracula",
+  "fact": "Universal released Dracula on Valentine's Day 1931, billed as 'the strangest love story of all'.",
+  "wiki": "Dracula (1931 English-language film)"
+ },
+ "02-24": {
+  "year": 2017,
+  "category": "release",
+  "title": "Get Out",
+  "fact": "Jordan Peele's Get Out opened in 2017, redefining social horror and winning Peele an Oscar for the screenplay.",
+  "wiki": "Get Out"
+ },
+ "02-29": {
+  "year": 1692,
+  "category": "trivia",
+  "title": "The Salem Witch Trials",
+  "fact": "On leap day 1692, arrest warrants were issued for the first three women accused of witchcraft in Salem.",
+  "wiki": "Salem witch trials"
+ },
+ "03-01": {
+  "year": 1692,
+  "category": "trivia",
+  "title": "The Salem Witch Trials",
+  "fact": "The first Salem witch examinations began on this day in 1692, when Tituba's confession set off a deadly panic.",
+  "wiki": "Salem witch trials"
+ },
+ "03-02": {
+  "year": 1933,
+  "category": "release",
+  "title": "King Kong",
+  "fact": "King Kong premiered at Radio City Music Hall in 1933, terrifying audiences with the eighth wonder of the world.",
+  "wiki": "King Kong (1933 film)"
+ },
+ "03-04": {
+  "year": 1922,
+  "category": "release",
+  "title": "Nosferatu",
+  "fact": "F.W. Murnau's Nosferatu premiered in Berlin in 1922. A court later ordered every print destroyed as a Dracula rip-off — one survived.",
+  "wiki": "Nosferatu"
+ },
+ "03-13": {
+  "year": 2015,
+  "category": "release",
+  "title": "It Follows",
+  "fact": "It Follows opened in 2015, turning a slow walk into one of the decade's most dreaded images.",
+  "wiki": "It Follows"
+ },
+ "03-15": {
+  "year": 1937,
+  "category": "death",
+  "title": "H.P. Lovecraft",
+  "fact": "H.P. Lovecraft died poor and obscure in Providence in 1937, decades before his cosmic horror conquered pop culture.",
+  "wiki": "H. P. Lovecraft"
+ },
+ "03-22": {
+  "year": 2019,
+  "category": "release",
+  "title": "Us",
+  "fact": "Jordan Peele's doppelgänger nightmare Us opened in 2019 to one of the biggest original-horror debuts ever.",
+  "wiki": "Us (2019 film)"
+ },
+ "03-28": {
+  "year": 1963,
+  "category": "release",
+  "title": "The Birds",
+  "fact": "Alfred Hitchcock's The Birds premiered in New York in 1963 — nature's revenge, with no musical score at all.",
+  "wiki": "The Birds (film)"
+ },
+ "03-30": {
+  "year": 1992,
+  "category": "trivia",
+  "title": "The Silence of the Lambs",
+  "fact": "On Oscar night 1992, The Silence of the Lambs swept the 'Big Five' awards — still the only horror film to win Best Picture.",
+  "wiki": "The Silence of the Lambs (film)"
+ },
+ "04-01": {
+  "year": 1883,
+  "category": "birth",
+  "title": "Lon Chaney",
+  "fact": "Lon Chaney, the 'Man of a Thousand Faces' behind the Phantom of the Opera, was born in 1883.",
+  "wiki": "Lon Chaney"
+ },
+ "04-06": {
+  "year": 2018,
+  "category": "release",
+  "title": "A Quiet Place",
+  "fact": "A Quiet Place opened in 2018 and made entire theaters afraid to eat their popcorn.",
+  "wiki": "A Quiet Place"
+ },
+ "04-20": {
+  "year": 1912,
+  "category": "death",
+  "title": "Bram Stoker",
+  "fact": "Bram Stoker, author of Dracula, died in London in 1912 — the same week the Titanic sank.",
+  "wiki": "Bram Stoker"
+ },
+ "04-29": {
+  "year": 1980,
+  "category": "death",
+  "title": "Alfred Hitchcock",
+  "fact": "Alfred Hitchcock, the Master of Suspense, died on this day in 1980.",
+  "wiki": "Alfred Hitchcock"
+ },
+ "05-09": {
+  "year": 1980,
+  "category": "release",
+  "title": "Friday the 13th",
+  "fact": "Friday the 13th opened in 1980, sending a generation of campers home from Crystal Lake early.",
+  "wiki": "Friday the 13th (1980 film)"
+ },
+ "05-23": {
+  "year": 1980,
+  "category": "release",
+  "title": "The Shining",
+  "fact": "Stanley Kubrick's The Shining opened in 1980. Stephen King famously hated it; audiences never forgot it.",
+  "wiki": "The Shining (film)"
+ },
+ "05-25": {
+  "year": 1979,
+  "category": "release",
+  "title": "Alien",
+  "fact": "Alien opened in American theaters in 1979: in space, no one can hear you scream.",
+  "wiki": "Alien (film)"
+ },
+ "05-26": {
+  "year": 1897,
+  "category": "publication",
+  "title": "Dracula",
+  "fact": "Bram Stoker's Dracula went on sale in London in 1897, and the vampire entered popular culture for good.",
+  "wiki": "Dracula"
+ },
+ "05-27": {
+  "year": 1911,
+  "category": "birth",
+  "title": "Vincent Price",
+  "fact": "Vincent Price, whose velvet voice defined a century of screen horror, was born in St. Louis in 1911.",
+  "wiki": "Vincent Price"
+ },
+ "06-04": {
+  "year": 1982,
+  "category": "release",
+  "title": "Poltergeist",
+  "fact": "Poltergeist opened in 1982 and made an entire generation distrust television static and clown dolls.",
+  "wiki": "Poltergeist (1982 film)"
+ },
+ "06-06": {
+  "year": 1976,
+  "category": "release",
+  "title": "The Omen",
+  "fact": "The Omen opened on 6/6/76 — a marketing masterstroke for a film about the birth of the Antichrist.",
+  "wiki": "The Omen"
+ },
+ "06-07": {
+  "year": 2015,
+  "category": "death",
+  "title": "Christopher Lee",
+  "fact": "Sir Christopher Lee, Hammer's Dracula across a half-century of screen villainy, died on this day in 2015.",
+  "wiki": "Christopher Lee"
+ },
+ "06-08": {
+  "year": 2018,
+  "category": "release",
+  "title": "Hereditary",
+  "fact": "Ari Aster's Hereditary opened in 2018, giving A24 its biggest hit to date and audiences a new fear of clucking sounds.",
+  "wiki": "Hereditary (film)"
+ },
+ "06-12": {
+  "year": 1968,
+  "category": "release",
+  "title": "Rosemary's Baby",
+  "fact": "Rosemary's Baby opened in 1968, bringing the Devil into a Manhattan apartment building.",
+  "wiki": "Rosemary's Baby (film)"
+ },
+ "06-16": {
+  "year": 1960,
+  "category": "release",
+  "title": "Psycho",
+  "fact": "Psycho premiered in New York in 1960. Hitchcock barred theaters from admitting anyone after it began.",
+  "wiki": "Psycho (1960 film)"
+ },
+ "06-20": {
+  "year": 1975,
+  "category": "release",
+  "title": "Jaws",
+  "fact": "Jaws opened in 1975, inventing the summer blockbuster and emptying beaches across America.",
+  "wiki": "Jaws (film)"
+ },
+ "06-25": {
+  "year": 1982,
+  "category": "release",
+  "title": "The Thing",
+  "fact": "John Carpenter's The Thing opened in 1982 — savaged by critics, ignored by audiences, and later canonized as a masterpiece.",
+  "wiki": "The Thing (1982 film)"
+ },
+ "06-26": {
+  "year": 1948,
+  "category": "publication",
+  "title": "The Lottery",
+  "fact": "Shirley Jackson's 'The Lottery' ran in The New Yorker in 1948 and drew the most hate mail in the magazine's history.",
+  "wiki": "Shirley Jackson"
+ },
+ "07-03": {
+  "year": 2019,
+  "category": "release",
+  "title": "Midsommar",
+  "fact": "Midsommar opened in 2019, proving horror can be just as terrifying in broad daylight.",
+  "wiki": "Midsommar"
+ },
+ "07-14": {
+  "year": 1999,
+  "category": "release",
+  "title": "The Blair Witch Project",
+  "fact": "The Blair Witch Project hit theaters in 1999 — made for around $60,000, it grossed nearly $250 million.",
+  "wiki": "The Blair Witch Project"
+ },
+ "07-16": {
+  "year": 2017,
+  "category": "death",
+  "title": "George A. Romero",
+  "fact": "George A. Romero, father of the modern zombie film, died on this day in 2017.",
+  "wiki": "George A. Romero"
+ },
+ "07-19": {
+  "year": 2013,
+  "category": "release",
+  "title": "The Conjuring",
+  "fact": "The Conjuring opened in 2013, launching horror's biggest cinematic universe from a Rhode Island farmhouse.",
+  "wiki": "The Conjuring"
+ },
+ "08-06": {
+  "year": 1999,
+  "category": "release",
+  "title": "The Sixth Sense",
+  "fact": "The Sixth Sense opened in 1999. Audiences kept its ending secret all summer.",
+  "wiki": "The Sixth Sense"
+ },
+ "08-08": {
+  "year": 1965,
+  "category": "death",
+  "title": "Shirley Jackson",
+  "fact": "Shirley Jackson, author of The Haunting of Hill House, died on this day in 1965.",
+  "wiki": "Shirley Jackson"
+ },
+ "08-11": {
+  "year": 1994,
+  "category": "death",
+  "title": "Peter Cushing",
+  "fact": "Peter Cushing, Hammer Films' gentleman Van Helsing and Baron Frankenstein, died on this day in 1994.",
+  "wiki": "Peter Cushing"
+ },
+ "08-13": {
+  "year": 1899,
+  "category": "birth",
+  "title": "Alfred Hitchcock",
+  "fact": "Alfred Hitchcock, the Master of Suspense, was born in London in 1899.",
+  "wiki": "Alfred Hitchcock"
+ },
+ "08-16": {
+  "year": 1956,
+  "category": "death",
+  "title": "Bela Lugosi",
+  "fact": "Bela Lugosi died on this day in 1956 and was buried wearing his Dracula cape.",
+  "wiki": "Bela Lugosi"
+ },
+ "08-20": {
+  "year": 1890,
+  "category": "birth",
+  "title": "H.P. Lovecraft",
+  "fact": "H.P. Lovecraft, architect of cosmic horror and the Cthulhu Mythos, was born in Providence in 1890.",
+  "wiki": "H. P. Lovecraft"
+ },
+ "08-26": {
+  "year": 1930,
+  "category": "death",
+  "title": "Lon Chaney",
+  "fact": "Lon Chaney, the silent era's 'Man of a Thousand Faces', died on this day in 1930.",
+  "wiki": "Lon Chaney"
+ },
+ "08-30": {
+  "year": 2015,
+  "category": "death",
+  "title": "Wes Craven",
+  "fact": "Wes Craven, creator of Freddy Krueger and Scream, died in 2015 — on the birthday of Frankenstein author Mary Shelley (1797).",
+  "wiki": "Wes Craven"
+ },
+ "09-08": {
+  "year": 2017,
+  "category": "release",
+  "title": "It",
+  "fact": "It opened in 2017 and floated past every record to become the highest-grossing horror film of all time.",
+  "wiki": "It (2017 film)"
+ },
+ "09-21": {
+  "year": 1947,
+  "category": "birth",
+  "title": "Stephen King",
+  "fact": "Stephen King, the modern master of horror, was born in Portland, Maine in 1947.",
+  "wiki": "Stephen King"
+ },
+ "09-25": {
+  "year": 2009,
+  "category": "release",
+  "title": "Paranormal Activity",
+  "fact": "Paranormal Activity opened in 2009 — a $15,000 movie that became one of the most profitable films ever made.",
+  "wiki": "Paranormal Activity"
+ },
+ "10-01": {
+  "year": 1968,
+  "category": "release",
+  "title": "Night of the Living Dead",
+  "fact": "Night of the Living Dead premiered in Pittsburgh in 1968, and the modern zombie was born.",
+  "wiki": "Night of the Living Dead"
+ },
+ "10-07": {
+  "year": 1849,
+  "category": "death",
+  "title": "Edgar Allan Poe",
+  "fact": "Edgar Allan Poe died mysteriously in Baltimore in 1849, found delirious in clothes that were not his own.",
+  "wiki": "Edgar Allan Poe"
+ },
+ "10-18": {
+  "year": 2002,
+  "category": "release",
+  "title": "The Ring",
+  "fact": "The Ring opened in 2002, kicking off Hollywood's J-horror wave. Seven days...",
+  "wiki": "The Ring (2002 film)"
+ },
+ "10-20": {
+  "year": 1882,
+  "category": "birth",
+  "title": "Bela Lugosi",
+  "fact": "Bela Lugosi, the screen's original Count Dracula, was born in Lugos, Hungary in 1882.",
+  "wiki": "Bela Lugosi"
+ },
+ "10-25": {
+  "year": 1978,
+  "category": "release",
+  "title": "Halloween",
+  "fact": "John Carpenter's Halloween premiered in Kansas City in 1978, shot in just twenty days.",
+  "wiki": "Halloween (1978 film)"
+ },
+ "10-29": {
+  "year": 2004,
+  "category": "release",
+  "title": "Saw",
+  "fact": "Saw opened in 2004, launching the biggest horror franchise of its decade. Do you want to play a game?",
+  "wiki": "Saw (2004 film)"
+ },
+ "10-30": {
+  "year": 1938,
+  "category": "trivia",
+  "title": "The War of the Worlds Broadcast",
+  "fact": "On the night before Halloween 1938, Orson Welles's War of the Worlds radio broadcast convinced some listeners that Martians had landed.",
+  "wiki": "The War of the Worlds (1938 radio drama)"
+ },
+ "10-31": {
+  "year": 1926,
+  "category": "death",
+  "title": "Harry Houdini",
+  "fact": "Harry Houdini died on Halloween 1926. Séances attempting to contact him are still held every October 31.",
+  "wiki": "Harry Houdini"
+ },
+ "11-03": {
+  "year": 1954,
+  "category": "release",
+  "title": "Godzilla",
+  "fact": "Godzilla first rose from the sea in Japanese theaters in 1954, nuclear dread made flesh.",
+  "wiki": "Godzilla (1954 film)"
+ },
+ "11-08": {
+  "year": 1847,
+  "category": "birth",
+  "title": "Bram Stoker",
+  "fact": "Bram Stoker, the Dublin theater manager who wrote Dracula, was born in 1847.",
+  "wiki": "Bram Stoker"
+ },
+ "11-09": {
+  "year": 1984,
+  "category": "release",
+  "title": "A Nightmare on Elm Street",
+  "fact": "A Nightmare on Elm Street opened in 1984, and Freddy Krueger began haunting America's dreams.",
+  "wiki": "A Nightmare on Elm Street"
+ },
+ "11-13": {
+  "year": 1992,
+  "category": "release",
+  "title": "Bram Stoker's Dracula",
+  "fact": "Francis Ford Coppola's Bram Stoker's Dracula opened in 1992 with a record-setting bite at the box office.",
+  "wiki": "Bram Stoker's Dracula (1992 film)"
+ },
+ "11-16": {
+  "year": 1957,
+  "category": "trivia",
+  "title": "Ed Gein Arrested",
+  "fact": "Ed Gein was arrested in Plainfield, Wisconsin in 1957. His crimes inspired Psycho, The Texas Chain Saw Massacre, and The Silence of the Lambs.",
+  "wiki": "Ed Gein"
+ },
+ "11-21": {
+  "year": 1931,
+  "category": "release",
+  "title": "Frankenstein",
+  "fact": "Universal's Frankenstein opened in 1931. Theaters kept nurses on hand for fainting patrons — 'It's alive!'",
+  "wiki": "Frankenstein (1931 film)"
+ },
+ "11-23": {
+  "year": 1887,
+  "category": "birth",
+  "title": "Boris Karloff",
+  "fact": "Boris Karloff, born William Henry Pratt in London in 1887, became horror's gentlest monster.",
+  "wiki": "Boris Karloff"
+ },
+ "12-12": {
+  "year": 1941,
+  "category": "release",
+  "title": "The Wolf Man",
+  "fact": "The Wolf Man premiered in 1941, giving cinema its definitive werewolf legend — even a man who is pure in heart...",
+  "wiki": "The Wolf Man (1941 film)"
+ },
+ "12-14": {
+  "year": 1916,
+  "category": "birth",
+  "title": "Shirley Jackson",
+  "fact": "Shirley Jackson, whose Hill House still isn't sane, was born in 1916.",
+  "wiki": "Shirley Jackson"
+ },
+ "12-20": {
+  "year": 1996,
+  "category": "release",
+  "title": "Scream",
+  "fact": "Wes Craven's Scream opened in 1996, resurrecting the slasher by teaching it the rules.",
+  "wiki": "Scream (1996 film)"
+ },
+ "12-26": {
+  "year": 1973,
+  "category": "release",
+  "title": "The Exorcist",
+  "fact": "The Exorcist opened the day after Christmas 1973 — lines around the block, fainting audiences, and waiting ambulances.",
+  "wiki": "The Exorcist"
+ }
 }

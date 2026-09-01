@@ -10,7 +10,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christie%27s_auction_scan_of_Frankenstein_1818.jpg/500px-Christie%27s_auction_scan_of_Frankenstein_1818.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.683
+   "aspect": 0.683,
+   "has_blurb": true
   },
   "01-02": {
    "year": 2004,
@@ -21,7 +22,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/85/Ilcartaio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.7
+   "aspect": 0.7,
+   "has_blurb": false
   },
   "01-03": {
    "year": 2002,
@@ -32,7 +34,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Jeepers_Creepers_%282001_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "01-04": {
    "year": 2018,
@@ -43,7 +46,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/34/InsidiousTheLastKey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "01-05": {
    "year": 2013,
@@ -54,7 +58,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/The_Day_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "01-06": {
    "year": 2012,
@@ -65,7 +70,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Dvinside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "01-07": {
    "year": 2005,
@@ -76,7 +82,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/White_Noise_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "01-08": {
    "year": 2013,
@@ -87,7 +94,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/11/Mama_2012_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.634
+   "aspect": 0.634,
+   "has_blurb": false
   },
   "01-09": {
    "year": 2020,
@@ -98,7 +106,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Underwater_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.628
+   "aspect": 0.628,
+   "has_blurb": false
   },
   "01-10": {
    "year": 2019,
@@ -109,7 +118,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Hellboy_%282019%29_theatrical_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.658
+   "aspect": 0.658,
+   "has_blurb": false
   },
   "01-11": {
    "year": 1960,
@@ -120,7 +130,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Eyeswithoutaface_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.751
+   "aspect": 0.751,
+   "has_blurb": false
   },
   "01-12": {
    "year": 2006,
@@ -131,7 +142,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/62/The_Fog_2005_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.672
+   "aspect": 0.672,
+   "has_blurb": false
   },
   "01-13": {
    "year": 1939,
@@ -142,7 +154,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Son_of_Frankenstein_-_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.656
+   "aspect": 0.656,
+   "has_blurb": false
   },
   "01-14": {
    "year": 2026,
@@ -153,7 +166,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/28_Years_Later%2C_The_Bone_Temple_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "01-15": {
    "year": 2007,
@@ -164,7 +178,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/71/GhostRiderBigPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "01-16": {
    "year": 1998,
@@ -175,7 +190,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Fallen_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.687
+   "aspect": 0.687,
+   "has_blurb": false
   },
   "01-17": {
    "year": 1996,
@@ -186,7 +202,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/From_dusk_till_dawn_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.664
+   "aspect": 0.664,
+   "has_blurb": false
   },
   "01-18": {
    "year": 2001,
@@ -197,7 +214,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/14/The_Watcher_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.67
+   "aspect": 0.67,
+   "has_blurb": false
   },
   "01-19": {
    "year": 1809,
@@ -208,7 +226,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.711
+   "aspect": 0.711,
+   "has_blurb": true
   },
   "01-20": {
    "year": 2006,
@@ -219,7 +238,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Underworld2evolution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.672
+   "aspect": 0.672,
+   "has_blurb": false
   },
   "01-21": {
    "year": 2016,
@@ -230,7 +250,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Pride_and_Prejudice_and_Zombies_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "01-22": {
    "year": 1998,
@@ -241,7 +262,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/Devilsadvocate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.705
+   "aspect": 0.705,
+   "has_blurb": false
   },
   "01-23": {
    "year": 2015,
@@ -252,7 +274,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Knock_Knock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.718
+   "aspect": 0.718,
+   "has_blurb": false
   },
   "01-24": {
    "year": 2020,
@@ -263,7 +286,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Run_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.648
+   "aspect": 0.648,
+   "has_blurb": false
   },
   "01-25": {
    "year": 1999,
@@ -274,7 +298,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Blair_Witch_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": true
   },
   "01-26": {
    "year": 2022,
@@ -285,7 +310,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Morbius_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "01-27": {
    "year": 2011,
@@ -296,7 +322,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Quarantine2Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "01-28": {
    "year": 2016,
@@ -307,7 +334,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/TheBoy_2016-OfficialPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "01-29": {
    "year": 1845,
@@ -318,7 +346,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Raven_Manet_C2.jpg/500px-Raven_Manet_C2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.762
+   "aspect": 0.762,
+   "has_blurb": true
   },
   "01-30": {
    "year": 2003,
@@ -329,7 +358,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/Final_destination_two.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "01-31": {
    "year": 1998,
@@ -340,7 +370,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Ringu_%281998%29_Japanese_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.702
+   "aspect": 0.702,
+   "has_blurb": false
   },
   "02-01": {
    "year": 1851,
@@ -351,7 +382,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mary_Wollstonecraft_Shelley_Rothwell.tif/lossy-page1-500px-Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.822
+   "aspect": 0.822,
+   "has_blurb": true
   },
   "02-02": {
    "year": 1969,
@@ -362,7 +394,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boris_Karloff.jpg/500px-Boris_Karloff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.832
+   "aspect": 0.832,
+   "has_blurb": true
   },
   "02-03": {
    "year": 1978,
@@ -373,7 +406,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eraserhead_-_Filmex_%2777_poster.jpg/500px-Eraserhead_-_Filmex_%2777_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.774
+   "aspect": 0.774,
+   "has_blurb": false
   },
   "02-04": {
    "year": 1983,
@@ -384,7 +418,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Videodromeposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.643
+   "aspect": 0.643,
+   "has_blurb": false
   },
   "02-05": {
    "year": 1956,
@@ -395,7 +430,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg/500px-Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.668
+   "aspect": 0.668,
+   "has_blurb": true
   },
   "02-06": {
    "year": 2009,
@@ -406,7 +442,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Coraline_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "02-07": {
    "year": 2005,
@@ -417,7 +454,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/2b/Constantine_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "02-08": {
    "year": 1990,
@@ -428,7 +466,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/A_Nightmare_on_Elm_Street_5_-_The_Dream_Child_-US_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.657
+   "aspect": 0.657,
+   "has_blurb": false
   },
   "02-09": {
    "year": 2001,
@@ -439,7 +478,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Hannibal_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "02-10": {
    "year": 1984,
@@ -450,7 +490,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/7d/Evil_dead_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.642
+   "aspect": 0.642,
+   "has_blurb": false
   },
   "02-11": {
    "year": 2010,
@@ -461,7 +502,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Wolfman-final-small.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "02-12": {
    "year": 1971,
@@ -472,7 +514,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Il-gatto-a-nove-code-italian-movie-poster-md.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.716
+   "aspect": 0.716,
+   "has_blurb": false
   },
   "02-13": {
    "year": 2010,
@@ -483,18 +526,20 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "02-14": {
    "year": 1931,
    "category": "release",
    "title": "Dracula",
-   "fact": "Universal released Dracula on Valentine's Day 1931 as 'the strangest love story of all' — and 60 years later to the day, The Silence of the Lambs opened in 1991.",
+   "fact": "Universal released Dracula on Valentine's Day 1931, billed as 'the strangest love story of all'.",
    "wiki": "Dracula (1931 English-language film)",
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dracula_%281931_film_poster_-_Style_F%29.jpg/500px-Dracula_%281931_film_poster_-_Style_F%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.666
+   "aspect": 0.666,
+   "has_blurb": true
   },
   "02-15": {
    "year": 2023,
@@ -505,7 +550,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Winnie_the_Pooh%2C_Blood_and_Honey_Film_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "landscape",
-   "aspect": 1.337
+   "aspect": 1.337,
+   "has_blurb": false
   },
   "02-16": {
    "year": 2017,
@@ -516,7 +562,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/df/CureforWellnessOfficialPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "02-17": {
    "year": 2012,
@@ -527,7 +574,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Ghost_Rider_2_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "02-18": {
    "year": 2000,
@@ -538,7 +586,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Pitch_Black_poster.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.679
+   "aspect": 0.679,
+   "has_blurb": false
   },
   "02-19": {
    "year": 2016,
@@ -549,7 +598,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Witch_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "02-20": {
    "year": 2020,
@@ -560,7 +610,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Brahms_The_Boy_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "02-21": {
    "year": 1986,
@@ -571,7 +622,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Hitchermovieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.661
+   "aspect": 0.661,
+   "has_blurb": false
   },
   "02-22": {
    "year": 1957,
@@ -582,7 +634,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/IncredibleShrinkingMan-poster.jpg/500px-IncredibleShrinkingMan-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.658
+   "aspect": 0.658,
+   "has_blurb": false
   },
   "02-23": {
    "year": 2018,
@@ -593,7 +646,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Annihilation_%28film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.641
+   "aspect": 0.641,
+   "has_blurb": false
   },
   "02-24": {
    "year": 2017,
@@ -604,7 +658,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": true
   },
   "02-25": {
    "year": 2026,
@@ -615,7 +670,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Scream_7_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "02-26": {
    "year": 1999,
@@ -626,7 +682,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/43/I_Still_Know_What_You_Did_Last_Summer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.679
+   "aspect": 0.679,
+   "has_blurb": false
   },
   "02-27": {
    "year": 1920,
@@ -637,7 +694,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Das_Cabinet_des_Dr._Caligari.JPG/500px-Das_Cabinet_des_Dr._Caligari.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.742
+   "aspect": 0.742,
+   "has_blurb": false
   },
   "02-28": {
    "year": 2002,
@@ -648,7 +706,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/66/From_Hell_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.679
+   "aspect": 0.679,
+   "has_blurb": false
   },
   "02-29": {
    "year": 1692,
@@ -659,7 +718,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/500px-Salem_witch2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "landscape",
-   "aspect": 1.524
+   "aspect": 1.524,
+   "has_blurb": true
   },
   "03-01": {
    "year": 1692,
@@ -670,7 +730,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/500px-Salem_witch2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "landscape",
-   "aspect": 1.524
+   "aspect": 1.524,
+   "has_blurb": true
   },
   "03-02": {
    "year": 1933,
@@ -681,7 +742,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kingkongposter.jpg/500px-Kingkongposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.487
+   "aspect": 0.487,
+   "has_blurb": true
   },
   "03-03": {
    "year": 1959,
@@ -692,7 +754,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Giant_Behemoth.jpg/500px-The_Giant_Behemoth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.666
+   "aspect": 0.666,
+   "has_blurb": false
   },
   "03-04": {
    "year": 1922,
@@ -703,7 +766,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg/500px-Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "landscape",
-   "aspect": 1.433
+   "aspect": 1.433,
+   "has_blurb": true
   },
   "03-05": {
    "year": 1954,
@@ -714,7 +778,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Creature_from_the_Black_Lagoon_poster.jpg/500px-Creature_from_the_Black_Lagoon_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.66
+   "aspect": 0.66,
+   "has_blurb": false
   },
   "03-06": {
    "year": 1987,
@@ -725,7 +790,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Angel_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "03-07": {
    "year": 2025,
@@ -736,7 +802,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Sinners_%282025_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "03-08": {
    "year": 2016,
@@ -747,7 +814,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/10_Cloverfield_Lane.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "03-09": {
    "year": 1984,
@@ -758,7 +826,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/57/ChildrenoftheCornPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "03-10": {
    "year": 2006,
@@ -769,7 +838,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/08/The_Hills_Have_Eyes_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.64
+   "aspect": 0.64,
+   "has_blurb": false
   },
   "03-11": {
    "year": 2012,
@@ -780,7 +850,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/SinisterMoviePoster2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "03-12": {
    "year": 2002,
@@ -791,7 +862,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Blade_II_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.789
+   "aspect": 0.789,
+   "has_blurb": false
   },
   "03-13": {
    "year": 2015,
@@ -802,7 +874,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/It_Follows_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": true
   },
   "03-14": {
    "year": 2022,
@@ -813,7 +886,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/Bodies_Bodies_Bodies_%28poster%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "03-15": {
    "year": 1937,
@@ -824,7 +898,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/H._P._Lovecraft%2C_June_1934.jpg/500px-H._P._Lovecraft%2C_June_1934.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.815
+   "aspect": 0.815,
+   "has_blurb": true
   },
   "03-16": {
    "year": 2007,
@@ -835,7 +910,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Dead_silence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "03-17": {
    "year": 2000,
@@ -846,7 +922,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Final_Destination_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.671
+   "aspect": 0.671,
+   "has_blurb": false
   },
   "03-18": {
    "year": 2022,
@@ -857,7 +934,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/34/X_%282022_film%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "03-19": {
    "year": 2004,
@@ -868,7 +946,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Mindhunters_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "03-20": {
    "year": 1981,
@@ -879,7 +958,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/cc/Omen_III_the_final_conflict.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.636
+   "aspect": 0.636,
+   "has_blurb": false
   },
   "03-21": {
    "year": 2002,
@@ -890,7 +970,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Resident_evil_ver4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "03-22": {
    "year": 2019,
@@ -901,7 +982,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Us_%282019%29_theatrical_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.632
+   "aspect": 0.632,
+   "has_blurb": true
   },
   "03-23": {
    "year": 2017,
@@ -912,7 +994,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Life_%282017_film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "03-24": {
    "year": 1939,
@@ -923,7 +1006,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Hound_of_the_Baskervilles_-_1939-_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.509
+   "aspect": 0.509,
+   "has_blurb": false
   },
   "03-25": {
    "year": 2010,
@@ -934,7 +1018,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/29/The_Phobos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.709
+   "aspect": 0.709,
+   "has_blurb": false
   },
   "03-26": {
    "year": 1980,
@@ -945,7 +1030,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Changeling_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.661
+   "aspect": 0.661,
+   "has_blurb": false
   },
   "03-27": {
    "year": 1997,
@@ -956,7 +1042,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Addictionposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "03-28": {
    "year": 1963,
@@ -967,7 +1054,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Birds_original_poster.jpg/500px-The_Birds_original_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.652
+   "aspect": 0.652,
+   "has_blurb": true
   },
   "03-29": {
    "year": 2007,
@@ -978,7 +1066,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/HHE2DomTeaserPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.689
+   "aspect": 0.689,
+   "has_blurb": false
   },
   "03-30": {
    "year": 1992,
@@ -989,7 +1078,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": true
   },
   "03-31": {
    "year": 2017,
@@ -1000,7 +1090,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Blackcoat%27s_Daughter.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "04-01": {
    "year": 1883,
@@ -1011,7 +1102,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lon_Chaney%2C_Sr._The_Miracle_Man.jpg/500px-Lon_Chaney%2C_Sr._The_Miracle_Man.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.661
+   "aspect": 0.661,
+   "has_blurb": true
   },
   "04-02": {
    "year": 2004,
@@ -1022,7 +1114,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Hellboy_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.668
+   "aspect": 0.668,
+   "has_blurb": false
   },
   "04-03": {
    "year": 2024,
@@ -1033,7 +1126,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/70/The_First_Omen_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "04-04": {
    "year": 2019,
@@ -1044,7 +1138,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Pet_Sematary_%282019_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.64
+   "aspect": 0.64,
+   "has_blurb": false
   },
   "04-05": {
    "year": 2013,
@@ -1055,7 +1150,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/EvilDead2013Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.658
+   "aspect": 0.658,
+   "has_blurb": false
   },
   "04-06": {
    "year": 2018,
@@ -1066,7 +1162,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": true
   },
   "04-07": {
    "year": 2005,
@@ -1077,7 +1174,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/The_Amityville_Horror_poster.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "04-08": {
    "year": 1943,
@@ -1088,7 +1186,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/I_Walked_With_a_Zombie_%281943_poster%29.jpeg/500px-I_Walked_With_a_Zombie_%281943_poster%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.663
+   "aspect": 0.663,
+   "has_blurb": false
   },
   "04-09": {
    "year": 1953,
@@ -1099,7 +1198,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/House_of_Wax_%281953_film_poster%29.jpg/500px-House_of_Wax_%281953_film_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.659
+   "aspect": 0.659,
+   "has_blurb": false
   },
   "04-10": {
    "year": 2008,
@@ -1110,7 +1210,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Prom_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "04-11": {
    "year": 2011,
@@ -1121,7 +1222,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Scream4Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "04-12": {
    "year": 1985,
@@ -1132,7 +1234,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Cat%27s_Eye_%28poster%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.648
+   "aspect": 0.648,
+   "has_blurb": false
   },
   "04-13": {
    "year": 2018,
@@ -1143,7 +1246,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/TruthorDarePoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.665
+   "aspect": 0.665,
+   "has_blurb": false
   },
   "04-14": {
    "year": 1971,
@@ -1154,7 +1258,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/99/BloodSatansClaw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "landscape",
-   "aspect": 1.441
+   "aspect": 1.441,
+   "has_blurb": false
   },
   "04-15": {
    "year": 2016,
@@ -1165,7 +1270,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/Green_Room_%28film%29_POSTER.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "04-16": {
    "year": 2004,
@@ -1176,7 +1282,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Krishna_Cottage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.701
+   "aspect": 0.701,
+   "has_blurb": false
   },
   "04-17": {
    "year": 1980,
@@ -1187,7 +1294,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/21/The_Watcher_in_the_Woods%2C_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.652
+   "aspect": 0.652,
+   "has_blurb": false
   },
   "04-18": {
    "year": 2014,
@@ -1198,7 +1306,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/A_Haunted_House_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "04-19": {
    "year": 2007,
@@ -1209,7 +1318,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/TheReapingPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "04-20": {
    "year": 1912,
@@ -1220,7 +1330,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bram_Stoker_1906.jpg/500px-Bram_Stoker_1906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.775
+   "aspect": 0.775,
+   "has_blurb": true
   },
   "04-21": {
    "year": 2006,
@@ -1231,7 +1342,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/2a/Silent_Hill_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "04-22": {
    "year": 1995,
@@ -1242,7 +1354,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Korean_film-301.302-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.681
+   "aspect": 0.681,
+   "has_blurb": false
   },
   "04-23": {
    "year": 1993,
@@ -1253,7 +1366,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/fa/DarkHalfPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "04-24": {
    "year": 1955,
@@ -1264,7 +1378,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gojira_no_gyakushu_poster.jpg/500px-Gojira_no_gyakushu_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.711
+   "aspect": 0.711,
+   "has_blurb": false
   },
   "04-25": {
    "year": 2003,
@@ -1275,7 +1390,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Identity_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "04-26": {
    "year": 2007,
@@ -1286,7 +1402,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/46/28_Weeks_Later_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "landscape",
-   "aspect": 1.333
+   "aspect": 1.333,
+   "has_blurb": false
   },
   "04-27": {
    "year": 1956,
@@ -1297,7 +1414,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Godzilla%2C_King_of_the_Monsters%21_%28U.S._release_poster%29.jpg/500px-Godzilla%2C_King_of_the_Monsters%21_%28U.S._release_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.666
+   "aspect": 0.666,
+   "has_blurb": false
   },
   "04-28": {
    "year": 1994,
@@ -1308,7 +1426,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/07/The_Good_Son_%28movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "04-29": {
    "year": 1980,
@@ -1319,7 +1438,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/500px-Hitchcock%2C_Alfred_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.83
+   "aspect": 0.83,
+   "has_blurb": true
   },
   "04-30": {
    "year": 1981,
@@ -1330,7 +1450,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Friday_the_13th_part2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.661
+   "aspect": 0.661,
+   "has_blurb": false
   },
   "05-01": {
    "year": 1997,
@@ -1341,7 +1462,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Relic_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "05-02": {
    "year": 2013,
@@ -1352,7 +1474,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/94/The_Purge_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.668
+   "aspect": 0.668,
+   "has_blurb": false
   },
   "05-03": {
    "year": 2004,
@@ -1363,7 +1486,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Van_Helsing_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "05-04": {
    "year": 1999,
@@ -1374,7 +1498,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.669
+   "aspect": 0.669,
+   "has_blurb": false
   },
   "05-05": {
    "year": 1988,
@@ -1385,7 +1510,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Prince_of_darkness.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.642
+   "aspect": 0.642,
+   "has_blurb": false
   },
   "05-06": {
    "year": 2021,
@@ -1396,7 +1522,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "05-07": {
    "year": 2015,
@@ -1407,7 +1534,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/The-Babadook-Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.7
+   "aspect": 0.7,
+   "has_blurb": false
   },
   "05-08": {
    "year": 1981,
@@ -1418,7 +1546,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Theburningposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.656
+   "aspect": 0.656,
+   "has_blurb": false
   },
   "05-09": {
    "year": 1980,
@@ -1429,7 +1558,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Friday_the_13th_%281980%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.66
+   "aspect": 0.66,
+   "has_blurb": true
   },
   "05-10": {
    "year": 2007,
@@ -1440,7 +1570,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Invisible_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "05-11": {
    "year": 1936,
@@ -1451,7 +1582,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dracula%27s_Daughter_%281936_poster%29.jpg/500px-Dracula%27s_Daughter_%281936_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.664
+   "aspect": 0.664,
+   "has_blurb": false
   },
   "05-12": {
    "year": 2017,
@@ -1462,7 +1594,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Alien_Covenant_Teaser_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "05-13": {
    "year": 2016,
@@ -1473,7 +1606,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/95/Train_to_Busan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.698
+   "aspect": 0.698,
+   "has_blurb": false
   },
   "05-14": {
    "year": 2020,
@@ -1484,7 +1618,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Spiral_Official_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.632
+   "aspect": 0.632,
+   "has_blurb": false
   },
   "05-15": {
    "year": 1981,
@@ -1495,7 +1630,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/35/L%27aldil%C3%A0-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.718
+   "aspect": 0.718,
+   "has_blurb": false
   },
   "05-16": {
    "year": 1960,
@@ -1506,7 +1642,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Peepingtomposter.jpg/500px-Peepingtomposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.67
+   "aspect": 0.67,
+   "has_blurb": false
   },
   "05-17": {
    "year": 2016,
@@ -1517,7 +1654,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Personal_Shopper_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "05-18": {
    "year": 2009,
@@ -1528,7 +1666,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Larsvontrierantichristposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "05-19": {
    "year": 2024,
@@ -1539,7 +1678,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Substance_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "05-20": {
    "year": 1999,
@@ -1550,7 +1690,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Virus_%281999_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.67
+   "aspect": 0.67,
+   "has_blurb": false
   },
   "05-21": {
    "year": 2006,
@@ -1561,7 +1702,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/55/The_Host_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.702
+   "aspect": 0.702,
+   "has_blurb": false
   },
   "05-22": {
    "year": 1992,
@@ -1572,7 +1714,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Alien3_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.672
+   "aspect": 0.672,
+   "has_blurb": false
   },
   "05-23": {
    "year": 1980,
@@ -1583,7 +1726,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.694
+   "aspect": 0.694,
+   "has_blurb": true
   },
   "05-24": {
    "year": 1976,
@@ -1594,7 +1738,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Locataire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.753
+   "aspect": 0.753,
+   "has_blurb": false
   },
   "05-25": {
    "year": 1979,
@@ -1605,29 +1750,32 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.654
+   "aspect": 0.654,
+   "has_blurb": true
   },
   "05-26": {
    "year": 1897,
    "category": "publication",
    "title": "Dracula",
-   "fact": "Bram Stoker's Dracula went on sale in London in 1897. Horror legend Peter Cushing was born on the same date in 1913.",
+   "fact": "Bram Stoker's Dracula went on sale in London in 1897, and the vampire entered popular culture for good.",
    "wiki": "Dracula",
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dracula-First-Edition-1897.jpg/500px-Dracula-First-Edition-1897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.717
+   "aspect": 0.717,
+   "has_blurb": true
   },
   "05-27": {
    "year": 1911,
    "category": "birth",
-   "title": "Vincent Price & Christopher Lee",
-   "fact": "Horror royalty shares this birthday: Vincent Price (1911) and Christopher Lee (1922) were born exactly eleven years apart.",
+   "title": "Vincent Price",
+   "fact": "Vincent Price, whose velvet voice defined a century of screen horror, was born in St. Louis in 1911.",
    "wiki": "Vincent Price",
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vincent_Price_Riverboat_1959.jpg/500px-Vincent_Price_Riverboat_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.767
+   "aspect": 0.767,
+   "has_blurb": true
   },
   "05-28": {
    "year": 2009,
@@ -1638,7 +1786,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/60/The_Uninvited_%282009_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "05-29": {
    "year": 2008,
@@ -1649,7 +1798,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Strangersposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "05-30": {
    "year": 2012,
@@ -1660,7 +1810,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Prometheusposterfixed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "05-31": {
    "year": 2023,
@@ -1671,7 +1822,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Boogeyman_2023_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.692
+   "aspect": 0.692,
+   "has_blurb": false
   },
   "06-01": {
    "year": 2018,
@@ -1682,7 +1834,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/24/UpgradePoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "06-02": {
    "year": 2013,
@@ -1693,7 +1846,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/World_War_Z_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.65
+   "aspect": 0.65,
+   "has_blurb": false
   },
   "06-03": {
    "year": 1992,
@@ -1704,7 +1858,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Twin_Peaks_-_Fire_Walk_with_Me.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.636
+   "aspect": 0.636,
+   "has_blurb": false
   },
   "06-04": {
    "year": 1982,
@@ -1715,7 +1870,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Poltergeist_%281982%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.662
+   "aspect": 0.662,
+   "has_blurb": true
   },
   "06-05": {
    "year": 2024,
@@ -1726,7 +1882,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_Watchers_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "06-06": {
    "year": 1976,
@@ -1737,7 +1894,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/Omen_ver4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": true
   },
   "06-07": {
    "year": 2015,
@@ -1748,7 +1906,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Christopher_Lee_2009.jpg/500px-Christopher_Lee_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "square",
-   "aspect": 0.873
+   "aspect": 0.873,
+   "has_blurb": true
   },
   "06-08": {
    "year": 2018,
@@ -1759,7 +1918,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.697
+   "aspect": 0.697,
+   "has_blurb": true
   },
   "06-09": {
    "year": 2016,
@@ -1770,7 +1930,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/The_Conjuring_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "06-10": {
    "year": 2011,
@@ -1781,7 +1942,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Super_8_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "06-11": {
    "year": 1969,
@@ -1792,7 +1954,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Valgwanpos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "06-12": {
    "year": 1968,
@@ -1803,7 +1966,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/ef/Rosemarys_baby_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.648
+   "aspect": 0.648,
+   "has_blurb": true
   },
   "06-13": {
    "year": 1953,
@@ -1814,7 +1978,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/40/Beast_from_20%2C000_Fathoms_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.741
+   "aspect": 0.741,
+   "has_blurb": false
   },
   "06-14": {
    "year": 2021,
@@ -1825,7 +1990,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Bestia_-_Short_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.7
+   "aspect": 0.7,
+   "has_blurb": false
   },
   "06-15": {
    "year": 1989,
@@ -1836,7 +2002,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Childs_Play.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "06-16": {
    "year": 1960,
@@ -1847,7 +2014,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/500px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": true
   },
   "06-17": {
    "year": 1977,
@@ -1858,7 +2026,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Exorcist2poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "06-18": {
    "year": 2012,
@@ -1869,7 +2038,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Abraham_Lincoln_-_Vampire_Hunter_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.679
+   "aspect": 0.679,
+   "has_blurb": false
   },
   "06-19": {
    "year": 2014,
@@ -1880,7 +2050,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Wolf_Creek_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "06-20": {
    "year": 1975,
@@ -1891,7 +2062,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaws_movie_poster.jpg/500px-Jaws_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.665
+   "aspect": 0.665,
+   "has_blurb": true
   },
   "06-21": {
    "year": 2012,
@@ -1902,7 +2074,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Chernobyl-Diaries-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "06-22": {
    "year": 2007,
@@ -1913,7 +2086,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/63/1408poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "06-23": {
    "year": 1988,
@@ -1924,7 +2098,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/28/The_Serpent_and_the_Rainbow_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "06-24": {
    "year": 1977,
@@ -1935,7 +2110,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Original_Rocky_Horror_Picture_Show_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.654
+   "aspect": 0.654,
+   "has_blurb": false
   },
   "06-25": {
    "year": 1982,
@@ -1946,7 +2122,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/The_Thing_%281982_film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.66
+   "aspect": 0.66,
+   "has_blurb": true
   },
   "06-26": {
    "year": 1948,
@@ -1957,7 +2134,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Shirley_Jackson_1940s.png/500px-Shirley_Jackson_1940s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "square",
-   "aspect": 0.86
+   "aspect": 0.86,
+   "has_blurb": true
   },
   "06-27": {
    "year": 1986,
@@ -1968,7 +2146,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Psycho_3_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.636
+   "aspect": 0.636,
+   "has_blurb": false
   },
   "06-28": {
    "year": 2008,
@@ -1979,7 +2158,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Hellboy_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "06-29": {
    "year": 1995,
@@ -1990,7 +2170,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/Themangler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.658
+   "aspect": 0.658,
+   "has_blurb": false
   },
   "06-30": {
    "year": 1985,
@@ -2001,7 +2182,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Day_of_the_Dead_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.648
+   "aspect": 0.648,
+   "has_blurb": false
   },
   "07-01": {
    "year": 1993,
@@ -2012,7 +2194,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Thevanishing1993poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.678
+   "aspect": 0.678,
+   "has_blurb": false
   },
   "07-02": {
    "year": 2021,
@@ -2023,7 +2206,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Fear_Street_Part_One_-_1994_%282021_film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "07-03": {
    "year": 2019,
@@ -2034,7 +2218,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/47/Midsommar_%282019_film_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": true
   },
   "07-04": {
    "year": 2018,
@@ -2045,7 +2230,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/91/The_First_Purge_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.669
+   "aspect": 0.669,
+   "has_blurb": false
   },
   "07-05": {
    "year": 2024,
@@ -2056,7 +2242,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/06/MaXXXine_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "07-06": {
    "year": 1968,
@@ -2067,7 +2254,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/The_Green_Slime_%281968_movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.648
+   "aspect": 0.648,
+   "has_blurb": false
   },
   "07-07": {
    "year": 2000,
@@ -2078,7 +2266,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Movie_poster_for_%22Scary_Movie%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "07-08": {
    "year": 2010,
@@ -2089,7 +2278,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Predators_54632_glg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.681
+   "aspect": 0.681,
+   "has_blurb": false
   },
   "07-09": {
    "year": 2026,
@@ -2100,7 +2290,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/Evil_Dead_Burn_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "07-10": {
    "year": 1998,
@@ -2111,7 +2302,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Piposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "07-11": {
    "year": 1991,
@@ -2122,7 +2314,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Halloween5poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.652
+   "aspect": 0.652,
+   "has_blurb": false
   },
   "07-12": {
    "year": 2019,
@@ -2133,7 +2326,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Crawl_%282019_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "07-13": {
    "year": 2000,
@@ -2144,7 +2338,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Cube_The_Movie_Poster_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "07-14": {
    "year": 1999,
@@ -2155,7 +2350,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Blair_Witch_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": true
   },
   "07-15": {
    "year": 1983,
@@ -2166,7 +2362,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Psycho_ii.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.662
+   "aspect": 0.662,
+   "has_blurb": false
   },
   "07-16": {
    "year": 2017,
@@ -2177,7 +2374,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/George_Romero%2C_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg/500px-George_Romero%2C_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": true
   },
   "07-17": {
    "year": 2014,
@@ -2188,7 +2386,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/29/The_Purge_%E2%80%93_Anarchy_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.663
+   "aspect": 0.663,
+   "has_blurb": false
   },
   "07-18": {
    "year": 1986,
@@ -2199,7 +2398,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Aliens_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.641
+   "aspect": 0.641,
+   "has_blurb": false
   },
   "07-19": {
    "year": 2013,
@@ -2210,7 +2410,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Conjuring_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": true
   },
   "07-20": {
    "year": 2014,
@@ -2221,7 +2422,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Unfriended_%282014%29_original_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "07-21": {
    "year": 2006,
@@ -2232,7 +2434,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Monster_House_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "07-22": {
    "year": 2022,
@@ -2243,7 +2446,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/Nope_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.632
+   "aspect": 0.632,
+   "has_blurb": false
   },
   "07-23": {
    "year": 2021,
@@ -2254,7 +2458,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Old_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.632
+   "aspect": 0.632,
+   "has_blurb": false
   },
   "07-24": {
    "year": 2008,
@@ -2265,7 +2470,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Mummy_-_Tomb_of_the_Dragon_Emperor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "07-25": {
    "year": 1980,
@@ -2276,7 +2482,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/11/Dressed_to_kill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.666
+   "aspect": 0.666,
+   "has_blurb": false
   },
   "07-26": {
    "year": 2004,
@@ -2287,7 +2494,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/The_Village_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "07-27": {
    "year": 2022,
@@ -2298,7 +2506,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b4/OrphanFirstKillPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "07-28": {
    "year": 2016,
@@ -2309,7 +2518,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Demon_2015_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "07-29": {
    "year": 2002,
@@ -2320,7 +2530,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/08/The_Signs_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "07-30": {
    "year": 1998,
@@ -2331,7 +2542,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Species2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.679
+   "aspect": 0.679,
+   "has_blurb": false
   },
   "07-31": {
    "year": 1992,
@@ -2342,7 +2554,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Death_Becomes_Her_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.636
+   "aspect": 0.636,
+   "has_blurb": false
   },
   "08-01": {
    "year": 2024,
@@ -2353,7 +2566,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Trap_2024_%28film_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "08-02": {
    "year": 2001,
@@ -2364,7 +2578,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/TheOthers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "08-03": {
    "year": 2017,
@@ -2375,7 +2590,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/The_Dark_Tower_teaser_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "08-04": {
    "year": 2000,
@@ -2386,7 +2602,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Poster_Hollow_Man.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.732
+   "aspect": 0.732,
+   "has_blurb": false
   },
   "08-05": {
    "year": 1960,
@@ -2397,7 +2614,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Little_Shop_of_Horrors_%281960%29_-_Half-Sheet_poster.webp/500px-The_Little_Shop_of_Horrors_%281960%29_-_Half-Sheet_poster.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "landscape",
-   "aspect": 1.277
+   "aspect": 1.277,
+   "has_blurb": false
   },
   "08-06": {
    "year": 1999,
@@ -2408,7 +2626,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Sixth_Sense_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": true
   },
   "08-07": {
    "year": 2009,
@@ -2419,7 +2638,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Perfect_getaway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.681
+   "aspect": 0.681,
+   "has_blurb": false
   },
   "08-08": {
    "year": 1965,
@@ -2430,7 +2650,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Shirley_Jackson_1940s.png/500px-Shirley_Jackson_1940s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "square",
-   "aspect": 0.86
+   "aspect": 0.86,
+   "has_blurb": true
   },
   "08-09": {
    "year": 2018,
@@ -2441,7 +2662,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/The_Meg_2018_film_cover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "08-10": {
    "year": 2017,
@@ -2452,7 +2674,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Annabelle_Creation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "08-11": {
    "year": 1994,
@@ -2463,7 +2686,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Revenge_of_Frankenstein_%28trailer%29_-_Peter_Cushing_%28cropped%29.png/500px-Revenge_of_Frankenstein_%28trailer%29_-_Peter_Cushing_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "landscape",
-   "aspect": 1.283
+   "aspect": 1.283,
+   "has_blurb": true
   },
   "08-12": {
    "year": 2011,
@@ -2474,7 +2698,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/FD5_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "08-13": {
    "year": 1899,
@@ -2485,7 +2710,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/500px-Hitchcock%2C_Alfred_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.83
+   "aspect": 0.83,
+   "has_blurb": true
   },
   "08-14": {
    "year": 2020,
@@ -2496,7 +2722,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/ee/Malignant2021poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "08-15": {
    "year": 1986,
@@ -2507,7 +2734,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fly_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.631
+   "aspect": 0.631,
+   "has_blurb": false
   },
   "08-16": {
    "year": 1956,
@@ -2518,7 +2746,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lugosi_B%C3%A9la_fortepan_14652_%28cropped%29.jpg/500px-Lugosi_B%C3%A9la_fortepan_14652_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": true
   },
   "08-17": {
    "year": 2000,
@@ -2529,7 +2758,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/Thecellposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "08-18": {
    "year": 2004,
@@ -2540,7 +2770,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/81/Exorcist_the_Beginning_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.668
+   "aspect": 0.668,
+   "has_blurb": false
   },
   "08-19": {
    "year": 1998,
@@ -2551,7 +2782,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Blade_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "08-20": {
    "year": 1890,
@@ -2562,7 +2794,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/H._P._Lovecraft%2C_June_1934.jpg/500px-H._P._Lovecraft%2C_June_1934.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.815
+   "aspect": 0.815,
+   "has_blurb": true
   },
   "08-21": {
    "year": 2019,
@@ -2573,7 +2806,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Ready_or_Not_2019_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.67
+   "aspect": 0.67,
+   "has_blurb": false
   },
   "08-22": {
    "year": 1986,
@@ -2584,7 +2818,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Texas_chainsaw_massacre_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.652
+   "aspect": 0.652,
+   "has_blurb": false
   },
   "08-23": {
    "year": 1996,
@@ -2595,7 +2830,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/The_Island_of_Dr._Moreau_1996_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.646
+   "aspect": 0.646,
+   "has_blurb": false
   },
   "08-24": {
    "year": 2001,
@@ -2606,7 +2842,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/John_Carpenter%27s_Ghosts_of_Mars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.76
+   "aspect": 0.76,
+   "has_blurb": false
   },
   "08-25": {
    "year": 1999,
@@ -2617,18 +2854,20 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Ninth_gate_ver3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "08-26": {
    "year": 1930,
    "category": "death",
-   "title": "Lon Chaney & Tobe Hooper",
-   "fact": "A dark double anniversary: silent horror icon Lon Chaney (1930) and Texas Chain Saw Massacre director Tobe Hooper (2017) both died on this day.",
+   "title": "Lon Chaney",
+   "fact": "Lon Chaney, the silent era's 'Man of a Thousand Faces', died on this day in 1930.",
    "wiki": "Lon Chaney",
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lon_Chaney%2C_Sr._The_Miracle_Man.jpg/500px-Lon_Chaney%2C_Sr._The_Miracle_Man.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.661
+   "aspect": 0.661,
+   "has_blurb": true
   },
   "08-27": {
    "year": 2020,
@@ -2639,7 +2878,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/1a/TheNewMutantsPoster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.666
+   "aspect": 0.666,
+   "has_blurb": false
   },
   "08-28": {
    "year": 1895,
@@ -2650,7 +2890,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MaryExecution.jpg/500px-MaryExecution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "landscape",
-   "aspect": 1.333
+   "aspect": 1.333,
+   "has_blurb": false
   },
   "08-29": {
    "year": 1974,
@@ -2661,7 +2902,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/Dont_look_movieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.72
+   "aspect": 0.72,
+   "has_blurb": false
   },
   "08-30": {
    "year": 2015,
@@ -2672,7 +2914,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wes_Craven_2010.jpg/500px-Wes_Craven_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.684
+   "aspect": 0.684,
+   "has_blurb": true
   },
   "08-31": {
    "year": 2006,
@@ -2683,7 +2926,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ladyinthewater_pos_gal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.679
+   "aspect": 0.679,
+   "has_blurb": false
   },
   "09-01": {
    "year": 2010,
@@ -2694,7 +2938,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Black_Swan_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "09-02": {
    "year": 1978,
@@ -2705,7 +2950,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/63/Dawn_of_the_dead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.64
+   "aspect": 0.64,
+   "has_blurb": false
   },
   "09-03": {
    "year": 1970,
@@ -2716,7 +2962,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Vampire_lovers231.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "landscape",
-   "aspect": 1.344
+   "aspect": 1.344,
+   "has_blurb": false
   },
   "09-04": {
    "year": 2025,
@@ -2727,7 +2974,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Conjuring_%E2%80%93_Last_Rites.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "09-05": {
    "year": 2019,
@@ -2738,7 +2986,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/It_Chapter_Two_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "09-06": {
    "year": 2018,
@@ -2749,7 +2998,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/34/TheNunPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "09-07": {
    "year": 2006,
@@ -2760,7 +3010,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Perfume_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "09-08": {
    "year": 2017,
@@ -2771,7 +3022,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": true
   },
   "09-09": {
    "year": 2015,
@@ -2782,7 +3034,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/The_Visit_%282015_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.668
+   "aspect": 0.668,
+   "has_blurb": false
   },
   "09-10": {
    "year": 2004,
@@ -2793,7 +3046,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Resident_evil_apocalypse_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.672
+   "aspect": 0.672,
+   "has_blurb": false
   },
   "09-11": {
    "year": 1992,
@@ -2804,7 +3058,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Candymanposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "09-12": {
    "year": 1985,
@@ -2815,7 +3070,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Hills-have-eyes-2-poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "09-13": {
    "year": 2012,
@@ -2826,7 +3082,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Resident_evil_retribution_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "09-14": {
    "year": 2010,
@@ -2837,7 +3094,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Insidious_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "09-15": {
    "year": 1995,
@@ -2848,7 +3106,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.64
+   "aspect": 0.64,
+   "has_blurb": false
   },
   "09-16": {
    "year": 1932,
@@ -2859,7 +3118,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Most_Dangerous_Game_%281932%29_poster_card.jpg/500px-The_Most_Dangerous_Game_%281932%29_poster_card.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.741
+   "aspect": 0.741,
+   "has_blurb": false
   },
   "09-17": {
    "year": 2005,
@@ -2870,7 +3130,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hostel_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "09-18": {
    "year": 1951,
@@ -2881,7 +3142,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Day_the_Earth_Stood_Still_%281951_poster%29.jpeg/500px-The_Day_the_Earth_Stood_Still_%281951_poster%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.662
+   "aspect": 0.662,
+   "has_blurb": false
   },
   "09-19": {
    "year": 2001,
@@ -2892,7 +3154,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Vidocq2001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.75
+   "aspect": 0.75,
+   "has_blurb": false
   },
   "09-20": {
    "year": 2012,
@@ -2903,7 +3166,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Frankenweenie_%282012_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "09-21": {
    "year": 1947,
@@ -2914,7 +3178,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg/500px-Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.807
+   "aspect": 0.807,
+   "has_blurb": true
   },
   "09-22": {
    "year": 2011,
@@ -2925,7 +3190,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Human_Centipede_2_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "09-23": {
    "year": 2016,
@@ -2936,7 +3202,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/The_Girl_with_All_the_Gifts_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.679
+   "aspect": 0.679,
+   "has_blurb": false
   },
   "09-24": {
    "year": 2002,
@@ -2947,7 +3214,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Red_Dragon_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.672
+   "aspect": 0.672,
+   "has_blurb": false
   },
   "09-25": {
    "year": 2009,
@@ -2958,7 +3226,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/54/Paranormal_Activity_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": true
   },
   "09-26": {
    "year": 2016,
@@ -2969,7 +3238,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/31/Split_%282017_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.665
+   "aspect": 0.665,
+   "has_blurb": false
   },
   "09-27": {
    "year": 2024,
@@ -2980,7 +3250,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/45/The_Platform_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "09-28": {
    "year": 2000,
@@ -2991,7 +3262,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/What_lies_beneath_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "09-29": {
    "year": 1995,
@@ -3002,7 +3274,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Halloween6cover.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "09-30": {
    "year": 1972,
@@ -3013,7 +3286,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Horrorexpress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "10-01": {
    "year": 1968,
@@ -3024,7 +3298,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Night_of_the_Living_Dead_%281968%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": true
   },
   "10-02": {
    "year": 2014,
@@ -3035,7 +3310,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dracula_Untold_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.632
+   "aspect": 0.632,
+   "has_blurb": false
   },
   "10-03": {
    "year": 1980,
@@ -3046,7 +3322,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/6a/Terrortrainposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.707
+   "aspect": 0.707,
+   "has_blurb": false
   },
   "10-04": {
    "year": 2023,
@@ -3057,7 +3334,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/36/ExorcistBelieverPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "10-05": {
    "year": 2019,
@@ -3068,7 +3346,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/The_Lighthouse.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "10-06": {
    "year": 2006,
@@ -3079,7 +3358,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Texas_chainsaw_massacre_the_beginning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "10-07": {
    "year": 1849,
@@ -3090,7 +3370,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.711
+   "aspect": 0.711,
+   "has_blurb": true
   },
   "10-08": {
    "year": 1973,
@@ -3101,7 +3382,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/06/SSSSSSS_%28movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.679
+   "aspect": 0.679,
+   "has_blurb": false
   },
   "10-09": {
    "year": 2014,
@@ -3112,7 +3394,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/90/Annabelle_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "10-10": {
    "year": 2008,
@@ -3123,7 +3406,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Quarantineposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "10-11": {
    "year": 1974,
@@ -3134,7 +3418,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/ee/Black_Christmas_%281974%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "10-12": {
    "year": 2022,
@@ -3145,7 +3430,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Halloween_ends_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.632
+   "aspect": 0.632,
+   "has_blurb": false
   },
   "10-13": {
    "year": 2006,
@@ -3156,7 +3442,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Cold_Prey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.689
+   "aspect": 0.689,
+   "has_blurb": false
   },
   "10-14": {
    "year": 2015,
@@ -3167,7 +3454,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Crimson_Peak_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "10-15": {
    "year": 2021,
@@ -3178,7 +3466,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/61/Halloween_Kills_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.668
+   "aspect": 0.668,
+   "has_blurb": false
   },
   "10-16": {
    "year": 2007,
@@ -3189,7 +3478,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/53/30_Days_of_Night_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "10-17": {
    "year": 1997,
@@ -3200,7 +3490,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/I_Know_What_You_Did_Last_Summer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.691
+   "aspect": 0.691,
+   "has_blurb": false
   },
   "10-18": {
    "year": 2002,
@@ -3211,7 +3502,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/37/Theringpostere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": true
   },
   "10-19": {
    "year": 1932,
@@ -3222,7 +3514,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Old_Dark_House_%281932_poster%29.jpeg/500px-The_Old_Dark_House_%281932_poster%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.659
+   "aspect": 0.659,
+   "has_blurb": false
   },
   "10-20": {
    "year": 1882,
@@ -3233,7 +3526,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lugosi_B%C3%A9la_fortepan_14652_%28cropped%29.jpg/500px-Lugosi_B%C3%A9la_fortepan_14652_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": true
   },
   "10-21": {
    "year": 2010,
@@ -3244,7 +3538,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Saw_3D_Final.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "10-22": {
    "year": 2009,
@@ -3255,7 +3550,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Saw_VI_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "10-23": {
    "year": 2003,
@@ -3266,7 +3562,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Jeepers_Creepers_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "10-24": {
    "year": 1973,
@@ -3277,18 +3574,20 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/Westworld_ver2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.648
+   "aspect": 0.648,
+   "has_blurb": false
   },
   "10-25": {
    "year": 1978,
    "category": "release",
    "title": "Halloween",
-   "fact": "John Carpenter's Halloween premiered in Kansas City in 1978. Fifteen years later to the day, Vincent Price passed away in 1993.",
+   "fact": "John Carpenter's Halloween premiered in Kansas City in 1978, shot in just twenty days.",
    "wiki": "Halloween (1978 film)",
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Halloween_%281978%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": true
   },
   "10-26": {
    "year": 1984,
@@ -3299,7 +3598,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/The_Terminator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "10-27": {
    "year": 2006,
@@ -3310,7 +3610,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Saw3_cape10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "10-28": {
    "year": 1982,
@@ -3321,7 +3622,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/Tenebrae_-_Film_1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.698
+   "aspect": 0.698,
+   "has_blurb": false
   },
   "10-29": {
    "year": 2004,
@@ -3332,7 +3634,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/56/Saw_official_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.664
+   "aspect": 0.664,
+   "has_blurb": true
   },
   "10-30": {
    "year": 1938,
@@ -3343,7 +3646,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Orson_Welles_War_of_the_Worlds_1938.jpg/500px-Orson_Welles_War_of_the_Worlds_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "landscape",
-   "aspect": 1.315
+   "aspect": 1.315,
+   "has_blurb": true
   },
   "10-31": {
    "year": 1926,
@@ -3354,7 +3658,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Harry_Handcuff_Houdini_Crop.jpg/500px-Harry_Handcuff_Houdini_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.636
+   "aspect": 0.636,
+   "has_blurb": true
   },
   "11-01": {
    "year": 2002,
@@ -3365,7 +3670,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/28_days_later.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "landscape",
-   "aspect": 1.313
+   "aspect": 1.313,
+   "has_blurb": false
   },
   "11-02": {
    "year": 1995,
@@ -3376,7 +3682,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Witchboard_III_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.668
+   "aspect": 0.668,
+   "has_blurb": false
   },
   "11-03": {
    "year": 1954,
@@ -3387,7 +3694,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gojira_1954_Japanese_poster.jpg/500px-Gojira_1954_Japanese_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.712
+   "aspect": 0.712,
+   "has_blurb": true
   },
   "11-04": {
    "year": 1988,
@@ -3398,7 +3706,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/1988They_Live_poster300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.681
+   "aspect": 0.681,
+   "has_blurb": false
   },
   "11-05": {
    "year": 1977,
@@ -3409,7 +3718,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Thelastwave.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "11-06": {
    "year": 1980,
@@ -3420,7 +3730,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/TheHouseOnTheEdgeOfThePark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.685
+   "aspect": 0.685,
+   "has_blurb": false
   },
   "11-07": {
    "year": 2002,
@@ -3431,7 +3742,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Halloween_Resurrection_Theatrical_Poster_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "11-08": {
    "year": 1847,
@@ -3442,7 +3754,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bram_Stoker_1906.jpg/500px-Bram_Stoker_1906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.775
+   "aspect": 0.775,
+   "has_blurb": true
   },
   "11-09": {
    "year": 1984,
@@ -3453,7 +3766,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/fa/A_Nightmare_on_Elm_Street_%281984%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.66
+   "aspect": 0.66,
+   "has_blurb": true
   },
   "11-10": {
    "year": 1982,
@@ -3464,7 +3778,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/25/CreepshowPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.67
+   "aspect": 0.67,
+   "has_blurb": false
   },
   "11-11": {
    "year": 1994,
@@ -3475,7 +3790,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/InterviewwithaVampireMoviePoste.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "11-12": {
    "year": 1982,
@@ -3486,7 +3802,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Alone_in_the_dark_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.66
+   "aspect": 0.66,
+   "has_blurb": false
   },
   "11-13": {
    "year": 1992,
@@ -3497,7 +3814,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Bram_Stoker%27s_Dracula_%281992_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": true
   },
   "11-14": {
    "year": 1980,
@@ -3508,7 +3826,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Alligator_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.658
+   "aspect": 0.658,
+   "has_blurb": false
   },
   "11-15": {
    "year": 1990,
@@ -3519,7 +3838,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Darkman_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.666
+   "aspect": 0.666,
+   "has_blurb": false
   },
   "11-16": {
    "year": 1957,
@@ -3530,7 +3850,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ed-Gein.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.738
+   "aspect": 0.738,
+   "has_blurb": true
   },
   "11-17": {
    "year": 1999,
@@ -3541,7 +3862,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Sleepy_hollow_ver2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.734
+   "aspect": 0.734,
+   "has_blurb": false
   },
   "11-18": {
    "year": 1999,
@@ -3552,7 +3874,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/68/AstronautWife.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.679
+   "aspect": 0.679,
+   "has_blurb": false
   },
   "11-19": {
    "year": 1993,
@@ -3563,7 +3886,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Addams_family_values.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.672
+   "aspect": 0.672,
+   "has_blurb": false
   },
   "11-20": {
    "year": 1997,
@@ -3574,7 +3898,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/Snake_Spring_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.755
+   "aspect": 0.755,
+   "has_blurb": false
   },
   "11-21": {
    "year": 1931,
@@ -3585,7 +3910,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frankenstein_poster_1931.jpg/500px-Frankenstein_poster_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.669
+   "aspect": 0.669,
+   "has_blurb": true
   },
   "11-22": {
    "year": 1991,
@@ -3596,7 +3922,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/04/The_Addams_Family.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.763
+   "aspect": 0.763,
+   "has_blurb": false
   },
   "11-23": {
    "year": 1887,
@@ -3607,7 +3934,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boris_Karloff.jpg/500px-Boris_Karloff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.832
+   "aspect": 0.832,
+   "has_blurb": true
   },
   "11-24": {
    "year": 1999,
@@ -3618,7 +3946,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/73/End_of_days_ver5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.671
+   "aspect": 0.671,
+   "has_blurb": false
   },
   "11-25": {
    "year": 1999,
@@ -3629,7 +3958,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Ravenous_ver1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": false
   },
   "11-26": {
    "year": 1997,
@@ -3640,7 +3970,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Alien_Resurrection_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.668
+   "aspect": 0.668,
+   "has_blurb": false
   },
   "11-27": {
    "year": 1967,
@@ -3651,7 +3982,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Viy_%281967_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.63
+   "aspect": 0.63,
+   "has_blurb": false
   },
   "11-28": {
    "year": 1981,
@@ -3662,7 +3994,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Venom1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "landscape",
-   "aspect": 1.312
+   "aspect": 1.312,
+   "has_blurb": false
   },
   "11-29": {
    "year": 2018,
@@ -3673,7 +4006,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/The_House_That_Jack_Built.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "11-30": {
    "year": 1990,
@@ -3684,7 +4018,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Misery_%281990_film_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "12-01": {
    "year": 2021,
@@ -3695,7 +4030,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Nightmare_Alley_%282021_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "12-02": {
    "year": 1936,
@@ -3706,7 +4042,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/3/37/Sabotage1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "12-03": {
    "year": 2007,
@@ -3717,7 +4054,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Sweeneylarge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.66
+   "aspect": 0.66,
+   "has_blurb": false
   },
   "12-04": {
    "year": 2025,
@@ -3728,7 +4066,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/11/Five_Nights_At_Freddy%27s_2_Movie_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.631
+   "aspect": 0.631,
+   "has_blurb": false
   },
   "12-05": {
    "year": 2007,
@@ -3739,7 +4078,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/d/df/I_am_legend_teaser.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "12-06": {
    "year": 1973,
@@ -3750,7 +4090,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/11/The_Wicker_Man_%281973_film%29_UK_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.709
+   "aspect": 0.709,
+   "has_blurb": false
   },
   "12-07": {
    "year": 2022,
@@ -3761,7 +4102,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/03/M3GAN_Poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.685
+   "aspect": 0.685,
+   "has_blurb": false
   },
   "12-08": {
    "year": 2004,
@@ -3772,7 +4114,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Blade_Trinity_poster.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "12-09": {
    "year": 2004,
@@ -3783,7 +4126,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Anacondas_The_Hunt_for_the_Blood_Orchid_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.671
+   "aspect": 0.671,
+   "has_blurb": false
   },
   "12-10": {
    "year": 1997,
@@ -3794,7 +4138,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/Scream_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "12-11": {
    "year": 2019,
@@ -3805,7 +4150,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Black_Christmas_2019_teaser_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "12-12": {
    "year": 1941,
@@ -3816,7 +4162,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/The-wolfman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.673
+   "aspect": 0.673,
+   "has_blurb": true
   },
   "12-13": {
    "year": 2012,
@@ -3827,7 +4174,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/c/ce/The_Apparition_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "12-14": {
    "year": 1916,
@@ -3838,7 +4186,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Shirley_Jackson_1940s.png/500px-Shirley_Jackson_1940s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "square",
-   "aspect": 0.86
+   "aspect": 0.86,
+   "has_blurb": true
   },
   "12-15": {
    "year": 1974,
@@ -3849,7 +4198,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/Young_Frankenstein_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.611
+   "aspect": 0.611,
+   "has_blurb": false
   },
   "12-16": {
    "year": 1983,
@@ -3860,7 +4210,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Keepposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.661
+   "aspect": 0.661,
+   "has_blurb": false
   },
   "12-17": {
    "year": 1958,
@@ -3871,7 +4222,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/House_on_Haunted_Hill.jpg/500px-House_on_Haunted_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.629
+   "aspect": 0.629,
+   "has_blurb": false
   },
   "12-18": {
    "year": 1981,
@@ -3882,7 +4234,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Ghost_Story.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": false
   },
   "12-19": {
    "year": 1986,
@@ -3893,7 +4246,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Little_shop_of_horrors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.662
+   "aspect": 0.662,
+   "has_blurb": false
   },
   "12-20": {
    "year": 1996,
@@ -3904,7 +4258,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.681
+   "aspect": 0.681,
+   "has_blurb": true
   },
   "12-21": {
    "year": 2018,
@@ -3915,7 +4270,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Bird_Box_%28film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "12-22": {
    "year": 1932,
@@ -3926,7 +4282,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_Mummy_1932_film_poster.jpg/500px-The_Mummy_1932_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "orientation": "portrait",
-   "aspect": 0.651
+   "aspect": 0.651,
+   "has_blurb": false
   },
   "12-23": {
    "year": 2009,
@@ -3937,7 +4294,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/SolomonKANEposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.675
+   "aspect": 0.675,
+   "has_blurb": false
   },
   "12-24": {
    "year": 1976,
@@ -3948,7 +4306,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Town_That_Dreaded_Sundown_1976_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.656
+   "aspect": 0.656,
+   "has_blurb": false
   },
   "12-25": {
    "year": 2007,
@@ -3959,7 +4318,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Aliens_vs_Predator_Requiem_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.676
+   "aspect": 0.676,
+   "has_blurb": false
   },
   "12-26": {
    "year": 1973,
@@ -3970,7 +4330,8 @@
    "source": "curated",
    "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Exorcist_ver2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.667
+   "aspect": 0.667,
+   "has_blurb": true
   },
   "12-27": {
    "year": 1991,
@@ -3981,7 +4342,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Naked_Lunch_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "12-28": {
    "year": 2000,
@@ -3992,7 +4354,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Unbreakableposterwillis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.677
+   "aspect": 0.677,
+   "has_blurb": false
   },
   "12-29": {
    "year": 2000,
@@ -4003,7 +4366,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/ShadowoftheVampireposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.674
+   "aspect": 0.674,
+   "has_blurb": false
   },
   "12-30": {
    "year": 2004,
@@ -4014,7 +4378,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Shaun_of_the_Dead_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "landscape",
-   "aspect": 1.333
+   "aspect": 1.333,
+   "has_blurb": false
   },
   "12-31": {
    "year": 1981,
@@ -4025,7 +4390,8 @@
    "source": "wikidata",
    "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/Basketcaseposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "orientation": "portrait",
-   "aspect": 0.647
+   "aspect": 0.647,
+   "has_blurb": false
   }
  }
 }
