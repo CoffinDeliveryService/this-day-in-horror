@@ -5,11 +5,20 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex flex--row flex--center gap--large portrait:flex--col lg:portrait:flex--col">
-    <img class="image image-dither image--contain flex-none
-                w--56 lg:w--[50cqw] h--80 lg:h--auto
-                lg:h--max-[70cqh] lg:portrait:h--max-[40cqh]"
-         src="{{ entry.image }}" alt="{{ entry.title }}" />
+  <div class="flex flex--row flex--center gap--large lg:portrait:flex--col">
+    {% if entry.orientation == "landscape" %}
+      {% comment %} Wide stills: drive from width, cap the height {% endcomment %}
+      <img class="image image-dither image--contain flex-none
+                  w--64 lg:w--[45cqw] h--auto lg:h--auto
+                  h--max-[70cqh] lg:h--max-[60cqh] lg:portrait:h--max-[40cqh]"
+           src="{{ entry.image }}" alt="{{ entry.title }}" />
+    {% else %}
+      {% comment %} Posters and portraits: drive from height so they fill the view {% endcomment %}
+      <img class="image image-dither image--contain flex-none
+                  h--96 lg:h--[85cqh] w--auto lg:w--auto
+                  w--max-[40cqw] lg:w--max-[45cqw] lg:portrait:h--max-[45cqh]"
+           src="{{ entry.image }}" alt="{{ entry.title }}" />
+    {% endif %}
     <div class="flex flex--col gap--small">
       <span class="label label--base label--underline lg:label--xlarge">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
       <span class="value lg:value--xlarge" data-clamp="2">{{ entry.title }}</span>

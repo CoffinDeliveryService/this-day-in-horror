@@ -5,14 +5,21 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex flex--row flex--center gap--medium lg:portrait:flex--col">
-    <img class="image image-dither image--contain flex-none
-                w--24 lg:w--[20cqw] h--32 lg:h--auto
-                lg:h--max-[70cqh] portrait:h--max-[30cqh]"
-         src="{{ entry.image }}" alt="{{ entry.title }}" />
+  <div class="flex flex--row flex--center gap--medium">
+    {% if entry.orientation == "landscape" %}
+      <img class="image image-dither image--contain flex-none
+                  w--32 lg:w--[26cqw] h--auto
+                  h--max-[80cqh] lg:h--max-[80cqh]"
+           src="{{ entry.image }}" alt="{{ entry.title }}" />
+    {% else %}
+      <img class="image image-dither image--contain flex-none
+                  h--40 lg:h--[82cqh] w--auto
+                  w--max-[22cqw] lg:w--max-[24cqw]"
+           src="{{ entry.image }}" alt="{{ entry.title }}" />
+    {% endif %}
     <div class="flex flex--col gap--xsmall">
       <span class="label label--base lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-      <span class="value lg:value--large">{{ entry.title }}</span>
+      <span class="value lg:value--large" data-clamp="2">{{ entry.title }}</span>
       <p class="description description--base lg:description--large" data-clamp="2" data-clamp-lg="3">{{ entry.fact }}</p>
     </div>
   </div>
