@@ -9,4 +9,4 @@ name: This Day in Horror
 refresh_interval: 15
 strategy: static
 dark_mode: "no"
-# static_data: contents of data/static_data.json (86 KB, 366 days)
+# static_data: contents of data/static_data.json (67 KB, 366 days)
