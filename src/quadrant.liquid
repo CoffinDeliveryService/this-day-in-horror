@@ -4,15 +4,15 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex flex--col lg:flex--row lg:portrait:flex--col flex--center gap--xsmall text--center">
+  <div class="flex flex--row portrait:flex--col flex--center gap--xsmall text--center">
     {% if entry.orientation == "landscape" %}
-      <img class="hidden lg:visible image image-dither image--contain flex-none
-                  lg:w--[46cqw] h--auto lg:h--max-[58cqh]"
+      <img class="image image-dither image--contain flex-none
+                  w--[46cqw] h--auto h--max-[58cqh]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% else %}
-      <img class="hidden lg:visible image image-dither image--contain flex-none
-                  lg:h--[58cqh] w--auto lg:w--max-[46cqw]
-                  lg:portrait:h--max-[48cqh]"
+      <img class="image image-dither image--contain flex-none
+                  h--[58cqh] w--auto w--max-[46cqw]
+                  portrait:h--max-[48cqh]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% endif %}
     <div class="flex flex--col">
