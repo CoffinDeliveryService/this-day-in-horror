@@ -4,9 +4,21 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex flex--col flex--center gap--xsmall text--center">
-    <span class="label label--base lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-    <span class="value lg:value--large" data-clamp="3">{{ entry.title }}</span>
+  <div class="flex flex--col lg:flex--row lg:portrait:flex--col flex--center gap--xsmall text--center">
+    {% if entry.orientation == "landscape" %}
+      <img class="hidden lg:visible image image-dither image--contain flex-none
+                  lg:w--[46cqw] h--auto lg:h--max-[58cqh]"
+           src="{{ entry.image }}" alt="{{ entry.title }}" />
+    {% else %}
+      <img class="hidden lg:visible image image-dither image--contain flex-none
+                  lg:h--[58cqh] w--auto lg:w--max-[46cqw]
+                  lg:portrait:h--max-[48cqh]"
+           src="{{ entry.image }}" alt="{{ entry.title }}" />
+    {% endif %}
+    <div class="flex flex--col">
+      <span class="label label--base lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
+      <span class="value lg:value--large" data-clamp="3">{{ entry.title }}</span>
+    </div>
   </div>
 </div>
 {% else %}
