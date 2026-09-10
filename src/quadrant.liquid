@@ -5,22 +5,27 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex flex--row portrait:flex--col flex--center gap--xsmall text--center">
+  {% if entry.orientation == "landscape" %}
+    {% assign dir = "flex--col" %}
+  {% else %}
+    {% assign dir = "flex--row portrait:flex--col" %}
+  {% endif %}
+  <div class="flex {{ dir }} flex--center gap--xsmall text--center">
     {% if entry.orientation == "landscape" %}
-      <img class="image image-dither image--contain flex-none
-                  w--[46cqw] h--auto h--max-[58cqh]
-                  portrait:h--max-[38cqh]"
+      <img class="image image-dither image--contain
+                  w--[92cqw] h--auto h--max-[62cqh]
+                  portrait:h--max-[50cqh]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% else %}
-      <img class="image image-dither image--contain flex-none
-                  h--[58cqh] w--auto w--max-[46cqw]
-                  portrait:h--max-[38cqh]"
+      <img class="image image-dither image--contain landscape:flex-none
+                  h--[92cqh] w--auto w--max-[42cqw]
+                  portrait:h--[64cqh] portrait:w--max-[70cqw]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% endif %}
-    <div class="flex flex--col">
+    <div class="flex flex--col flex--center gap--xsmall {% if entry.orientation == "landscape" %}w--[94cqw]{% else %}w--[50cqw] portrait:w--[94cqw]{% endif %}">
       <span class="label label--small lg:label--base">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-      <span class="value value--xsmall portrait:value--xxsmall lg:value--base lg:portrait:value--small"
-            data-clamp="3">{{ entry.title }}</span>
+      <span class="value value--xsmall portrait:value--xsmall lg:value--base lg:portrait:value--small"
+            data-clamp="4">{{ entry.title }}</span>
     </div>
   </div>
 </div>
