@@ -5,29 +5,30 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex {% if entry.orientation == "landscape" %}flex--col{% else %}flex--row{% endif %} flex--center gap--large lg:portrait:flex--col">
+  {% if entry.orientation == "landscape" %}{% assign dir = "flex--col" %}{% else %}{% assign dir = "flex--row portrait:flex--col" %}{% endif %}
+  {% if entry.orientation == "landscape" %}{% assign tw = "w--[92cqw]" %}{% else %}{% assign tw = "w--[48cqw] portrait:w--[92cqw]" %}{% endif %}
+  <div class="flex {{ dir }} flex--center gap--medium text--center">
     {% if entry.orientation == "landscape" %}
-      {% comment %} Wide stills stack above the text so they can use the full width {% endcomment %}
-      <img class="image image-dither image--contain flex-none
-                  w--[72cqw] lg:w--[68cqw] h--auto
-                  h--max-[62cqh] lg:h--max-[58cqh] lg:portrait:h--max-[40cqh]"
+      <img class="image image-dither image--contain
+                  w--[88cqw] h--auto h--max-[64cqh]
+                  portrait:h--max-[46cqh]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% else %}
-      {% comment %} Posters sit beside the text, driven from height {% endcomment %}
-      <img class="image image-dither image--contain flex-none
-                  h--[88cqh] lg:h--[85cqh] w--auto
-                  w--max-[42cqw] lg:w--max-[45cqw] lg:portrait:h--max-[45cqh]"
+      <img class="image image-dither image--contain landscape:flex-none
+                  h--[92cqh] w--auto w--max-[46cqw]
+                  portrait:h--[60cqh] portrait:w--max-[80cqw]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% endif %}
-    <div class="flex flex--col flex--center gap--small text--center">
-      <span class="label label--large label--underline lg:label--xlarge">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-      <span class="value lg:value--xxlarge" data-clamp="3">{{ entry.title }}</span>
+    <div class="flex flex--col flex--center gap--small {{ tw }}">
+      <span class="label label--base lg:label--large label--underline">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
+      <span class="value value--base portrait:value--small lg:value--large lg:portrait:value--base"
+            data-clamp="4">{{ entry.title }}</span>
     </div>
   </div>
 </div>
 {% else %}
 <div class="layout layout--center">
-  <span class="value value--large lg:value--xxlarge">The archive is silent today&hellip;</span>
+  <span class="value value--large lg:value--xlarge">The archive is silent today&hellip;</span>
 </div>
 {% endif %}
 

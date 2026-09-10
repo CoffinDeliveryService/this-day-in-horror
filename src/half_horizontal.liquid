@@ -5,26 +5,27 @@
 
 {% if entry %}
 <div class="layout layout--center">
-  <div class="flex flex--row flex--center gap--medium">
+  {% if entry.orientation == "landscape" %}{% assign tw = "w--[48cqw] portrait:w--[94cqw]" %}{% else %}{% assign tw = "w--[62cqw] portrait:w--[94cqw]" %}{% endif %}
+  <div class="flex flex--row portrait:flex--col flex--center gap--small text--center">
     {% if entry.orientation == "landscape" %}
-      <img class="image image-dither image--contain flex-none
-                  w--[30cqw] lg:w--[30cqw] h--auto
-                  h--max-[86cqh] lg:h--max-[86cqh]"
+      <img class="image image-dither image--contain landscape:flex-none
+                  w--[46cqw] h--auto h--max-[92cqh]
+                  portrait:w--[88cqw] portrait:h--max-[52cqh]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% else %}
-      <img class="image image-dither image--contain flex-none
-                  h--[88cqh] lg:h--[88cqh] w--auto
-                  w--max-[24cqw] lg:w--max-[26cqw]"
+      <img class="image image-dither image--contain landscape:flex-none
+                  h--[92cqh] w--auto w--max-[32cqw]
+                  portrait:h--[56cqh] portrait:w--max-[62cqw]"
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% endif %}
-    <div class="flex flex--col gap--xsmall text--center">
+    <div class="flex flex--col flex--center gap--xsmall {{ tw }}">
       <span class="label label--base lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-      <span class="value lg:value--xlarge" data-clamp="2">{{ entry.title }}</span>
+      <span class="value value--base lg:value--large" data-clamp="4">{{ entry.title }}</span>
     </div>
   </div>
 </div>
 {% else %}
-<div class="layout layout--center"><span class="value lg:value--large">The archive is silent today&hellip;</span></div>
+<div class="layout layout--center"><span class="value value--base lg:value--large">The archive is silent today&hellip;</span></div>
 {% endif %}
 
 <div class="title_bar">
