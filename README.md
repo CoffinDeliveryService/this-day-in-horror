@@ -4,10 +4,16 @@ A TRMNL plugin that shows one piece of horror history for the current date — a
 film released that day, or a birth or death in the genre — with an image, the
 year, and the title, dithered for e-ink.
 
+**[Install it from the TRMNL recipe directory](https://usetrmnl.com/recipes/444021)** — one click, nothing to set up.
+
 ## Install
 
+The easiest route is the published recipe:
+**[usetrmnl.com/recipes/444021](https://usetrmnl.com/recipes/444021)** → Install.
 Nothing to host, no account to connect, no maintenance. The full year ships
 inside the plugin.
+
+To set it up by hand instead — or to run a modified copy:
 
 1. On usetrmnl.com go to **Plugins → Private Plugin → Add New** and name it
    `This Day in Horror`.
