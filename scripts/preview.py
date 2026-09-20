@@ -29,6 +29,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CSS_URL = "https://trmnl.com/css/latest/plugins.css"
+FONT_BASE = "https://trmnl.com"
 JS_URL = "https://trmnl.com/js/latest/plugins.js"
 CSS_MAX_AGE = 7 * 24 * 3600  # re-download the cached framework CSS weekly
 
