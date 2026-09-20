@@ -4,6 +4,7 @@
 {% assign entry = days[mmdd] %}
 
 {% if entry %}
+{% if entry.lw %}{% assign tcls = "value--xxsmall portrait:value--xxsmall lg:value--small lg:portrait:value--xsmall" %}{% else %}{% assign tcls = "value--xsmall portrait:value--xsmall lg:value--base lg:portrait:value--small" %}{% endif %}
 <div class="layout layout--center">
   {% if entry.orientation == "landscape" %}
     {% assign dir = "flex--col" %}
@@ -24,7 +25,7 @@
     {% endif %}
     <div class="flex flex--col flex--center gap--xsmall {% if entry.orientation == "landscape" %}w--[94cqw]{% else %}w--[50cqw] portrait:w--[94cqw]{% endif %}">
       <span class="label label--small lg:label--base">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-      <span class="value value--xsmall portrait:value--xsmall lg:value--base lg:portrait:value--small"
+      <span class="value {{ tcls }}"
             data-clamp="4">{{ entry.title }}</span>
     </div>
   </div>
