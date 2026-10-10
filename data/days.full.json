@@ -169,7 +169,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/28_Years_Later%2C_The_Bone_Temple_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.675,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 6
     },
     "01-15": {
       "year": 2007,
@@ -253,7 +254,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Pride_and_Prejudice_and_Zombies_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.676,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 9
     },
     "01-22": {
       "year": 1998,
@@ -434,7 +436,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg/500px-Invasion_of_the_Body_Snatchers_%281956_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "orientation": "portrait",
       "aspect": 0.668,
-      "has_blurb": true
+      "has_blurb": true,
+      "lw": 9
     },
     "02-06": {
       "year": 2009,
@@ -471,7 +474,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/A_Nightmare_on_Elm_Street_5_-_The_Dream_Child_-US_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.657,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 9
     },
     "02-09": {
       "year": 2001,
@@ -555,7 +559,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Winnie_the_Pooh%2C_Blood_and_Honey_Film_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "landscape",
       "aspect": 1.337,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 6
     },
     "02-16": {
       "year": 2017,
@@ -579,7 +584,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Ghost_Rider_2_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.674,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 9
     },
     "02-18": {
       "year": 2000,
@@ -688,7 +694,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/4/43/I_Still_Know_What_You_Did_Last_Summer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.679,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 6
     },
     "02-27": {
       "year": 1920,
@@ -784,7 +791,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Creature_from_the_Black_Lagoon_poster.jpg/500px-Creature_from_the_Black_Lagoon_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "orientation": "portrait",
       "aspect": 0.66,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 8
     },
     "03-06": {
       "year": 1987,
@@ -1425,7 +1433,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Godzilla%2C_King_of_the_Monsters%21_%28U.S._release_poster%29.jpg/500px-Godzilla%2C_King_of_the_Monsters%21_%28U.S._release_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "orientation": "portrait",
       "aspect": 0.666,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 9
     },
     "04-28": {
       "year": 1994,
@@ -1533,7 +1542,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.674,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 10
     },
     "05-07": {
       "year": 2015,
@@ -2051,7 +2061,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Abraham_Lincoln_-_Vampire_Hunter_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.679,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 7
     },
     "06-19": {
       "year": 2014,
@@ -2327,7 +2338,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Halloween5poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.652,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 9
     },
     "07-12": {
       "year": 2019,
@@ -2483,7 +2495,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Mummy_-_Tomb_of_the_Dragon_Emperor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.677,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 7
     },
     "07-25": {
       "year": 1980,
@@ -2904,7 +2917,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MaryExecution.jpg/500px-MaryExecution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "orientation": "landscape",
       "aspect": 1.333,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 9
     },
     "08-29": {
       "year": 1974,
@@ -3024,7 +3038,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Perfume_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.677,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 8
     },
     "09-08": {
       "year": 2017,
@@ -3290,7 +3305,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Halloween6cover.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.674,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 9
     },
     "09-30": {
       "year": 1972,
@@ -3374,7 +3390,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Texas_chainsaw_massacre_the_beginning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.674,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 9
     },
     "10-07": {
       "year": 1849,
@@ -3506,7 +3523,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/I_Know_What_You_Did_Last_Summer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.691,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 6
     },
     "10-18": {
       "year": 2002,
@@ -3662,7 +3680,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Orson_Welles_War_of_the_Worlds_1938.jpg/500px-Orson_Welles_War_of_the_Worlds_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "orientation": "landscape",
       "aspect": 1.315,
-      "has_blurb": true
+      "has_blurb": true,
+      "lw": 9
     },
     "10-31": {
       "year": 1926,
@@ -3698,7 +3717,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Witchboard_III_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.668,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 10
     },
     "11-03": {
       "year": 1954,
@@ -3746,7 +3766,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/TheHouseOnTheEdgeOfThePark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.685,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 5
     },
     "11-07": {
       "year": 2002,
@@ -4074,7 +4095,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Sweeneylarge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.66,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 7
     },
     "12-04": {
       "year": 2025,
@@ -4146,7 +4168,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Anacondas_The_Hunt_for_the_Blood_Orchid_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "orientation": "portrait",
       "aspect": 0.671,
-      "has_blurb": false
+      "has_blurb": false,
+      "lw": 9
     },
     "12-10": {
       "year": 1997,
