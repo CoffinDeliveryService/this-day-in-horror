@@ -18,7 +18,7 @@
            src="{{ entry.image }}" alt="{{ entry.title }}" />
     {% endif %}
     <span class="label label--base lg:label--large">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-    <span class="value {{ tcls }}" data-clamp="4">{{ entry.title }}</span>
+    <span class="value {{ tcls }}">{{ entry.title }}</span>
   </div>
 </div>
 {% else %}

@@ -25,8 +25,7 @@
     {% endif %}
     <div class="flex flex--col flex--center gap--xsmall {% if entry.orientation == "landscape" %}w--[94cqw]{% else %}w--[50cqw] portrait:w--[94cqw]{% endif %}">
       <span class="label label--small lg:label--base">{{ entry.category | upcase }} &bull; {{ entry.year }}</span>
-      <span class="value {{ tcls }}"
-            data-clamp="4">{{ entry.title }}</span>
+      <span class="value {{ tcls }}">{{ entry.title }}</span>
     </div>
   </div>
 </div>
