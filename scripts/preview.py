@@ -224,8 +224,31 @@ def framework_css(out_dir):
                 print("           preview will be unstyled and NOT representative.")
                 return CSS_URL
             print(f"  note: using cached framework CSS (refresh failed: {e})")
+    cache_fonts(out_dir, css.read_text(errors="replace"))
     return css.name
 
+
+
+def cache_fonts(out_dir, css_text):
+    """The framework CSS references /fonts/*; mirror them so text measures correctly.
+
+    Without the real Inter, the browser silently substitutes a fallback that is
+    ~8% narrower, which makes every width/line-count check optimistic.
+    """
+    import urllib.request
+    names = sorted(set(re.findall(r'url\("/fonts/([^"]+)"\)', css_text)))
+    fonts = out_dir / "fonts"
+    fonts.mkdir(exist_ok=True)
+    for n in names:
+        dest = fonts / n
+        if dest.exists() and dest.stat().st_size:
+            continue
+        try:
+            req = urllib.request.Request(FONT_BASE + "/fonts/" + n,
+                                         headers={"User-Agent": "Mozilla/5.0"})
+            dest.write_bytes(urllib.request.urlopen(req, timeout=60).read())
+        except Exception as exc:
+            print(f"  warning: could not cache font {n}: {exc}")
 
 def framework_js(out_dir):
     """Cache plugins.js — it implements the data-clamp / clamp--N line clamping,

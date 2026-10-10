@@ -22,6 +22,26 @@ HEADERS = {"User-Agent": "ThisDayInHorror/1.0 (personal TRMNL e-ink plugin)"}
 MIN_SITELINKS = 1  # floor for auto-filled films (top pick per day is by sitelinks anyway)
 
 # Films Wikidata tags as "horror" that don't belong on a horror calendar
+
+WORD_MIN, LEN_MIN = 11, 30
+
+def longest_word(title):
+    """Longest token that cannot be broken across lines."""
+    return max((len(t.rstrip(":")) for t in re.split(r"[\s\-\u2013\u2014/]+", title)), default=0)
+
+
+def flag_long_titles(days):
+    """Mark entries whose title needs a smaller size to avoid being clipped.
+
+    Either a single word too wide for a narrow column, or an overall title long
+    enough to need more lines than the clamp allows.
+    """
+    for v in days.values():
+        v.pop("lw", None)
+        lw = longest_word(v["title"])
+        if lw >= WORD_MIN or len(v["title"]) >= LEN_MIN:
+            v["lw"] = lw
+
 BLOCKLIST = {
     "Apocalypse Now", "Gravity (2013 film)", "Memento (film)",
     "Mulholland Drive (film)", "Blood Simple", "Blue Velvet (film)",
