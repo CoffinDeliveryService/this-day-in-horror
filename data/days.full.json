@@ -3623,16 +3623,16 @@
       "has_blurb": true
     },
     "10-26": {
-      "year": 1984,
+      "year": 2001,
       "category": "release",
-      "title": "The Terminator",
-      "fact": "The Terminator first hit screens on this day in 1984.",
-      "wiki": "The Terminator",
-      "source": "wikidata",
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/The_Terminator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "title": "Donnie Darko",
+      "fact": "Donnie Darko premiered at Sundance in January 2001 and reached US theaters on this day that October.",
+      "wiki": "Donnie Darko",
+      "source": "curated",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Donnie_Darko_poster.jpg",
       "orientation": "portrait",
-      "aspect": 0.675,
-      "has_blurb": false
+      "aspect": 0.667,
+      "has_blurb": true
     },
     "10-27": {
       "year": 2006,
