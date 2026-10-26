@@ -11,6 +11,7 @@
 Run:  python3 scripts/build.py
 """
 import json
+import re
 import time
 import calendar
 import urllib.request
